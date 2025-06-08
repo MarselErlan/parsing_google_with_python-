@@ -1,0 +1,328 @@
+URL: https://jobs.lever.co/kodiak/0c69e76a-6a86-4316-a22f-524d8a0f6a72
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: New Grad Applied AI Engineer - Computer Vision
+    • h3: In this role, you will:
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • li: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.
+    • li: Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.
+    • li: Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.
+    • li: Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.
+    • li: Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • h3: Qualifications:
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • li: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+    • li: A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+    • li: Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+    • li: Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+    • li: Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • h3: Benefits:
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • li: Competitive compensation package including equity and biannual bonuses
+    • li: Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)
+    • li: Flexible PTO and generous parental leave policies
+    • li: Our office is centrally located in Mountain View, CA
+    • li: Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging
+    • li: Long Term Disability, Short Term Disability, Life Insurance
+    • li: Wellbeing Benefits - Headspace, One Medical, Gympass, Spring Health
+    • li: Fidelity 401(k)
+    • li: Commuter, FSA, Dependent Care FSA, HSA
+    • li: Various incentive programs (referral bonuses, patent bonuses, etc.)
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: New Grad Applied AI Engineer - Computer Vision
+    • h3: In this role, you will:
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • li: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.
+    • li: Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.
+    • li: Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.
+    • li: Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.
+    • li: Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • h3: Qualifications:
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • li: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+    • li: A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+    • li: Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+    • li: Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+    • li: Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • h3: Benefits:
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • li: Competitive compensation package including equity and biannual bonuses
+    • li: Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)
+    • li: Flexible PTO and generous parental leave policies
+    • li: Our office is centrally located in Mountain View, CA
+    • li: Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging
+    • li: Long Term Disability, Short Term Disability, Life Insurance
+    • li: Wellbeing Benefits - Headspace, One Medical, Gympass, Spring Health
+    • li: Fidelity 401(k)
+    • li: Commuter, FSA, Dependent Care FSA, HSA
+    • li: Various incentive programs (referral bonuses, patent bonuses, etc.)
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: New Grad Applied AI Engineer - Computer Vision
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: New Grad Applied AI Engineer - Computer Vision
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: New Grad Applied AI Engineer - Computer Vision
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 14]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 15]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: In this role, you will:
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • li: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.
+    • li: Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.
+    • li: Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.
+    • li: Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.
+    • li: Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • h3: Qualifications:
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • li: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+    • li: A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+    • li: Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+    • li: Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+    • li: Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • h3: Benefits:
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • li: Competitive compensation package including equity and biannual bonuses
+    • li: Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)
+    • li: Flexible PTO and generous parental leave policies
+    • li: Our office is centrally located in Mountain View, CA
+    • li: Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging
+    • li: Long Term Disability, Short Term Disability, Life Insurance
+    • li: Wellbeing Benefits - Headspace, One Medical, Gympass, Spring Health
+    • li: Fidelity 401(k)
+    • li: Commuter, FSA, Dependent Care FSA, HSA
+    • li: Various incentive programs (referral bonuses, patent bonuses, etc.)
+
+[Div 16]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 20]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: In this role, you will:
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • li: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.
+    • li: Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.
+    • li: Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.
+    • li: Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.
+    • li: Collaborate closely with other experts on the team, including the planning and systems engineering team.
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: In this role, you will:
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • ul: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.Collaborate closely with other experts on the team, including the planning and systems engineering team.
+    • li: Be responsible for designing machine learning algorithms and implementing them in robust, efficient, and well-tested C++ and/or Python code.
+    • li: Lead the development of deep neural networks to solve real-world robotics challenges such as lane detection, object detection and classification, sensor fusion, tracking, prediction, anomaly detection, and planning.
+    • li: Work with camera, laser, radar, and ultrasound data and curate datasets for machine learning.
+    • li: Set up automated training pipelines and develop data analytics tools to incrementally improve our performance on a growing dataset.
+    • li: Collaborate closely with other experts on the team, including the planning and systems engineering team.
+
+[Div 22]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Qualifications:
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • li: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+    • li: A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+    • li: Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+    • li: Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+    • li: Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Qualifications:
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • ul: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+    • li: Strong technical background. BS, MS or PhD with academic or at least 1+ years industry/internship experience in designing and implementing deep neural networks. You are a skilled software engineer with experience in Python/ C++ and strong problem-solving skills. You are passionate about solving real-world robotics problems, and you have ideally worked on autonomous robots before. You ideally also have a strong knowledge of data processing pipelines for training ML models in the cloud.
+    • li: A team player. You take ownership and work with the team to deliver exceptional results. You are interested in the performance of the entire system across engineering disciplines.
+    • li: Ability to build and iterate quickly. You enjoy working fast and smart, and you are comfortable in the earlier stages of developing an algorithm from scratch.
+    • li: Hands on. You are not only passionate about ML research but also experienced working with production machine learning pipelines, from dataset collection and labeling to training and validation.
+    • li: Great communicator. You have experience writing clear, concise, and detailed documentation. You can enable your colleagues to leverage the ML models resulting from your work in their algorithms and systems.
+
+[Div 24]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Benefits:
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • li: Competitive compensation package including equity and biannual bonuses
+    • li: Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)
+    • li: Flexible PTO and generous parental leave policies
+    • li: Our office is centrally located in Mountain View, CA
+    • li: Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging
+    • li: Long Term Disability, Short Term Disability, Life Insurance
+    • li: Wellbeing Benefits - Headspace, One Medical, Gympass, Spring Health
+    • li: Fidelity 401(k)
+    • li: Commuter, FSA, Dependent Care FSA, HSA
+    • li: Various incentive programs (referral bonuses, patent bonuses, etc.)
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Benefits:
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • ul: Competitive compensation package including equity and biannual bonusesExcellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)Flexible PTO and generous parental leave policiesOur office is centrally located in Mountain View, CAOffice perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV chargingLong Term Disability, Short Term Disability, Life InsuranceWellbeing Benefits - Headspace, One Medical, Gympass, Spring HealthFidelity 401(k)Commuter, FSA, Dependent Care FSA, HSAVarious incentive programs (referral bonuses, patent bonuses, etc.)
+    • li: Competitive compensation package including equity and biannual bonuses
+    • li: Excellent Medical, Dental, and Vision plans through Kaiser Permanente, Anthem, and Guardian (including a medical plan with infertility benefits)
+    • li: Flexible PTO and generous parental leave policies
+    • li: Our office is centrally located in Mountain View, CA
+    • li: Office perks: dog-friendly, free catered lunch, a fully stocked kitchen, and free EV charging
+    • li: Long Term Disability, Short Term Disability, Life Insurance
+    • li: Wellbeing Benefits - Headspace, One Medical, Gympass, Spring Health
+    • li: Fidelity 401(k)
+    • li: Commuter, FSA, Dependent Care FSA, HSA
+    • li: Various incentive programs (referral bonuses, patent bonuses, etc.)
+
+[Div 26]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 30]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 32]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 33]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Kodiak Home Page
+
+[Div 34]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Kodiak Home Page
+
+
+🧾 Form Fields:

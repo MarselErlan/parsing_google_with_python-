@@ -1,0 +1,351 @@
+URL: https://jobs.eu.lever.co/pnlfin/dd079c7f-82b3-4db4-9b98-e9891ea5b08e
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['cc-revoke', 'cc-bottom', 'cc-animate']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['cc-window', 'cc-banner', 'cc-type-opt-in', 'cc-theme-block', 'cc-bottom']
+  ➤ id: None
+  ➤ child tags: div
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.
+
+[Div 3]
+  ➤ class: ['momentum-body']
+  ➤ id: None
+  ➤ child tags: div
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.
+
+[Div 4]
+  ➤ class: ['message', 'message-inverse', 'flex-column']
+  ➤ id: None
+  ➤ child tags: div, p, h4
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.
+
+[Div 5]
+  ➤ class: ['icon']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['message-buttons', 'cc-desktop']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 7]
+  ➤ class: ['self-end', 'cc-mobile', 'm1']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 8]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 9]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 11]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+    • h3: What You Will Be Doing
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • li: Build and deploy robust AI solutions for customers and internal teams
+    • li: Design and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.
+    • li: Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.
+    • li: Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary ones
+    • li: Participate in strategic planning, brainstorming & prioritization sessions to improve the product
+    • li: Collaborate with technical and non-technical colleagues to deliver high-quality software solutions
+    • li: Stay updated with industry trends and technologies to bring innovative ideas to the team.
+    • h3: Who you are
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • li: Proficiency in Python. Experience in async programming in Python
+    • li: Hands-on experience with Large Language Models and passion to build AI Agents
+    • li: Enjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend services
+    • li: Proficiency in working with databases and data storage solutions
+    • li: Solid understanding of software development principles, design patterns, and best practices.
+    • li: Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-making
+    • li: Excellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teams
+    • li: Pick up new ideas and technologies quickly, love learning and talking to others about them
+    • h3: Nice to have
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • li: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)
+    • li: Hands-on experience with DataBricks, Spark and MLFlow
+    • li: Experience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applications
+    • li: Comprehensive understanding of classical machine learning techniques.
+    • li: Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.
+    • li: Skilled in developing and maintaining analytical dashboards for business and ML metrics
+    • li: Back-end experience
+
+[Div 12]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+    • h3: What You Will Be Doing
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • li: Build and deploy robust AI solutions for customers and internal teams
+    • li: Design and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.
+    • li: Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.
+    • li: Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary ones
+    • li: Participate in strategic planning, brainstorming & prioritization sessions to improve the product
+    • li: Collaborate with technical and non-technical colleagues to deliver high-quality software solutions
+    • li: Stay updated with industry trends and technologies to bring innovative ideas to the team.
+    • h3: Who you are
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • li: Proficiency in Python. Experience in async programming in Python
+    • li: Hands-on experience with Large Language Models and passion to build AI Agents
+    • li: Enjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend services
+    • li: Proficiency in working with databases and data storage solutions
+    • li: Solid understanding of software development principles, design patterns, and best practices.
+    • li: Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-making
+    • li: Excellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teams
+    • li: Pick up new ideas and technologies quickly, love learning and talking to others about them
+    • h3: Nice to have
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • li: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)
+    • li: Hands-on experience with DataBricks, Spark and MLFlow
+    • li: Experience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applications
+    • li: Comprehensive understanding of classical machine learning techniques.
+    • li: Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.
+    • li: Skilled in developing and maintaining analytical dashboards for business and ML metrics
+    • li: Back-end experience
+
+[Div 13]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+
+[Div 14]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+
+[Div 15]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: AI Engineer
+
+[Div 16]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 18]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 19]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 20]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 22]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What You Will Be Doing
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • li: Build and deploy robust AI solutions for customers and internal teams
+    • li: Design and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.
+    • li: Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.
+    • li: Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary ones
+    • li: Participate in strategic planning, brainstorming & prioritization sessions to improve the product
+    • li: Collaborate with technical and non-technical colleagues to deliver high-quality software solutions
+    • li: Stay updated with industry trends and technologies to bring innovative ideas to the team.
+    • h3: Who you are
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • li: Proficiency in Python. Experience in async programming in Python
+    • li: Hands-on experience with Large Language Models and passion to build AI Agents
+    • li: Enjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend services
+    • li: Proficiency in working with databases and data storage solutions
+    • li: Solid understanding of software development principles, design patterns, and best practices.
+    • li: Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-making
+    • li: Excellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teams
+    • li: Pick up new ideas and technologies quickly, love learning and talking to others about them
+    • h3: Nice to have
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • li: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)
+    • li: Hands-on experience with DataBricks, Spark and MLFlow
+    • li: Experience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applications
+    • li: Comprehensive understanding of classical machine learning techniques.
+    • li: Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.
+    • li: Skilled in developing and maintaining analytical dashboards for business and ML metrics
+    • li: Back-end experience
+
+[Div 23]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 27]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What You Will Be Doing
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • li: Build and deploy robust AI solutions for customers and internal teams
+    • li: Design and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.
+    • li: Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.
+    • li: Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary ones
+    • li: Participate in strategic planning, brainstorming & prioritization sessions to improve the product
+    • li: Collaborate with technical and non-technical colleagues to deliver high-quality software solutions
+    • li: Stay updated with industry trends and technologies to bring innovative ideas to the team.
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What You Will Be Doing
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • ul: Build and deploy robust AI solutions for customers and internal teamsDesign and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary onesParticipate in strategic planning, brainstorming & prioritization sessions to improve the productCollaborate with technical and non-technical colleagues to deliver high-quality software solutionsStay updated with industry trends and technologies to bring innovative ideas to the team.
+    • li: Build and deploy robust AI solutions for customers and internal teams
+    • li: Design and deliver products utilizing novel GenAI-based approaches, such as RAG, LLM Agents,  etc.
+    • li: Develop approaches for evaluating and optimizing LLM-based pipelines to ensure a solid foundation for improving business KPIs by validating hypotheses.
+    • li: Optimize open-source LLMs to achieve high-quality performance in a narrow domain, enabling the use of these models without relying on large proprietary ones
+    • li: Participate in strategic planning, brainstorming & prioritization sessions to improve the product
+    • li: Collaborate with technical and non-technical colleagues to deliver high-quality software solutions
+    • li: Stay updated with industry trends and technologies to bring innovative ideas to the team.
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 30]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Who you are
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • li: Proficiency in Python. Experience in async programming in Python
+    • li: Hands-on experience with Large Language Models and passion to build AI Agents
+    • li: Enjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend services
+    • li: Proficiency in working with databases and data storage solutions
+    • li: Solid understanding of software development principles, design patterns, and best practices.
+    • li: Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-making
+    • li: Excellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teams
+    • li: Pick up new ideas and technologies quickly, love learning and talking to others about them
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Who you are
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • ul: Proficiency in Python. Experience in async programming in PythonHands-on experience with Large Language Models and passion to build AI AgentsEnjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend servicesProficiency in working with databases and data storage solutionsSolid understanding of software development principles, design patterns, and best practices.Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-makingExcellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teamsPick up new ideas and technologies quickly, love learning and talking to others about them
+    • li: Proficiency in Python. Experience in async programming in Python
+    • li: Hands-on experience with Large Language Models and passion to build AI Agents
+    • li: Enjoy working across the full stack, contributing to all layers of feature development: designing, developing, and maintaining backend services
+    • li: Proficiency in working with databases and data storage solutions
+    • li: Solid understanding of software development principles, design patterns, and best practices.
+    • li: Data-driven mindset with a passion for experimenting and using customer feedback to drive decision-making
+    • li: Excellent problem-solving skills and the ability to pay attention to detail and to collaborate with cross-functional teams
+    • li: Pick up new ideas and technologies quickly, love learning and talking to others about them
+
+[Div 32]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Nice to have
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • li: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)
+    • li: Hands-on experience with DataBricks, Spark and MLFlow
+    • li: Experience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applications
+    • li: Comprehensive understanding of classical machine learning techniques.
+    • li: Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.
+    • li: Skilled in developing and maintaining analytical dashboards for business and ML metrics
+    • li: Back-end experience
+
+[Div 33]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Nice to have
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • ul: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)Hands-on experience with DataBricks, Spark and MLFlowExperience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applicationsComprehensive understanding of classical machine learning techniques.Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.Skilled in developing and maintaining analytical dashboards for business and ML metricsBack-end experience
+    • li: Familiarity with LangChain, LangGraph, MCP and its applications (or alternatives)
+    • li: Hands-on experience with DataBricks, Spark and MLFlow
+    • li: Experience in fine-tuning, optimizing and deploying open-source LLMs for domain-specific applications
+    • li: Comprehensive understanding of classical machine learning techniques.
+    • li: Knowledge of Natural Language Processing (NLP), especially transformer-based approaches, is a plus.
+    • li: Skilled in developing and maintaining analytical dashboards for business and ML metrics
+    • li: Back-end experience
+
+[Div 34]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 35]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Finom Home Page
+
+[Div 36]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Finom Home Page
+
+
+🧾 Form Fields:

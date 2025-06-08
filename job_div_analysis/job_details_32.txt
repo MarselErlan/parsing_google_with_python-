@@ -1,0 +1,2752 @@
+URL: https://www.linkedin.com/jobs/view/ai-ml-engineer-dublin-us-at-articul8-ai-4174514689
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['search-bar__full-placeholder', 'font-sans', 'text-md', 'text-color-text', 'max-w-[calc(100%-40px)]', 'text-left', 'whitespace-nowrap', 'overflow-hidden', 'text-ellipsis']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['switcher-tabs__trigger-and-tabs', 'babymamabear:flex']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 3]
+  ➤ class: ['hidden']
+  ➤ id: switcher-description
+  ➤ child tags: 
+
+[Div 4]
+  ➤ class: ['switcher-tabs', 'hidden', 'z-[1]', 'w-auto', 'min-w-[160px]', 'mb-1.5', 'py-1', 'absolute', 'top-[48px]', 'left-0', 'border-solid', 'border-1', 'border-color-border-faint', 'papabear:container-raised', 'babymamabear:static', 'babymamabear:w-[100vw]', 'babymamabear:h-[48px]', 'babymamabear:p-0', 'overflow-y-hidden', 'overflow-x-auto', 'md:overflow-x-hidden']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 5]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 6]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 7]
+  ➤ class: ['search-bar__live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 8]
+  ➤ class: ['nav__cta-container', 'order-3', 'flex', 'gap-x-1', 'justify-end', 'min-w-[100px]', 'flex-nowrap', 'flex-shrink-0', 'babybear:flex-wrap', 'flex-2', 'babymamabear:min-w-[50px]']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 9]
+  ➤ class: ['details', 'mx-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, section, code
+    • h3: AI/ML Engineer  (Dublin, CA)
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+    • h1: AI/ML Engineer  (Dublin, CA)
+    • p: See who Articul8 AI has hired for this role
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+    • ul: Design, develop, and deploy AI and machine learning models for production use.Train, fine-tune, and optimize deep learning and LLM-based solutions.Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.Optimize models for cloud and on-prem environments, ensuring low latency and high availability.Develop APIs and microservices to serve AI models in production.Stay up to date with the latest AI trends, research, and best practices.Ensure ethical AI practices, data privacy, and security compliance.
+    • li: Design, develop, and deploy AI and machine learning models for production use.
+    • li: Train, fine-tune, and optimize deep learning and LLM-based solutions.
+    • li: Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.
+    • li: Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.
+    • li: Optimize models for cloud and on-prem environments, ensuring low latency and high availability.
+    • li: Develop APIs and microservices to serve AI models in production.
+    • li: Stay up to date with the latest AI trends, research, and best practices.
+    • li: Ensure ethical AI practices, data privacy, and security compliance.
+    • ul: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.5+ years of experience in AI/ML development and deployment.Strong programming skills in Python or PyTorchExperience with LLMs, NLP, computer vision, or reinforcement learning.Proficiency in data preprocessing, feature engineering, and model evaluation techniques.Experience with AWS, GCP, or Azure for AI model deployment.Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.Strong problem-solving and analytical skills.Excellent communication and teamwork skills.
+    • li: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.
+    • li: 5+ years of experience in AI/ML development and deployment.
+    • li: Strong programming skills in Python or PyTorch
+    • li: Experience with LLMs, NLP, computer vision, or reinforcement learning.
+    • li: Proficiency in data preprocessing, feature engineering, and model evaluation techniques.
+    • li: Experience with AWS, GCP, or Azure for AI model deployment.
+    • li: Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.
+    • li: Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.
+    • li: Strong problem-solving and analytical skills.
+    • li: Excellent communication and teamwork skills.
+    • ul: Experience in multi-cloud AI deployments.Familiarity with generative AI and autonomous AI agents.Knowledge of distributed computing frameworks (Spark, Ray, Dask).Experience in edge AI or AI model compression (quantization, pruning).Prior experience working on AI SaaS platforms.
+    • li: Experience in multi-cloud AI deployments.
+    • li: Familiarity with generative AI and autonomous AI agents.
+    • li: Knowledge of distributed computing frameworks (Spark, Ray, Dask).
+    • li: Experience in edge AI or AI model compression (quantization, pruning).
+    • li: Prior experience working on AI SaaS platforms.
+    • ul: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • li: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.
+    • li: Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.
+    • li: Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.
+    • li: Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.
+    • li: Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.
+    • li: Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • ul: Professional development opportunities, including training and mentorship programsFlexible work arrangements, including remote work optionsAccess to the latest technologies and toolsRegular social events and team-building activitiesA supportive and inclusive work environment
+    • li: Professional development opportunities, including training and mentorship programs
+    • li: Flexible work arrangements, including remote work options
+    • li: Access to the latest technologies and tools
+    • li: Regular social events and team-building activities
+    • li: A supportive and inclusive work environment
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Articul8 AI by 2x
+    • p: Get notified about newMachine Learning Engineerjobs inDublin, CA.
+    • h2: Similar jobs
+    • ul: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week agoSoftware Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week agoSoftware Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week agoSoftware EngineerSoftware EngineerHarmonyPalo Alto, CA1 year agoSoftware Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks agoFull Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days agoSoftware Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week agoBackend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks agoSoftware Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks agoSoftware Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day agoSoftware Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day agoSoftware Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day agoSoftware Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week agoSoftware Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day agoeCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks agoSoftware EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days agoSoftware Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks agoSoftware Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day agoSoftware Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours agoFull Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks agoSoftware Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks agoSoftware Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week agoSoftware Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks agoSoftware DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months agoSoftware Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • li: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week ago
+    • h3: Software Engineer, AI Intern (Summer 2025)
+    • li: Software Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week ago
+    • h3: Software Engineer, AI Platform - New Grad
+    • li: Software Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week ago
+    • h3: Software Engineer, Autonomy-New Grad
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software EngineerSoftware EngineerHarmonyPalo Alto, CA1 year ago
+    • h3: Software Engineer
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks ago
+    • h3: Software Engineer, Frontend
+    • li: Full Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days ago
+    • h3: Full Stack Software Engineer - Post-training
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer, Frontend
+    • li: Backend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks ago
+    • h3: Backend Software Engineer
+    • li: Software Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks ago
+    • h3: Software Engineer III, Full Stack, Chrome
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Frontend
+    • li: Software Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day ago
+    • h3: Software Engineer II
+    • li: Software Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day ago
+    • h3: Software Engineer - Hawkeye
+    • li: Software Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer - Backend
+    • li: Software Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day ago
+    • h3: Software Engineer, Back End
+    • li: eCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks ago
+    • h3: eCommerce Full Stack Developer (React / Shopify) - On Site
+    • li: Software EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days ago
+    • h3: Software Engineer
+    • li: Software Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks ago
+    • h3: Software Engineer(s) - New Grad (Fall 2025 Graduation)
+    • li: Software Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Fullstack
+    • li: Software Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours ago
+    • h3: Software Engineer - Web
+    • li: Full Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks ago
+    • h3: Full Stack Software Engineer
+    • li: Software Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks ago
+    • h3: Software Development Engineer I 2025
+    • li: Software Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week ago
+    • h3: Software Engineer - X
+    • li: Software Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks ago
+    • h3: Software Engineer - Web
+    • li: Software DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months ago
+    • h3: Software Developer
+    • li: Software Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • h3: Software Engineer, Google Distributed Cloud
+
+[Div 10]
+  ➤ class: ['sub-nav-cta__content']
+  ➤ id: None
+  ➤ child tags: div, button, code, img
+    • h3: AI/ML Engineer  (Dublin, CA)
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 11]
+  ➤ class: ['sub-nav-cta__text-container']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: AI/ML Engineer  (Dublin, CA)
+
+[Div 12]
+  ➤ class: ['sub-nav-cta__sub-text-container']
+  ➤ id: None
+  ➤ child tags: span, a
+
+[Div 13]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 14]
+  ➤ class: ['modal', 'sign-up-modal']
+  ➤ id: sign-up-modal
+  ➤ child tags: div
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 15]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 16]
+  ➤ class: ['modal__main', 'w-full', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, code
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 17]
+  ➤ class: ['loader', 'loader--absolute']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 19]
+  ➤ class: ['sign-up-modal__body']
+  ➤ id: None
+  ➤ child tags: code, div, form
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 20]
+  ➤ class: ['profile-card', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 21]
+  ➤ class: ['profile-card__content']
+  ➤ id: None
+  ➤ child tags: div, button, img
+
+[Div 22]
+  ➤ class: ['profile-card__info']
+  ➤ id: None
+  ➤ child tags: h3, p
+
+[Div 23]
+  ➤ class: ['profile-card__edit-photo-modal', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: ['profile-card__edit-photo-content']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 25]
+  ➤ class: ['profile-card__edit-photo-remove']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 26]
+  ➤ class: ['profile-card__edit-photo-cancel']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 27]
+  ➤ class: ['alert', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 28]
+  ➤ class: ['wrapper']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 29]
+  ➤ class: ['join-form__form-input-container', 'join-form__form-input-container--is-hidden', 'join-form__form-input-container--is-last-section', 'join-form__form-input-container--is-section-2']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 31]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 32]
+  ➤ class: ['join-form__form-input-container', 'join-form__form-input-container--is-section-1']
+  ➤ id: None
+  ➤ child tags: div, code
+
+[Div 33]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, datalist, input
+
+[Div 34]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 35]
+  ➤ class: ['pt-4']
+  ➤ id: join-form__legal-agreement-padding
+  ➤ child tags: 
+
+[Div 36]
+  ➤ class: ['join-form__form-body-agreement', 'join-form__form-body-agreement--is-hidden']
+  ➤ id: join-form__step_2_agreement
+  ➤ child tags: a
+
+[Div 37]
+  ➤ class: ['third-party-join__container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 38]
+  ➤ class: ['third-party-join__reg-option']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 39]
+  ➤ class: ['third-party-join__gsi-btn-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 40]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 41]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 42]
+  ➤ class: ['sign-up-modal__tertiary-cta-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 43]
+  ➤ class: None
+  ➤ id: teriary-cta-container
+  ➤ child tags: div
+
+[Div 44]
+  ➤ class: ['sign-up-modal__direct-apply-on-company-site']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 45]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Security verification
+
+[Div 46]
+  ➤ class: ['modal', 'challenge-dialog']
+  ➤ id: challenge-dialog
+  ➤ child tags: div
+    • h2: Security verification
+
+[Div 47]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Security verification
+
+[Div 48]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 49]
+  ➤ class: ['flex']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 50]
+  ➤ class: ['sr-only']
+  ➤ id: focus-capture
+  ➤ child tags: 
+
+[Div 51]
+  ➤ class: ['top-card-layout__card', 'relative', 'p-2', 'papabear:p-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: AI/ML Engineer  (Dublin, CA)
+    • p: See who Articul8 AI has hired for this role
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+
+[Div 52]
+  ➤ class: ['top-card-layout__entity-info-container', 'flex', 'flex-wrap', 'papabear:flex-nowrap']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI/ML Engineer  (Dublin, CA)
+    • p: See who Articul8 AI has hired for this role
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 53]
+  ➤ class: ['top-card-layout__entity-info', 'flex-grow', 'flex-shrink-0', 'basis-0', 'babybear:flex-none', 'babybear:w-full', 'babybear:flex-none', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h4, h1
+    • h1: AI/ML Engineer  (Dublin, CA)
+    • p: See who Articul8 AI has hired for this role
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 54]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 55]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 56]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 57]
+  ➤ class: ['top-card-layout__cta-container', 'flex', 'flex-wrap', 'mt-0.5', 'papabear:mt-0', 'ml-[-12px]']
+  ➤ id: None
+  ➤ child tags: code, div, button, a
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 58]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 59]
+  ➤ class: ['modal', 'sign-up-modal']
+  ➤ id: sign-up-modal
+  ➤ child tags: div
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 60]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 61]
+  ➤ class: ['modal__main', 'w-full', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, code
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 62]
+  ➤ class: ['loader', 'loader--absolute']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 63]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 64]
+  ➤ class: ['sign-up-modal__body']
+  ➤ id: None
+  ➤ child tags: code, div, form
+    • p: Join to apply for theAI/ML Engineer  (Dublin, CA)role atArticul8 AI
+    • h2: Security verification
+
+[Div 65]
+  ➤ class: ['profile-card', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 66]
+  ➤ class: ['profile-card__content']
+  ➤ id: None
+  ➤ child tags: div, button, img
+
+[Div 67]
+  ➤ class: ['profile-card__info']
+  ➤ id: None
+  ➤ child tags: h3, p
+
+[Div 68]
+  ➤ class: ['profile-card__edit-photo-modal', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 69]
+  ➤ class: ['profile-card__edit-photo-content']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 70]
+  ➤ class: ['profile-card__edit-photo-remove']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 71]
+  ➤ class: ['profile-card__edit-photo-cancel']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 72]
+  ➤ class: ['alert', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 73]
+  ➤ class: ['wrapper']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 74]
+  ➤ class: ['join-form__form-input-container', 'join-form__form-input-container--is-hidden', 'join-form__form-input-container--is-last-section']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 75]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 76]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 77]
+  ➤ class: ['join-form__form-input-container']
+  ➤ id: None
+  ➤ child tags: div, code
+
+[Div 78]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, datalist, input
+
+[Div 79]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 80]
+  ➤ class: ['pt-4']
+  ➤ id: join-form__legal-agreement-padding
+  ➤ child tags: 
+
+[Div 81]
+  ➤ class: ['join-form__form-body-agreement', 'join-form__form-body-agreement--is-hidden']
+  ➤ id: join-form__step_2_agreement
+  ➤ child tags: a
+
+[Div 82]
+  ➤ class: ['third-party-join__container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 83]
+  ➤ class: ['third-party-join__reg-option']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 84]
+  ➤ class: ['third-party-join__gsi-btn-container']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 85]
+  ➤ class: ['sign-up-modal__tertiary-cta-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 86]
+  ➤ class: None
+  ➤ id: teriary-cta-container
+  ➤ child tags: div
+
+[Div 87]
+  ➤ class: ['sign-up-modal__direct-apply-on-company-site']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 88]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Security verification
+
+[Div 89]
+  ➤ class: ['modal', 'challenge-dialog']
+  ➤ id: challenge-dialog
+  ➤ child tags: div
+    • h2: Security verification
+
+[Div 90]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Security verification
+
+[Div 91]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 92]
+  ➤ class: ['flex']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 93]
+  ➤ class: ['sr-only']
+  ➤ id: focus-capture
+  ➤ child tags: 
+
+[Div 94]
+  ➤ class: ['ellipsis-menu', 'absolute', 'right-0', 'top-0', 'top-card-layout__ellipsis-menu', 'mr-1', 'papabear:mt-0.5', 'papabear:mr-2']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Report this job
+    • li: Report this job
+
+[Div 95]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Report this job
+    • li: Report this job
+
+[Div 96]
+  ➤ class: ['decorated-job-posting__details']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Design, develop, and deploy AI and machine learning models for production use.Train, fine-tune, and optimize deep learning and LLM-based solutions.Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.Optimize models for cloud and on-prem environments, ensuring low latency and high availability.Develop APIs and microservices to serve AI models in production.Stay up to date with the latest AI trends, research, and best practices.Ensure ethical AI practices, data privacy, and security compliance.
+    • li: Design, develop, and deploy AI and machine learning models for production use.
+    • li: Train, fine-tune, and optimize deep learning and LLM-based solutions.
+    • li: Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.
+    • li: Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.
+    • li: Optimize models for cloud and on-prem environments, ensuring low latency and high availability.
+    • li: Develop APIs and microservices to serve AI models in production.
+    • li: Stay up to date with the latest AI trends, research, and best practices.
+    • li: Ensure ethical AI practices, data privacy, and security compliance.
+    • ul: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.5+ years of experience in AI/ML development and deployment.Strong programming skills in Python or PyTorchExperience with LLMs, NLP, computer vision, or reinforcement learning.Proficiency in data preprocessing, feature engineering, and model evaluation techniques.Experience with AWS, GCP, or Azure for AI model deployment.Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.Strong problem-solving and analytical skills.Excellent communication and teamwork skills.
+    • li: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.
+    • li: 5+ years of experience in AI/ML development and deployment.
+    • li: Strong programming skills in Python or PyTorch
+    • li: Experience with LLMs, NLP, computer vision, or reinforcement learning.
+    • li: Proficiency in data preprocessing, feature engineering, and model evaluation techniques.
+    • li: Experience with AWS, GCP, or Azure for AI model deployment.
+    • li: Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.
+    • li: Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.
+    • li: Strong problem-solving and analytical skills.
+    • li: Excellent communication and teamwork skills.
+    • ul: Experience in multi-cloud AI deployments.Familiarity with generative AI and autonomous AI agents.Knowledge of distributed computing frameworks (Spark, Ray, Dask).Experience in edge AI or AI model compression (quantization, pruning).Prior experience working on AI SaaS platforms.
+    • li: Experience in multi-cloud AI deployments.
+    • li: Familiarity with generative AI and autonomous AI agents.
+    • li: Knowledge of distributed computing frameworks (Spark, Ray, Dask).
+    • li: Experience in edge AI or AI model compression (quantization, pruning).
+    • li: Prior experience working on AI SaaS platforms.
+    • ul: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • li: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.
+    • li: Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.
+    • li: Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.
+    • li: Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.
+    • li: Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.
+    • li: Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • ul: Professional development opportunities, including training and mentorship programsFlexible work arrangements, including remote work optionsAccess to the latest technologies and toolsRegular social events and team-building activitiesA supportive and inclusive work environment
+    • li: Professional development opportunities, including training and mentorship programs
+    • li: Flexible work arrangements, including remote work options
+    • li: Access to the latest technologies and tools
+    • li: Regular social events and team-building activities
+    • li: A supportive and inclusive work environment
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Articul8 AI by 2x
+
+[Div 97]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, ul
+    • ul: Design, develop, and deploy AI and machine learning models for production use.Train, fine-tune, and optimize deep learning and LLM-based solutions.Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.Optimize models for cloud and on-prem environments, ensuring low latency and high availability.Develop APIs and microservices to serve AI models in production.Stay up to date with the latest AI trends, research, and best practices.Ensure ethical AI practices, data privacy, and security compliance.
+    • li: Design, develop, and deploy AI and machine learning models for production use.
+    • li: Train, fine-tune, and optimize deep learning and LLM-based solutions.
+    • li: Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.
+    • li: Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.
+    • li: Optimize models for cloud and on-prem environments, ensuring low latency and high availability.
+    • li: Develop APIs and microservices to serve AI models in production.
+    • li: Stay up to date with the latest AI trends, research, and best practices.
+    • li: Ensure ethical AI practices, data privacy, and security compliance.
+    • ul: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.5+ years of experience in AI/ML development and deployment.Strong programming skills in Python or PyTorchExperience with LLMs, NLP, computer vision, or reinforcement learning.Proficiency in data preprocessing, feature engineering, and model evaluation techniques.Experience with AWS, GCP, or Azure for AI model deployment.Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.Strong problem-solving and analytical skills.Excellent communication and teamwork skills.
+    • li: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.
+    • li: 5+ years of experience in AI/ML development and deployment.
+    • li: Strong programming skills in Python or PyTorch
+    • li: Experience with LLMs, NLP, computer vision, or reinforcement learning.
+    • li: Proficiency in data preprocessing, feature engineering, and model evaluation techniques.
+    • li: Experience with AWS, GCP, or Azure for AI model deployment.
+    • li: Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.
+    • li: Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.
+    • li: Strong problem-solving and analytical skills.
+    • li: Excellent communication and teamwork skills.
+    • ul: Experience in multi-cloud AI deployments.Familiarity with generative AI and autonomous AI agents.Knowledge of distributed computing frameworks (Spark, Ray, Dask).Experience in edge AI or AI model compression (quantization, pruning).Prior experience working on AI SaaS platforms.
+    • li: Experience in multi-cloud AI deployments.
+    • li: Familiarity with generative AI and autonomous AI agents.
+    • li: Knowledge of distributed computing frameworks (Spark, Ray, Dask).
+    • li: Experience in edge AI or AI model compression (quantization, pruning).
+    • li: Prior experience working on AI SaaS platforms.
+    • ul: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • li: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.
+    • li: Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.
+    • li: Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.
+    • li: Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.
+    • li: Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.
+    • li: Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • ul: Professional development opportunities, including training and mentorship programsFlexible work arrangements, including remote work optionsAccess to the latest technologies and toolsRegular social events and team-building activitiesA supportive and inclusive work environment
+    • li: Professional development opportunities, including training and mentorship programs
+    • li: Flexible work arrangements, including remote work options
+    • li: Access to the latest technologies and tools
+    • li: Regular social events and team-building activities
+    • li: A supportive and inclusive work environment
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+
+[Div 98]
+  ➤ class: ['description__text', 'description__text--rich']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Design, develop, and deploy AI and machine learning models for production use.Train, fine-tune, and optimize deep learning and LLM-based solutions.Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.Optimize models for cloud and on-prem environments, ensuring low latency and high availability.Develop APIs and microservices to serve AI models in production.Stay up to date with the latest AI trends, research, and best practices.Ensure ethical AI practices, data privacy, and security compliance.
+    • li: Design, develop, and deploy AI and machine learning models for production use.
+    • li: Train, fine-tune, and optimize deep learning and LLM-based solutions.
+    • li: Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.
+    • li: Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.
+    • li: Optimize models for cloud and on-prem environments, ensuring low latency and high availability.
+    • li: Develop APIs and microservices to serve AI models in production.
+    • li: Stay up to date with the latest AI trends, research, and best practices.
+    • li: Ensure ethical AI practices, data privacy, and security compliance.
+    • ul: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.5+ years of experience in AI/ML development and deployment.Strong programming skills in Python or PyTorchExperience with LLMs, NLP, computer vision, or reinforcement learning.Proficiency in data preprocessing, feature engineering, and model evaluation techniques.Experience with AWS, GCP, or Azure for AI model deployment.Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.Strong problem-solving and analytical skills.Excellent communication and teamwork skills.
+    • li: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.
+    • li: 5+ years of experience in AI/ML development and deployment.
+    • li: Strong programming skills in Python or PyTorch
+    • li: Experience with LLMs, NLP, computer vision, or reinforcement learning.
+    • li: Proficiency in data preprocessing, feature engineering, and model evaluation techniques.
+    • li: Experience with AWS, GCP, or Azure for AI model deployment.
+    • li: Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.
+    • li: Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.
+    • li: Strong problem-solving and analytical skills.
+    • li: Excellent communication and teamwork skills.
+    • ul: Experience in multi-cloud AI deployments.Familiarity with generative AI and autonomous AI agents.Knowledge of distributed computing frameworks (Spark, Ray, Dask).Experience in edge AI or AI model compression (quantization, pruning).Prior experience working on AI SaaS platforms.
+    • li: Experience in multi-cloud AI deployments.
+    • li: Familiarity with generative AI and autonomous AI agents.
+    • li: Knowledge of distributed computing frameworks (Spark, Ray, Dask).
+    • li: Experience in edge AI or AI model compression (quantization, pruning).
+    • li: Prior experience working on AI SaaS platforms.
+    • ul: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • li: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.
+    • li: Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.
+    • li: Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.
+    • li: Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.
+    • li: Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.
+    • li: Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • ul: Professional development opportunities, including training and mentorship programsFlexible work arrangements, including remote work optionsAccess to the latest technologies and toolsRegular social events and team-building activitiesA supportive and inclusive work environment
+    • li: Professional development opportunities, including training and mentorship programs
+    • li: Flexible work arrangements, including remote work options
+    • li: Access to the latest technologies and tools
+    • li: Regular social events and team-building activities
+    • li: A supportive and inclusive work environment
+
+[Div 99]
+  ➤ class: ['show-more-less-html__markup', 'show-more-less-html__markup--clamp-after-5', 'relative', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: ul, strong, br
+    • ul: Design, develop, and deploy AI and machine learning models for production use.Train, fine-tune, and optimize deep learning and LLM-based solutions.Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.Optimize models for cloud and on-prem environments, ensuring low latency and high availability.Develop APIs and microservices to serve AI models in production.Stay up to date with the latest AI trends, research, and best practices.Ensure ethical AI practices, data privacy, and security compliance.
+    • li: Design, develop, and deploy AI and machine learning models for production use.
+    • li: Train, fine-tune, and optimize deep learning and LLM-based solutions.
+    • li: Collaborate with data scientists, software engineers, and product teams to integrate AI capabilities into applications.
+    • li: Evaluate and implement state-of-the-art AI/ML algorithms to improve model accuracy and efficiency.
+    • li: Optimize models for cloud and on-prem environments, ensuring low latency and high availability.
+    • li: Develop APIs and microservices to serve AI models in production.
+    • li: Stay up to date with the latest AI trends, research, and best practices.
+    • li: Ensure ethical AI practices, data privacy, and security compliance.
+    • ul: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.5+ years of experience in AI/ML development and deployment.Strong programming skills in Python or PyTorchExperience with LLMs, NLP, computer vision, or reinforcement learning.Proficiency in data preprocessing, feature engineering, and model evaluation techniques.Experience with AWS, GCP, or Azure for AI model deployment.Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.Strong problem-solving and analytical skills.Excellent communication and teamwork skills.
+    • li: Bachelor’s/Master’s/PhD in Computer Science, AI, Machine Learning, or related field.
+    • li: 5+ years of experience in AI/ML development and deployment.
+    • li: Strong programming skills in Python or PyTorch
+    • li: Experience with LLMs, NLP, computer vision, or reinforcement learning.
+    • li: Proficiency in data preprocessing, feature engineering, and model evaluation techniques.
+    • li: Experience with AWS, GCP, or Azure for AI model deployment.
+    • li: Knowledge of containerization (Docker, Kubernetes) and CI/CD pipelines.
+    • li: Familiarity with MLOps tools like MLflow, Kubeflow, or TensorBoard.
+    • li: Strong problem-solving and analytical skills.
+    • li: Excellent communication and teamwork skills.
+    • ul: Experience in multi-cloud AI deployments.Familiarity with generative AI and autonomous AI agents.Knowledge of distributed computing frameworks (Spark, Ray, Dask).Experience in edge AI or AI model compression (quantization, pruning).Prior experience working on AI SaaS platforms.
+    • li: Experience in multi-cloud AI deployments.
+    • li: Familiarity with generative AI and autonomous AI agents.
+    • li: Knowledge of distributed computing frameworks (Spark, Ray, Dask).
+    • li: Experience in edge AI or AI model compression (quantization, pruning).
+    • li: Prior experience working on AI SaaS platforms.
+    • ul: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • li: Problem Solving: ability to break down complex problems into manageable components, devising creative solutions, and iteratively refining ideas based on feedback and experimental evidence.
+    • li: Collaboration and Communication: proficiency in working cross-functionally—communicating clearly, providing constructive criticism, delegating responsibilities, and respecting diverse perspectives.
+    • li: Project Management and Prioritization: demonstrated aptitude in balancing multiple projects, deadlines, and allocating time efficiently between short-term objectives and long-term goals.
+    • li: Critical Thinking: ability to carefully evaluate assumptions, questioning established methodologies, challenging own biases, and maintaining skepticism when interpreting results.
+    • li: Curiosity and Continuous Learning: ability to stay curious about advances in related fields and constantly seeking opportunities to expand knowledge base.
+    • li: Emotional Intelligence and Intellectual Humility: capable of displaying empathy, resilience, adaptability, and self-awareness. Ability to recognize own limitations, embracing uncertainty, acknowledging mistakes, and valuing others' contributions.
+    • ul: Professional development opportunities, including training and mentorship programsFlexible work arrangements, including remote work optionsAccess to the latest technologies and toolsRegular social events and team-building activitiesA supportive and inclusive work environment
+    • li: Professional development opportunities, including training and mentorship programs
+    • li: Flexible work arrangements, including remote work options
+    • li: Access to the latest technologies and tools
+    • li: Regular social events and team-building activities
+    • li: A supportive and inclusive work environment
+
+[Div 100]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Articul8 AI by 2x
+
+[Div 101]
+  ➤ class: ['face-pile', 'flex', '!no-underline']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Articul8 AI by 2x
+
+[Div 102]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 103]
+  ➤ class: ['find-a-referral__cta-container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Referrals increase your chances of interviewing at Articul8 AI by 2x
+
+[Div 104]
+  ➤ class: ['job-alert-redirect-section__container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Get notified about newMachine Learning Engineerjobs inDublin, CA.
+
+[Div 105]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week agoSoftware Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week agoSoftware Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week agoSoftware EngineerSoftware EngineerHarmonyPalo Alto, CA1 year agoSoftware Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks agoFull Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days agoSoftware Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week agoBackend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks agoSoftware Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks agoSoftware Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day agoSoftware Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day agoSoftware Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day agoSoftware Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week agoSoftware Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day agoeCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks agoSoftware EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days agoSoftware Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks agoSoftware Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day agoSoftware Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours agoFull Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks agoSoftware Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks agoSoftware Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week agoSoftware Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks agoSoftware DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months agoSoftware Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • li: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week ago
+    • h3: Software Engineer, AI Intern (Summer 2025)
+    • li: Software Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week ago
+    • h3: Software Engineer, AI Platform - New Grad
+    • li: Software Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week ago
+    • h3: Software Engineer, Autonomy-New Grad
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software EngineerSoftware EngineerHarmonyPalo Alto, CA1 year ago
+    • h3: Software Engineer
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks ago
+    • h3: Software Engineer, Frontend
+    • li: Full Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days ago
+    • h3: Full Stack Software Engineer - Post-training
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer, Frontend
+    • li: Backend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks ago
+    • h3: Backend Software Engineer
+    • li: Software Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks ago
+    • h3: Software Engineer III, Full Stack, Chrome
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Frontend
+    • li: Software Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day ago
+    • h3: Software Engineer II
+    • li: Software Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day ago
+    • h3: Software Engineer - Hawkeye
+    • li: Software Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer - Backend
+    • li: Software Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day ago
+    • h3: Software Engineer, Back End
+    • li: eCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks ago
+    • h3: eCommerce Full Stack Developer (React / Shopify) - On Site
+    • li: Software EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days ago
+    • h3: Software Engineer
+    • li: Software Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks ago
+    • h3: Software Engineer(s) - New Grad (Fall 2025 Graduation)
+    • li: Software Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Fullstack
+    • li: Software Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours ago
+    • h3: Software Engineer - Web
+    • li: Full Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks ago
+    • h3: Full Stack Software Engineer
+    • li: Software Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks ago
+    • h3: Software Development Engineer I 2025
+    • li: Software Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week ago
+    • h3: Software Engineer - X
+    • li: Software Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks ago
+    • h3: Software Engineer - Web
+    • li: Software DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months ago
+    • h3: Software Developer
+    • li: Software Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • h3: Software Engineer, Google Distributed Cloud
+
+[Div 106]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week agoSoftware Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week agoSoftware Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week agoSoftware Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week agoSoftware EngineerSoftware EngineerHarmonyPalo Alto, CA1 year agoSoftware Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks agoFull Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days agoSoftware Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week agoBackend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks agoSoftware Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks agoSoftware Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day agoSoftware Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day agoSoftware Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day agoSoftware Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week agoSoftware Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day agoeCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks agoSoftware EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days agoSoftware Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks agoSoftware Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day agoSoftware Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours agoFull Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks agoSoftware Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks agoSoftware Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week agoSoftware Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks agoSoftware DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months agoSoftware Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • li: Software Engineer, AI Intern (Summer 2025)Software Engineer, AI Intern (Summer 2025)NotionSan Francisco Bay Area1 week ago
+    • h3: Software Engineer, AI Intern (Summer 2025)
+    • li: Software Engineer, AI Platform - New GradSoftware Engineer, AI Platform - New GradNuroMountain View, CA1 week ago
+    • h3: Software Engineer, AI Platform - New Grad
+    • li: Software Engineer, Autonomy-New GradSoftware Engineer, Autonomy-New GradNuroMountain View, CA$125,400 - $188,1001 week ago
+    • h3: Software Engineer, Autonomy-New Grad
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaSunnyvale, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software Engineer, Front EndSoftware Engineer, Front EndMetaMenlo Park, CA$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Front End
+    • li: Software EngineerSoftware EngineerHarmonyPalo Alto, CA1 year ago
+    • h3: Software Engineer
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendWealthfrontPalo Alto, CA$140,000.00-$185,000.003 weeks ago
+    • h3: Software Engineer, Frontend
+    • li: Full Stack Software Engineer - Post-trainingFull Stack Software Engineer - Post-trainingxAIPalo Alto, CA$180,000.00-$440,000.003 days ago
+    • h3: Full Stack Software Engineer - Post-training
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer, Frontend
+    • li: Backend Software EngineerBackend Software EngineerWingPalo Alto, CA$153,000.00-$211,000.002 weeks ago
+    • h3: Backend Software Engineer
+    • li: Software Engineer III, Full Stack, ChromeSoftware Engineer III, Full Stack, ChromeGoogleMountain View, CA2 weeks ago
+    • h3: Software Engineer III, Full Stack, Chrome
+    • li: Software Engineer, FrontendSoftware Engineer, FrontendGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Frontend
+    • li: Software Engineer IISoftware Engineer IIUberSunnyvale, CA$167,000.00-$185,500.001 day ago
+    • h3: Software Engineer II
+    • li: Software Engineer - HawkeyeSoftware Engineer - HawkeyeRubrikPalo Alto, CA$122,800.00-$153,500.001 day ago
+    • h3: Software Engineer - Hawkeye
+    • li: Software Engineer - BackendSoftware Engineer - BackendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer - Backend
+    • li: Software Engineer, Back EndSoftware Engineer, Back EndRivianPalo Alto, CA1 day ago
+    • h3: Software Engineer, Back End
+    • li: eCommerce Full Stack Developer (React / Shopify) - On SiteeCommerce Full Stack Developer (React / Shopify) - On SiteCorsairMilpitas, CA2 weeks ago
+    • h3: eCommerce Full Stack Developer (React / Shopify) - On Site
+    • li: Software EngineerSoftware EngineerSnowflakeMenlo Park, CA3 days ago
+    • h3: Software Engineer
+    • li: Software Engineer(s) - New Grad (Fall 2025 Graduation)Software Engineer(s) - New Grad (Fall 2025 Graduation)PylonMenlo Park, CA3 weeks ago
+    • h3: Software Engineer(s) - New Grad (Fall 2025 Graduation)
+    • li: Software Engineer, FullstackSoftware Engineer, FullstackGleanPalo Alto, CA1 day ago
+    • h3: Software Engineer, Fullstack
+    • li: Software Engineer - WebSoftware Engineer - WebScienceAlameda, CA$100,000.00-$180,000.0013 hours ago
+    • h3: Software Engineer - Web
+    • li: Full Stack Software EngineerFull Stack Software EngineerWalmartSunnyvale, CA$117,000.00-$234,000.002 weeks ago
+    • h3: Full Stack Software Engineer
+    • li: Software Development Engineer I 2025Software Development Engineer I 2025AmazonEast Palo Alto, CA$99,500.00-$200,000.003 weeks ago
+    • h3: Software Development Engineer I 2025
+    • li: Software Engineer - XSoftware Engineer - XxAIPalo Alto, CA1 week ago
+    • h3: Software Engineer - X
+    • li: Software Engineer - WebSoftware Engineer - WebRakuten RewardsSan Mateo, CA3 weeks ago
+    • h3: Software Engineer - Web
+    • li: Software DeveloperSoftware DeveloperDefaultSanta Clara, CA$150,000.00-$175,000.006 months ago
+    • h3: Software Developer
+    • li: Software Engineer, Google Distributed CloudSoftware Engineer, Google Distributed CloudGoogleSunnyvale, CA$141,000.00-$202,000.003 days ago
+    • h3: Software Engineer, Google Distributed Cloud
+
+[Div 107]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, AI Intern (Summer 2025)
+
+[Div 108]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, AI Intern (Summer 2025)
+
+[Div 109]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 110]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, AI Platform - New Grad
+
+[Div 111]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, AI Platform - New Grad
+
+[Div 112]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 113]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Autonomy-New Grad
+
+[Div 114]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Autonomy-New Grad
+
+[Div 115]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 116]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Front End
+
+[Div 117]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Front End
+
+[Div 118]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 119]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Front End
+
+[Div 120]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Front End
+
+[Div 121]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 122]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer
+
+[Div 123]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer
+
+[Div 124]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 125]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Frontend
+
+[Div 126]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Frontend
+
+[Div 127]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 128]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Full Stack Software Engineer - Post-training
+
+[Div 129]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Full Stack Software Engineer - Post-training
+
+[Div 130]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 131]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Frontend
+
+[Div 132]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Frontend
+
+[Div 133]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 134]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Backend Software Engineer
+
+[Div 135]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Backend Software Engineer
+
+[Div 136]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 137]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer III, Full Stack, Chrome
+
+[Div 138]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer III, Full Stack, Chrome
+
+[Div 139]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 140]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Frontend
+
+[Div 141]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Frontend
+
+[Div 142]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 143]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer II
+
+[Div 144]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer II
+
+[Div 145]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 146]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer - Hawkeye
+
+[Div 147]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer - Hawkeye
+
+[Div 148]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 149]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer - Backend
+
+[Div 150]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer - Backend
+
+[Div 151]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 152]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Back End
+
+[Div 153]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Back End
+
+[Div 154]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 155]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: eCommerce Full Stack Developer (React / Shopify) - On Site
+
+[Div 156]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: eCommerce Full Stack Developer (React / Shopify) - On Site
+
+[Div 157]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 158]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer
+
+[Div 159]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer
+
+[Div 160]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 161]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer(s) - New Grad (Fall 2025 Graduation)
+
+[Div 162]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer(s) - New Grad (Fall 2025 Graduation)
+
+[Div 163]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 164]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Fullstack
+
+[Div 165]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Fullstack
+
+[Div 166]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 167]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer - Web
+
+[Div 168]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer - Web
+
+[Div 169]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 170]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Full Stack Software Engineer
+
+[Div 171]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Full Stack Software Engineer
+
+[Div 172]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 173]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Development Engineer I 2025
+
+[Div 174]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Development Engineer I 2025
+
+[Div 175]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 176]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer - X
+
+[Div 177]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer - X
+
+[Div 178]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 179]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer - Web
+
+[Div 180]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer - Web
+
+[Div 181]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 182]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Developer
+
+[Div 183]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Developer
+
+[Div 184]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 185]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Google Distributed Cloud
+
+[Div 186]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Google Distributed Cloud
+
+[Div 187]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 188]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Software Engineer, BackendSoftware Engineer, BackendGleanPalo Alto, CA3 days agoSoftware Engineer, Auction TuningSoftware Engineer, Auction TuningGoogleMountain View, CA2 weeks agoFrontend Software Engineer - University Graduate 2025Frontend Software Engineer - University Graduate 2025VerkadaSan Mateo, CA$120,000 - $280,0001 week agoSoftware Engineer, BackendSoftware Engineer, BackendRivianPalo Alto, CA1 week agoSoftware Engineer - New GradSoftware Engineer - New GradApplied IntuitionMountain View, CA1 month agoSoftware Engineer InternSoftware Engineer InternElectronic Arts (EA)Redwood City, CA2 weeks agoFullstack Software EngineerFullstack Software EngineerCandid HealthMenlo Park, CA$135,000 - $200,0003 days agoFrontend Software EngineerFrontend Software EngineerSnowflakeMenlo Park, CA3 days agoSoftware Engineer, Map PlatformSoftware Engineer, Map PlatformNuroMountain View, CA$167,200 - $250,8001 day agoSoftware Engineer InternSoftware Engineer InternRepoolOakland, CA$60,000 - $65,0002 days ago
+    • li: Software Engineer, BackendSoftware Engineer, BackendGleanPalo Alto, CA3 days ago
+    • h3: Software Engineer, Backend
+    • p: Glean
+    • li: Software Engineer, Auction TuningSoftware Engineer, Auction TuningGoogleMountain View, CA2 weeks ago
+    • h3: Software Engineer, Auction Tuning
+    • p: Google
+    • li: Frontend Software Engineer - University Graduate 2025Frontend Software Engineer - University Graduate 2025VerkadaSan Mateo, CA$120,000 - $280,0001 week ago
+    • h3: Frontend Software Engineer - University Graduate 2025
+    • p: Verkada
+    • li: Software Engineer, BackendSoftware Engineer, BackendRivianPalo Alto, CA1 week ago
+    • h3: Software Engineer, Backend
+    • p: Rivian
+    • li: Software Engineer - New GradSoftware Engineer - New GradApplied IntuitionMountain View, CA1 month ago
+    • h3: Software Engineer - New Grad
+    • p: Applied Intuition
+    • li: Software Engineer InternSoftware Engineer InternElectronic Arts (EA)Redwood City, CA2 weeks ago
+    • h3: Software Engineer Intern
+    • p: Electronic Arts (EA)
+    • li: Fullstack Software EngineerFullstack Software EngineerCandid HealthMenlo Park, CA$135,000 - $200,0003 days ago
+    • h3: Fullstack Software Engineer
+    • p: Candid Health
+    • li: Frontend Software EngineerFrontend Software EngineerSnowflakeMenlo Park, CA3 days ago
+    • h3: Frontend Software Engineer
+    • p: Snowflake
+    • li: Software Engineer, Map PlatformSoftware Engineer, Map PlatformNuroMountain View, CA$167,200 - $250,8001 day ago
+    • h3: Software Engineer, Map Platform
+    • p: Nuro
+    • li: Software Engineer InternSoftware Engineer InternRepoolOakland, CA$60,000 - $65,0002 days ago
+    • h3: Software Engineer Intern
+    • p: Repool
+
+[Div 189]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Backend
+    • p: Glean
+
+[Div 190]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Backend
+    • p: Glean
+
+[Div 191]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 192]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Auction Tuning
+    • p: Google
+
+[Div 193]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Auction Tuning
+    • p: Google
+
+[Div 194]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 195]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Frontend Software Engineer - University Graduate 2025
+    • p: Verkada
+
+[Div 196]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Frontend Software Engineer - University Graduate 2025
+    • p: Verkada
+
+[Div 197]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 198]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Backend
+    • p: Rivian
+
+[Div 199]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Backend
+    • p: Rivian
+
+[Div 200]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 201]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer - New Grad
+    • p: Applied Intuition
+
+[Div 202]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer - New Grad
+    • p: Applied Intuition
+
+[Div 203]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 204]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer Intern
+    • p: Electronic Arts (EA)
+
+[Div 205]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer Intern
+    • p: Electronic Arts (EA)
+
+[Div 206]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 207]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Fullstack Software Engineer
+    • p: Candid Health
+
+[Div 208]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Fullstack Software Engineer
+    • p: Candid Health
+
+[Div 209]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 210]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Frontend Software Engineer
+    • p: Snowflake
+
+[Div 211]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Frontend Software Engineer
+    • p: Snowflake
+
+[Div 212]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 213]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Map Platform
+    • p: Nuro
+
+[Div 214]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Map Platform
+    • p: Nuro
+
+[Div 215]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 216]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer Intern
+    • p: Repool
+
+[Div 217]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer Intern
+    • p: Repool
+
+[Div 218]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 219]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Emergency Medicine Resident jobs1,074 open jobsIntelligence Specialist jobs7,156 open jobsScientist jobs48,969 open jobsData Scientist jobs264,158 open jobsGeneral Engineer jobs54,597 open jobsStaff Research Engineer jobs1,530 open jobsInsurance Counselor jobs4,892 open jobsAlgorithm Engineer jobs6,066 open jobsSenior Computer Engineer jobs1,942 open jobsSenior Scientist jobs19,214 open jobsJunior Scientist jobs10,103 open jobsLead Scientist jobs14,164 open jobsData Science Specialist jobs2,441 open jobsProcessing Geophysicist jobs97 open jobsAssistant Professor of Philosophy jobs273 open jobsProcessing Engineer jobs235,210 open jobsSenior Manufacturing Process Engineer jobs7,050 open jobsPython Developer jobs46,642 open jobsLearning Specialist jobs51,329 open jobsSenior Integration Specialist jobs49,775 open jobsResearch Software Engineer jobs26,451 open jobsResearch Engineer jobs262,824 open jobsEngineer jobs555,845 open jobsInformation Assurance Engineer jobs8,607 open jobsQuantitative Developer jobs11,546 open jobs
+    • li: Emergency Medicine Resident jobs1,074 open jobs
+    • h3: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs7,156 open jobs
+    • h3: Intelligence Specialist jobs
+    • li: Scientist jobs48,969 open jobs
+    • h3: Scientist jobs
+    • li: Data Scientist jobs264,158 open jobs
+    • h3: Data Scientist jobs
+    • li: General Engineer jobs54,597 open jobs
+    • h3: General Engineer jobs
+    • li: Staff Research Engineer jobs1,530 open jobs
+    • h3: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs4,892 open jobs
+    • h3: Insurance Counselor jobs
+    • li: Algorithm Engineer jobs6,066 open jobs
+    • h3: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs1,942 open jobs
+    • h3: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs19,214 open jobs
+    • h3: Senior Scientist jobs
+    • li: Junior Scientist jobs10,103 open jobs
+    • h3: Junior Scientist jobs
+    • li: Lead Scientist jobs14,164 open jobs
+    • h3: Lead Scientist jobs
+    • li: Data Science Specialist jobs2,441 open jobs
+    • h3: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs97 open jobs
+    • h3: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs273 open jobs
+    • h3: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs235,210 open jobs
+    • h3: Processing Engineer jobs
+    • li: Senior Manufacturing Process Engineer jobs7,050 open jobs
+    • h3: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs46,642 open jobs
+    • h3: Python Developer jobs
+    • li: Learning Specialist jobs51,329 open jobs
+    • h3: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs49,775 open jobs
+    • h3: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs26,451 open jobs
+    • h3: Research Software Engineer jobs
+    • li: Research Engineer jobs262,824 open jobs
+    • h3: Research Engineer jobs
+    • li: Engineer jobs555,845 open jobs
+    • h3: Engineer jobs
+    • li: Information Assurance Engineer jobs8,607 open jobs
+    • h3: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs11,546 open jobs
+    • h3: Quantitative Developer jobs
+
+[Div 220]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Emergency Medicine Resident jobs1,074 open jobsIntelligence Specialist jobs7,156 open jobsScientist jobs48,969 open jobsData Scientist jobs264,158 open jobsGeneral Engineer jobs54,597 open jobsStaff Research Engineer jobs1,530 open jobsInsurance Counselor jobs4,892 open jobsAlgorithm Engineer jobs6,066 open jobsSenior Computer Engineer jobs1,942 open jobsSenior Scientist jobs19,214 open jobsJunior Scientist jobs10,103 open jobsLead Scientist jobs14,164 open jobsData Science Specialist jobs2,441 open jobsProcessing Geophysicist jobs97 open jobsAssistant Professor of Philosophy jobs273 open jobsProcessing Engineer jobs235,210 open jobsSenior Manufacturing Process Engineer jobs7,050 open jobsPython Developer jobs46,642 open jobsLearning Specialist jobs51,329 open jobsSenior Integration Specialist jobs49,775 open jobsResearch Software Engineer jobs26,451 open jobsResearch Engineer jobs262,824 open jobsEngineer jobs555,845 open jobsInformation Assurance Engineer jobs8,607 open jobsQuantitative Developer jobs11,546 open jobs
+    • li: Emergency Medicine Resident jobs1,074 open jobs
+    • h3: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs7,156 open jobs
+    • h3: Intelligence Specialist jobs
+    • li: Scientist jobs48,969 open jobs
+    • h3: Scientist jobs
+    • li: Data Scientist jobs264,158 open jobs
+    • h3: Data Scientist jobs
+    • li: General Engineer jobs54,597 open jobs
+    • h3: General Engineer jobs
+    • li: Staff Research Engineer jobs1,530 open jobs
+    • h3: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs4,892 open jobs
+    • h3: Insurance Counselor jobs
+    • li: Algorithm Engineer jobs6,066 open jobs
+    • h3: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs1,942 open jobs
+    • h3: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs19,214 open jobs
+    • h3: Senior Scientist jobs
+    • li: Junior Scientist jobs10,103 open jobs
+    • h3: Junior Scientist jobs
+    • li: Lead Scientist jobs14,164 open jobs
+    • h3: Lead Scientist jobs
+    • li: Data Science Specialist jobs2,441 open jobs
+    • h3: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs97 open jobs
+    • h3: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs273 open jobs
+    • h3: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs235,210 open jobs
+    • h3: Processing Engineer jobs
+    • li: Senior Manufacturing Process Engineer jobs7,050 open jobs
+    • h3: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs46,642 open jobs
+    • h3: Python Developer jobs
+    • li: Learning Specialist jobs51,329 open jobs
+    • h3: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs49,775 open jobs
+    • h3: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs26,451 open jobs
+    • h3: Research Software Engineer jobs
+    • li: Research Engineer jobs262,824 open jobs
+    • h3: Research Engineer jobs
+    • li: Engineer jobs555,845 open jobs
+    • h3: Engineer jobs
+    • li: Information Assurance Engineer jobs8,607 open jobs
+    • h3: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs11,546 open jobs
+    • h3: Quantitative Developer jobs
+
+[Div 221]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Emergency Medicine Resident jobs
+
+[Div 222]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 223]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Intelligence Specialist jobs
+
+[Div 224]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 225]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Scientist jobs
+
+[Div 226]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 227]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Data Scientist jobs
+
+[Div 228]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 229]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: General Engineer jobs
+
+[Div 230]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 231]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Staff Research Engineer jobs
+
+[Div 232]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 233]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Insurance Counselor jobs
+
+[Div 234]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 235]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Algorithm Engineer jobs
+
+[Div 236]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 237]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Computer Engineer jobs
+
+[Div 238]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 239]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Scientist jobs
+
+[Div 240]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 241]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Junior Scientist jobs
+
+[Div 242]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 243]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Lead Scientist jobs
+
+[Div 244]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 245]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Data Science Specialist jobs
+
+[Div 246]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 247]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Processing Geophysicist jobs
+
+[Div 248]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 249]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Assistant Professor of Philosophy jobs
+
+[Div 250]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 251]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Processing Engineer jobs
+
+[Div 252]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 253]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Manufacturing Process Engineer jobs
+
+[Div 254]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 255]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Python Developer jobs
+
+[Div 256]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 257]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Learning Specialist jobs
+
+[Div 258]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 259]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Integration Specialist jobs
+
+[Div 260]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 261]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Research Software Engineer jobs
+
+[Div 262]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 263]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Research Engineer jobs
+
+[Div 264]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 265]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Engineer jobs
+
+[Div 266]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 267]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Information Assurance Engineer jobs
+
+[Div 268]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 269]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Quantitative Developer jobs
+
+[Div 270]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 271]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Explore collaborative articles
+    • p: We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+[Div 272]
+  ➤ class: ['flex', 'flex-row']
+  ➤ id: None
+  ➤ child tags: h2, img
+    • h2: Explore collaborative articles
+
+[Div 273]
+  ➤ class: ['pre-footer']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobsData Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobsScience Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobsQuantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobsData Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobsScience Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobsQuantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobs
+    • li: Seven Bridges jobs
+    • li: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs
+    • li: Scientist jobs
+    • li: The Hospital at Westlake Medical Center jobs
+    • li: Data Scientist jobs
+    • li: General Engineer jobs
+    • li: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs
+    • li: SDK Software, Inc. jobs
+    • li: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs
+    • li: Junior Scientist jobs
+    • li: Lead Scientist jobs
+    • ul: Data Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobs
+    • li: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs
+    • li: The Coordinating Center jobs
+    • li: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs
+    • li: Total Education Solutions jobs
+    • li: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs
+    • li: Research Engineer jobs
+    • li: Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs
+    • ul: Science Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobs
+    • li: Science Specialist jobs
+    • li: Quantitative Researcher jobs
+    • li: Algorithm Developer jobs
+    • li: ArcBest Technologies jobs
+    • li: Reflexologist jobs
+    • li: Senior Telecommunications Analyst jobs
+    • li: Adjust jobs
+    • li: Robotics Engineer jobs
+    • li: AMI jobs
+    • li: Research Scientist jobs
+    • li: Computer Vision Engineer jobs
+    • li: Science Manager jobs
+    • li: Statistical Researcher jobs
+    • li: Researcher jobs
+    • li: Data Engineer jobs
+    • ul: Quantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Quantitative Analyst jobs
+    • li: Software Engineer jobs
+    • li: Graduate Software Engineer jobs
+    • li: Data Mining Specialist jobs
+    • li: Computational Biologist jobs
+    • li: Wireless System Engineer jobs
+    • li: Analytical Engineer jobs
+    • li: Computer Scientist jobs
+    • li: Computer Engineer jobs
+    • li: Senior Audio Engineer jobs
+    • li: Computational Scientist jobs
+    • li: Software System Architect jobs
+    • li: Django Developer jobs
+    • li: Signal Processing Engineer jobs
+    • li: Online Marketing Executive jobs
+
+[Div 274]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobsData Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobsScience Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobsQuantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobsData Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobsScience Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobsQuantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobs
+    • li: Seven Bridges jobs
+    • li: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs
+    • li: Scientist jobs
+    • li: The Hospital at Westlake Medical Center jobs
+    • li: Data Scientist jobs
+    • li: General Engineer jobs
+    • li: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs
+    • li: SDK Software, Inc. jobs
+    • li: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs
+    • li: Junior Scientist jobs
+    • li: Lead Scientist jobs
+    • ul: Data Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobs
+    • li: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs
+    • li: The Coordinating Center jobs
+    • li: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs
+    • li: Total Education Solutions jobs
+    • li: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs
+    • li: Research Engineer jobs
+    • li: Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs
+    • ul: Science Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobs
+    • li: Science Specialist jobs
+    • li: Quantitative Researcher jobs
+    • li: Algorithm Developer jobs
+    • li: ArcBest Technologies jobs
+    • li: Reflexologist jobs
+    • li: Senior Telecommunications Analyst jobs
+    • li: Adjust jobs
+    • li: Robotics Engineer jobs
+    • li: AMI jobs
+    • li: Research Scientist jobs
+    • li: Computer Vision Engineer jobs
+    • li: Science Manager jobs
+    • li: Statistical Researcher jobs
+    • li: Researcher jobs
+    • li: Data Engineer jobs
+    • ul: Quantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Quantitative Analyst jobs
+    • li: Software Engineer jobs
+    • li: Graduate Software Engineer jobs
+    • li: Data Mining Specialist jobs
+    • li: Computational Biologist jobs
+    • li: Wireless System Engineer jobs
+    • li: Analytical Engineer jobs
+    • li: Computer Scientist jobs
+    • li: Computer Engineer jobs
+    • li: Senior Audio Engineer jobs
+    • li: Computational Scientist jobs
+    • li: Software System Architect jobs
+    • li: Django Developer jobs
+    • li: Signal Processing Engineer jobs
+    • li: Online Marketing Executive jobs
+
+[Div 275]
+  ➤ class: ['max-w-screen-content-max-w', 'w-full', 'flex', 'justify-between', 'my-0', 'mx-auto', 'mamabear:px-3', 'babybear:px-2', 'babybear:flex-col']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobs
+    • li: Seven Bridges jobs
+    • li: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs
+    • li: Scientist jobs
+    • li: The Hospital at Westlake Medical Center jobs
+    • li: Data Scientist jobs
+    • li: General Engineer jobs
+    • li: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs
+    • li: SDK Software, Inc. jobs
+    • li: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs
+    • li: Junior Scientist jobs
+    • li: Lead Scientist jobs
+    • ul: Data Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobs
+    • li: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs
+    • li: The Coordinating Center jobs
+    • li: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs
+    • li: Total Education Solutions jobs
+    • li: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs
+    • li: Research Engineer jobs
+    • li: Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs
+    • ul: Science Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobs
+    • li: Science Specialist jobs
+    • li: Quantitative Researcher jobs
+    • li: Algorithm Developer jobs
+    • li: ArcBest Technologies jobs
+    • li: Reflexologist jobs
+    • li: Senior Telecommunications Analyst jobs
+    • li: Adjust jobs
+    • li: Robotics Engineer jobs
+    • li: AMI jobs
+    • li: Research Scientist jobs
+    • li: Computer Vision Engineer jobs
+    • li: Science Manager jobs
+    • li: Statistical Researcher jobs
+    • li: Researcher jobs
+    • li: Data Engineer jobs
+    • ul: Quantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Quantitative Analyst jobs
+    • li: Software Engineer jobs
+    • li: Graduate Software Engineer jobs
+    • li: Data Mining Specialist jobs
+    • li: Computational Biologist jobs
+    • li: Wireless System Engineer jobs
+    • li: Analytical Engineer jobs
+    • li: Computer Scientist jobs
+    • li: Computer Engineer jobs
+    • li: Senior Audio Engineer jobs
+    • li: Computational Scientist jobs
+    • li: Software System Architect jobs
+    • li: Django Developer jobs
+    • li: Signal Processing Engineer jobs
+    • li: Online Marketing Executive jobs
+
+[Div 276]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Seven Bridges jobsEmergency Medicine Resident jobsIntelligence Specialist jobsScientist jobsThe Hospital at Westlake Medical Center jobsData Scientist jobsGeneral Engineer jobsStaff Research Engineer jobsInsurance Counselor jobsSDK Software, Inc. jobsAlgorithm Engineer jobsSenior Computer Engineer jobsSenior Scientist jobsJunior Scientist jobsLead Scientist jobs
+    • li: Seven Bridges jobs
+    • li: Emergency Medicine Resident jobs
+    • li: Intelligence Specialist jobs
+    • li: Scientist jobs
+    • li: The Hospital at Westlake Medical Center jobs
+    • li: Data Scientist jobs
+    • li: General Engineer jobs
+    • li: Staff Research Engineer jobs
+    • li: Insurance Counselor jobs
+    • li: SDK Software, Inc. jobs
+    • li: Algorithm Engineer jobs
+    • li: Senior Computer Engineer jobs
+    • li: Senior Scientist jobs
+    • li: Junior Scientist jobs
+    • li: Lead Scientist jobs
+
+[Div 277]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Data Science Specialist jobsProcessing Geophysicist jobsAssistant Professor of Philosophy jobsProcessing Engineer jobsThe Coordinating Center jobsSenior Manufacturing Process Engineer jobsPython Developer jobsTotal Education Solutions jobsLearning Specialist jobsSenior Integration Specialist jobsResearch Software Engineer jobsResearch Engineer jobsEngineer jobsInformation Assurance Engineer jobsQuantitative Developer jobs
+    • li: Data Science Specialist jobs
+    • li: Processing Geophysicist jobs
+    • li: Assistant Professor of Philosophy jobs
+    • li: Processing Engineer jobs
+    • li: The Coordinating Center jobs
+    • li: Senior Manufacturing Process Engineer jobs
+    • li: Python Developer jobs
+    • li: Total Education Solutions jobs
+    • li: Learning Specialist jobs
+    • li: Senior Integration Specialist jobs
+    • li: Research Software Engineer jobs
+    • li: Research Engineer jobs
+    • li: Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Quantitative Developer jobs
+
+[Div 278]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Science Specialist jobsQuantitative Researcher jobsAlgorithm Developer jobsArcBest Technologies jobsReflexologist jobsSenior Telecommunications Analyst jobsAdjust jobsRobotics Engineer jobsAMI jobsResearch Scientist jobsComputer Vision Engineer jobsScience Manager jobsStatistical Researcher jobsResearcher jobsData Engineer jobs
+    • li: Science Specialist jobs
+    • li: Quantitative Researcher jobs
+    • li: Algorithm Developer jobs
+    • li: ArcBest Technologies jobs
+    • li: Reflexologist jobs
+    • li: Senior Telecommunications Analyst jobs
+    • li: Adjust jobs
+    • li: Robotics Engineer jobs
+    • li: AMI jobs
+    • li: Research Scientist jobs
+    • li: Computer Vision Engineer jobs
+    • li: Science Manager jobs
+    • li: Statistical Researcher jobs
+    • li: Researcher jobs
+    • li: Data Engineer jobs
+
+[Div 279]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Quantitative Analyst jobsSoftware Engineer jobsGraduate Software Engineer jobsData Mining Specialist jobsComputational Biologist jobsWireless System Engineer jobsAnalytical Engineer jobsComputer Scientist jobsComputer Engineer jobsSenior Audio Engineer jobsComputational Scientist jobsSoftware System Architect jobsDjango Developer jobsSignal Processing Engineer jobsOnline Marketing Executive jobs
+    • li: Quantitative Analyst jobs
+    • li: Software Engineer jobs
+    • li: Graduate Software Engineer jobs
+    • li: Data Mining Specialist jobs
+    • li: Computational Biologist jobs
+    • li: Wireless System Engineer jobs
+    • li: Analytical Engineer jobs
+    • li: Computer Scientist jobs
+    • li: Computer Engineer jobs
+    • li: Senior Audio Engineer jobs
+    • li: Computational Scientist jobs
+    • li: Software System Architect jobs
+    • li: Django Developer jobs
+    • li: Signal Processing Engineer jobs
+    • li: Online Marketing Executive jobs
+
+[Div 280]
+  ➤ class: ['collapsible-dropdown', 'collapsible-dropdown--footer', 'collapsible-dropdown--up', 'flex', 'items-center', 'relative', 'hyphens-auto', 'language-selector', 'z-2']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 281]
+  ➤ class: ['guest-upsells']
+  ➤ id: None
+  ➤ child tags: div, script, form
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 282]
+  ➤ class: ['google-one-tap__module', 'hidden', 'fixed', 'flex', 'flex-col', 'items-center', 'top-[20px]', 'right-[20px]', 'z-[9999]']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 283]
+  ➤ class: ['google-auth__tnc-container', 'hidden', 'relative', 'top-2', 'bg-color-background-container-tint', 'pl-2', 'pr-1', 'pt-2', 'pb-3', 'w-[375px]', 'rounded-md', 'shadow-2xl']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 284]
+  ➤ class: None
+  ➤ id: google-one-tap__container
+  ➤ child tags: 
+
+[Div 285]
+  ➤ class: ['loader', 'loader--full-screen']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 286]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 287]
+  ➤ class: ['contextual-sign-in-modal', 'base-contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 288]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 289]
+  ➤ class: ['toasts', 'fixed', 'z-8', 'babybear:right-4', 'mamabear:right-4', 'papabear:min-h-[96px]', 'invisible', 'top:auto', 'bottom-4', 'left-4', 'papabear:w-[400px]', 'toasts--bottom']
+  ➤ id: toasts
+  ➤ child tags: template
+
+[Div 290]
+  ➤ class: ['toast', 'container-raised', 'flex', 'toast--bottom', 'transition', 'ease-accelerate', 'duration-xxslow']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 291]
+  ➤ class: ['toast__message', 'flex', 'flex-1', 'babybear:items-center', 'mamabear:items-center', 'papabear:items-start', 'py-2', 'px-1.5']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 292]
+  ➤ class: ['toast__message-content-container']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 293]
+  ➤ class: ['top-level-modal-container']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Articul8 AI
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 294]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: base-contextual-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Articul8 AI
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 295]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4', 'modal__overlay--visible']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to see who you already know at Articul8 AI
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 296]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Articul8 AI
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 297]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to see who you already know at Articul8 AI
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 298]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 299]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 300]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 301]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 302]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 303]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 304]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 305]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 306]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: base-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 307]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 308]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 309]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 310]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 311]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 312]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 313]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 314]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 315]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 316]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 317]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 318]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 319]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 320]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 321]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 322]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 323]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 324]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 325]
+  ➤ class: None
+  ➤ id: batBeacon634738507860
+  ➤ child tags: img
+
+
+🧾 Form Fields:
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-keywords', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-location', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'First name', 'Type': 'text', 'ID': 'first-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Last name', 'Type': 'text', 'ID': 'last-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Email', 'Type': 'text', 'ID': 'email-or-phone', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Password (6+ characters)', 'Type': 'password', 'ID': 'password', 'Required': 'false', 'Autocomplete': 'new-password'}
+{'Label': 'First name', 'Type': 'text', 'ID': 'first-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Last name', 'Type': 'text', 'ID': 'last-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Email', 'Type': 'text', 'ID': 'email-or-phone', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Password (6+ characters)', 'Type': 'password', 'ID': 'password', 'Required': 'false', 'Autocomplete': 'new-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'base-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'base-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

@@ -1,0 +1,363 @@
+URL: https://jobs.lever.co/hostinger/607cd5b1-d845-4ade-bd37-1fa26b14804b
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+    • h3: What You Will Do:
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • li: Enhance products that serve millions of global clients and contribute to the company's exponential growth.
+    • li: Create innovations in a company that is betting early on AI.
+    • li: Collaborate with product teams to define and refine new prototypes and functionalities.
+    • li: Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.
+    • li: Prototype new features and products using Generative AI.
+    • li: Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.
+    • li: Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.
+    • li: Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • h3: What We Expect:
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • li: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.
+    • li: Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.
+    • li: Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).
+    • li: High curiosity to stay up to date with the state of the art of the fast-moving AI field.
+    • li: Strong skills in Python programming.
+    • li: At least 1-2 years of experience in LLM-related projects.
+    • li: Capable of developing robust RESTful APIs and containerizing applications with Docker.
+    • li: Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.
+    • li: Fluency in both Lithuanian and English languages required.
+    • h3: What We Offer:
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • li: A culture where everyone values the highest standards, freedom, and responsibility.
+    • li: Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.
+    • li: Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.
+    • li: (Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.
+    • li: Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.
+    • li: A health insurance package for your well-being.
+    • li: Gross salary 4000 - 7000 Eur.*
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+    • h3: What You Will Do:
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • li: Enhance products that serve millions of global clients and contribute to the company's exponential growth.
+    • li: Create innovations in a company that is betting early on AI.
+    • li: Collaborate with product teams to define and refine new prototypes and functionalities.
+    • li: Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.
+    • li: Prototype new features and products using Generative AI.
+    • li: Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.
+    • li: Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.
+    • li: Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • h3: What We Expect:
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • li: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.
+    • li: Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.
+    • li: Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).
+    • li: High curiosity to stay up to date with the state of the art of the fast-moving AI field.
+    • li: Strong skills in Python programming.
+    • li: At least 1-2 years of experience in LLM-related projects.
+    • li: Capable of developing robust RESTful APIs and containerizing applications with Docker.
+    • li: Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.
+    • li: Fluency in both Lithuanian and English languages required.
+    • h3: What We Offer:
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • li: A culture where everyone values the highest standards, freedom, and responsibility.
+    • li: Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.
+    • li: Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.
+    • li: (Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.
+    • li: Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.
+    • li: A health insurance package for your well-being.
+    • li: Gross salary 4000 - 7000 Eur.*
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: AI Engineer
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 14]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 15]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What You Will Do:
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • li: Enhance products that serve millions of global clients and contribute to the company's exponential growth.
+    • li: Create innovations in a company that is betting early on AI.
+    • li: Collaborate with product teams to define and refine new prototypes and functionalities.
+    • li: Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.
+    • li: Prototype new features and products using Generative AI.
+    • li: Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.
+    • li: Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.
+    • li: Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • h3: What We Expect:
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • li: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.
+    • li: Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.
+    • li: Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).
+    • li: High curiosity to stay up to date with the state of the art of the fast-moving AI field.
+    • li: Strong skills in Python programming.
+    • li: At least 1-2 years of experience in LLM-related projects.
+    • li: Capable of developing robust RESTful APIs and containerizing applications with Docker.
+    • li: Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.
+    • li: Fluency in both Lithuanian and English languages required.
+    • h3: What We Offer:
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • li: A culture where everyone values the highest standards, freedom, and responsibility.
+    • li: Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.
+    • li: Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.
+    • li: (Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.
+    • li: Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.
+    • li: A health insurance package for your well-being.
+    • li: Gross salary 4000 - 7000 Eur.*
+
+[Div 16]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 24]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What You Will Do:
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • li: Enhance products that serve millions of global clients and contribute to the company's exponential growth.
+    • li: Create innovations in a company that is betting early on AI.
+    • li: Collaborate with product teams to define and refine new prototypes and functionalities.
+    • li: Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.
+    • li: Prototype new features and products using Generative AI.
+    • li: Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.
+    • li: Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.
+    • li: Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What You Will Do:
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • ul: Enhance products that serve millions of global clients and contribute to the company's exponential growth.Create innovations in a company that is betting early on AI.Collaborate with product teams to define and refine new prototypes and functionalities.Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.Prototype new features and products using Generative AI.Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+    • li: Enhance products that serve millions of global clients and contribute to the company's exponential growth.
+    • li: Create innovations in a company that is betting early on AI.
+    • li: Collaborate with product teams to define and refine new prototypes and functionalities.
+    • li: Stay updated with the latest developments in LLM (Large Language Models) and AI technologies, integrating them into our products as necessary.
+    • li: Prototype new features and products using Generative AI.
+    • li: Make prototypes that quickly prove the feasibility of solutions, using commercially available APIs and/or local Generative AI models.
+    • li: Optimize prototypical solutions by getting them production-ready through prompt engineering, fine-tuning, etc.
+    • li: Contribute to our company's goal of becoming a leading AI adoption company in the hosting market.
+
+[Div 26]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What We Expect:
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • li: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.
+    • li: Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.
+    • li: Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).
+    • li: High curiosity to stay up to date with the state of the art of the fast-moving AI field.
+    • li: Strong skills in Python programming.
+    • li: At least 1-2 years of experience in LLM-related projects.
+    • li: Capable of developing robust RESTful APIs and containerizing applications with Docker.
+    • li: Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.
+    • li: Fluency in both Lithuanian and English languages required.
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What We Expect:
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • ul: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).High curiosity to stay up to date with the state of the art of the fast-moving AI field.Strong skills in Python programming.At least 1-2 years of experience in LLM-related projects.Capable of developing robust RESTful APIs and containerizing applications with Docker.Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.Fluency in both Lithuanian and English languages required.
+    • li: Proven expertise in implementing Generative AI techniques, including prompt engineering, model fine-tuning, and embeddings for commercial use.
+    • li: Experience with commercially available APIs (e.g., Google, Azure, OpenAI) for text/image generation, embeddings, function calling, fine-tuning, etc., and proficiency in fine-tuning prompts for high-quality outcomes.
+    • li: Proficiency in deploying and optimizing open-source Generative AI models (e.g., LLaMA, Mistral), along with familiarity with related toolchains (e.g., Ollam, LangChain).
+    • li: High curiosity to stay up to date with the state of the art of the fast-moving AI field.
+    • li: Strong skills in Python programming.
+    • li: At least 1-2 years of experience in LLM-related projects.
+    • li: Capable of developing robust RESTful APIs and containerizing applications with Docker.
+    • li: Knowledgeable in Linux and DevOps methodologies, including the use of Git, Jira, and Docker.
+    • li: Fluency in both Lithuanian and English languages required.
+
+[Div 28]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What We Offer:
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • li: A culture where everyone values the highest standards, freedom, and responsibility.
+    • li: Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.
+    • li: Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.
+    • li: (Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.
+    • li: Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.
+    • li: A health insurance package for your well-being.
+    • li: Gross salary 4000 - 7000 Eur.*
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What We Offer:
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • ul: A culture where everyone values the highest standards, freedom, and responsibility.Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.(Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.A health insurance package for your well-being.Gross salary 4000 - 7000 Eur.**Specific compensation is offered based on work experience, competence, and compliance with other job requirements.
+    • li: A culture where everyone values the highest standards, freedom, and responsibility.
+    • li: Ability to take the lead and orchestrate changes together - no waiting line for your ideas and projects to become reality.
+    • li: Unlimited growth: Manager’s Academy, Coachhub, Reforge, Scribd learning tools, and invitations to the World’s best conferences.
+    • li: (Exceptional)-being: active challenges, onsite & online fitness classes, and wellness workshops.
+    • li: Hybrid work: combine modern office excitement in Kaunas and Vilnius with the comfort of working from home.
+    • li: A health insurance package for your well-being.
+    • li: Gross salary 4000 - 7000 Eur.*
+
+[Div 30]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 33]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 35]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 36]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Hostinger Home Page
+
+[Div 37]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Hostinger Home Page
+
+
+🧾 Form Fields:

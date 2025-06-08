@@ -1,0 +1,1185 @@
+URL: http://job-boards.greenhouse.io/xai/jobs/4592865007
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Applied AI Engineer & Researcher
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • p: xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+    • h3: About the Role
+    • p: In this role you might:
+    • ul: Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • li: Innovating data strategies to gather and refine both human and synthetic data.
+    • li: Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+    • li: Designing and implementing novel algorithms and models for complex, real-world applications.
+    • li: Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • p: The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+    • h3: Tech Stack
+    • ul: PythonJAX
+    • li: Python
+    • li: JAX
+    • h3: Interview Process
+    • p: After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+    • ol: Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • li: Coding assessment in a language of your choice.
+    • li: Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+    • li: Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • p: Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+    • h3: Annual Salary Range
+    • p: $180,000 - $440,000 USD
+    • p: xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+    • p: Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+    • p: For Los Angeles County (unincorporated) Candidates:
+    • p: xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+    • ul: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+    • li: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+    • li: Interacting with internal and/or external clients and colleagues; and
+    • li: Exercising sound judgment.
+    • p: California Consumer Privacy Act (CCPA) Notice
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+    • p: If you have a public LinkedIn profile, please provide its URL.
+    • p: If you have a public X profile, please provide its URL.
+    • p: If you have a Google Scholar page, please provide its URL.
+    • p: If you have a GitHub profile, please provide its URL.
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 3]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: Applied AI Engineer & Researcher
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • p: xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+    • h3: About the Role
+    • p: In this role you might:
+    • ul: Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • li: Innovating data strategies to gather and refine both human and synthetic data.
+    • li: Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+    • li: Designing and implementing novel algorithms and models for complex, real-world applications.
+    • li: Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • p: The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+    • h3: Tech Stack
+    • ul: PythonJAX
+    • li: Python
+    • li: JAX
+    • h3: Interview Process
+    • p: After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+    • ol: Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • li: Coding assessment in a language of your choice.
+    • li: Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+    • li: Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • p: Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+    • h3: Annual Salary Range
+    • p: $180,000 - $440,000 USD
+    • p: xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+    • p: Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+    • p: For Los Angeles County (unincorporated) Candidates:
+    • p: xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+    • ul: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+    • li: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+    • li: Interacting with internal and/or external clients and colleagues; and
+    • li: Exercising sound judgment.
+    • p: California Consumer Privacy Act (CCPA) Notice
+
+[Div 5]
+  ➤ class: ['job__tags']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['job__header']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h1: Applied AI Engineer & Researcher
+
+[Div 7]
+  ➤ class: ['job__title']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Applied AI Engineer & Researcher
+
+[Div 8]
+  ➤ class: ['job__location']
+  ➤ id: None
+  ➤ child tags: div, svg
+
+[Div 9]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 10]
+  ➤ class: ['job__description', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • p: xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+    • h3: About the Role
+    • p: In this role you might:
+    • ul: Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • li: Innovating data strategies to gather and refine both human and synthetic data.
+    • li: Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+    • li: Designing and implementing novel algorithms and models for complex, real-world applications.
+    • li: Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • p: The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+    • h3: Tech Stack
+    • ul: PythonJAX
+    • li: Python
+    • li: JAX
+    • h3: Interview Process
+    • p: After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+    • ol: Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • li: Coding assessment in a language of your choice.
+    • li: Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+    • li: Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • p: Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+    • h3: Annual Salary Range
+    • p: $180,000 - $440,000 USD
+    • p: xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+    • p: Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+    • p: For Los Angeles County (unincorporated) Candidates:
+    • p: xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+    • ul: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+    • li: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+    • li: Interacting with internal and/or external clients and colleagues; and
+    • li: Exercising sound judgment.
+    • p: California Consumer Privacy Act (CCPA) Notice
+
+[Div 11]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h3, p
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+
+[Div 12]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3, ol, p
+    • h3: About xAI
+    • p: xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+    • p: Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+    • p: We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+    • p: All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+    • p: xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+    • h3: About the Role
+    • p: In this role you might:
+    • ul: Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • li: Innovating data strategies to gather and refine both human and synthetic data.
+    • li: Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+    • li: Designing and implementing novel algorithms and models for complex, real-world applications.
+    • li: Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+    • p: The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+    • h3: Tech Stack
+    • ul: PythonJAX
+    • li: Python
+    • li: JAX
+    • h3: Interview Process
+    • p: After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+    • ol: Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • li: Coding assessment in a language of your choice.
+    • li: Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+    • li: Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+    • p: Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+    • h3: Annual Salary Range
+    • p: $180,000 - $440,000 USD
+
+[Div 13]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, p
+    • p: xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+    • p: Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+    • p: For Los Angeles County (unincorporated) Candidates:
+    • p: xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+    • ul: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+    • li: Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+    • li: Interacting with internal and/or external clients and colleagues; and
+    • li: Exercising sound judgment.
+    • p: California Consumer Privacy Act (CCPA) Notice
+
+[Div 14]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 15]
+  ➤ class: ['application--container']
+  ➤ id: None
+  ➤ child tags: div, form
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+    • p: If you have a public LinkedIn profile, please provide its URL.
+    • p: If you have a public X profile, please provide its URL.
+    • p: If you have a Google Scholar page, please provide its URL.
+    • p: If you have a GitHub profile, please provide its URL.
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 16]
+  ➤ class: ['application--header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 17]
+  ➤ class: ['application--header--text']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 18]
+  ➤ class: ['application--header--title']
+  ➤ id: None
+  ➤ child tags: h2
+    • h2: Apply for this job
+
+[Div 19]
+  ➤ class: ['application--header--required']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: *
+    • p: indicates a required field
+
+[Div 20]
+  ➤ class: ['application--header--required--asterisk']
+  ➤ id: None
+  ➤ child tags: p
+    • p: *
+
+[Div 21]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 23]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 26]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 27]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 29]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 32]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 33]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 35]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 36]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-resume
+  ➤ child tags: span
+
+[Div 37]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 38]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 39]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 40]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 41]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 42]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 43]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 44]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 45]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+    • p: If you have a public LinkedIn profile, please provide its URL.
+    • p: If you have a public X profile, please provide its URL.
+    • p: If you have a Google Scholar page, please provide its URL.
+    • p: If you have a GitHub profile, please provide its URL.
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+
+[Div 46]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+
+[Div 47]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 48]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 49]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+
+[Div 50]
+  ➤ class: ['question-description']
+  ➤ id: question_7804670007-description
+  ➤ child tags: p
+    • p: If you are currently employed in the field, please tell us the name of your employer.
+
+[Div 51]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+
+[Div 52]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 53]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 54]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+
+[Div 55]
+  ➤ class: ['question-description']
+  ➤ id: question_7804671007-description
+  ➤ child tags: p
+    • p: If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+
+[Div 56]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a public LinkedIn profile, please provide its URL.
+
+[Div 57]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 58]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 59]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a public LinkedIn profile, please provide its URL.
+
+[Div 60]
+  ➤ class: ['question-description']
+  ➤ id: question_7804672007-description
+  ➤ child tags: p
+    • p: If you have a public LinkedIn profile, please provide its URL.
+
+[Div 61]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a public X profile, please provide its URL.
+
+[Div 62]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 63]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 64]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a public X profile, please provide its URL.
+
+[Div 65]
+  ➤ class: ['question-description']
+  ➤ id: question_7804673007-description
+  ➤ child tags: p
+    • p: If you have a public X profile, please provide its URL.
+
+[Div 66]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a Google Scholar page, please provide its URL.
+
+[Div 67]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 68]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 69]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a Google Scholar page, please provide its URL.
+
+[Div 70]
+  ➤ class: ['question-description']
+  ➤ id: question_7804674007-description
+  ➤ child tags: p
+    • p: If you have a Google Scholar page, please provide its URL.
+
+[Div 71]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a GitHub profile, please provide its URL.
+
+[Div 72]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 73]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 74]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: If you have a GitHub profile, please provide its URL.
+
+[Div 75]
+  ➤ class: ['question-description']
+  ➤ id: question_7804675007-description
+  ➤ child tags: p
+    • p: If you have a GitHub profile, please provide its URL.
+
+[Div 76]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+
+[Div 77]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 78]
+  ➤ class: ['input-wrapper', 'input-wrapper__multi-line']
+  ➤ id: None
+  ➤ child tags: label, textarea
+
+[Div 79]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+
+[Div 80]
+  ➤ class: ['question-description']
+  ➤ id: question_8742897007-description
+  ➤ child tags: p
+    • p: In 100 words or less, tell us about a piece of work you are most proud of.
+
+[Div 81]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 82]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 83]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 84]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 85]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 86]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 87]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 88]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_8831293007-placeholder
+  ➤ child tags: 
+
+[Div 89]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 90]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 91]
+  ➤ class: ['eeoc__container', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 92]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 93]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+
+[Div 94]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 95]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 96]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 97]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 98]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 99]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 100]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 101]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-gender-placeholder
+  ➤ child tags: 
+
+[Div 102]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 103]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 104]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 105]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 106]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 107]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 108]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 109]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 110]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 111]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-hispanic_ethnicity-placeholder
+  ➤ child tags: 
+
+[Div 112]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 113]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 114]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+[Div 115]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 116]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 117]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 118]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 119]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 120]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 121]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 122]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-veteran_status-placeholder
+  ➤ child tags: 
+
+[Div 123]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 124]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 125]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 126]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, ul, p, br, strong, h2
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+
+[Div 127]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 128]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 129]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 130]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 131]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 132]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 133]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 134]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 135]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 136]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 137]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 138]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 139]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 140]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 141]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-disability_status-placeholder
+  ➤ child tags: 
+
+[Div 142]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 143]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 144]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 145]
+  ➤ class: ['application--submit']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 146]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 147]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+[Div 148]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 149]
+  ➤ class: ['grecaptcha-badge']
+  ➤ id: None
+  ➤ child tags: div, textarea
+
+[Div 150]
+  ➤ class: ['grecaptcha-logo']
+  ➤ id: None
+  ➤ child tags: iframe
+
+[Div 151]
+  ➤ class: ['grecaptcha-error']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'First Name*', 'Type': 'text', 'ID': 'first_name', 'Required': 'true', 'Autocomplete': 'given-name'}
+{'Label': 'Last Name*', 'Type': 'text', 'ID': 'last_name', 'Required': 'true', 'Autocomplete': 'family-name'}
+{'Label': 'Email*', 'Type': 'text', 'ID': 'email', 'Required': 'true', 'Autocomplete': 'email'}
+{'Label': 'Phone', 'Type': 'text', 'ID': 'phone', 'Required': 'false', 'Autocomplete': 'tel'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'resume', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Current company', 'Type': 'text', 'ID': 'question_7804670007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Current title', 'Type': 'text', 'ID': 'question_7804671007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'LinkedIn Profile', 'Type': 'text', 'ID': 'question_7804672007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'X Profile', 'Type': 'text', 'ID': 'question_7804673007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Google Scholar', 'Type': 'text', 'ID': 'question_7804674007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'GitHub Profile', 'Type': 'text', 'ID': 'question_7804675007', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Will you now, or in the future, require sponsorship for employment visa status (e.g., H-1B visa) to legally work for X.AI LLC in the U.S.?*', 'Type': 'text', 'ID': 'question_8831293007', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Gender', 'Type': 'text', 'ID': 'gender', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Are you Hispanic/Latino?', 'Type': 'text', 'ID': 'hispanic_ethnicity', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Veteran Status', 'Type': 'text', 'ID': 'veteran_status', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Disability Status', 'Type': 'text', 'ID': 'disability_status', 'Required': 'false', 'Autocomplete': 'off'}

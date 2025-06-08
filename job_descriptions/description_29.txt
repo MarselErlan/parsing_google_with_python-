@@ -1,0 +1,497 @@
+Applied AI Engineer, Federal
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About the Role
+Applied AI Engineers work directly with our end customers, including federal government and enterprise partners, to own strategy and execution of mission-critical AI solutions. This role mirrors the responsibilities of a hands-on AI startup CTO: you’ll collaborate in a small, agile team to deliver high-stakes projects, often in secure or regulated environments. A typical day may include:
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.
+Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.
+Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.
+Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.
+Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.
+Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.
+Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Focus
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.
+Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.
+Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.
+Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.
+Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+Minimum Requirements
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.6+ years of software engineering experience, ideally in environments requiring high reliability or security.Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.Proficiency in Python and/or TypeScript.Strong understanding of the HTTP protocol and secure API design.Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.
+Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.
+6+ years of software engineering experience, ideally in environments requiring high reliability or security.
+Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.
+Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.
+Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.
+Proficiency in Python and/or TypeScript.
+Strong understanding of the HTTP protocol and secure API design.
+Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Preferred Qualifications
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.History of deploying machine learning models to production, ideally in secure or cloud-based government environments.Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.
+Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.
+History of deploying machine learning models to production, ideally in secure or cloud-based government environments.
+Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.
+Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.
+Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“technical phone interview”) during which a member of our team will ask technical questions about your background or specialization. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:**Please note that the Statement of Exceptional Work is a key deciding factor for consideration.**
+15 min Technical Screen2x 45 min Coding Interview1 hour Meet the Team
+15 min Technical Screen
+2x 45 min Coding Interview
+1 hour Meet the Team
+Our goal is to finish the main process within one week. All interviews will be conducted via Google Meet or in-person.
+Benefits
+Competitive cash-based compensationxAI equityPrivate health and dental insuranceUnlimited time off subject to prior approval
+Competitive cash-based compensation
+xAI equity
+Private health and dental insurance
+Unlimited time off subject to prior approval
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Applied AI Engineer, Federal
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About the Role
+Applied AI Engineers work directly with our end customers, including federal government and enterprise partners, to own strategy and execution of mission-critical AI solutions. This role mirrors the responsibilities of a hands-on AI startup CTO: you’ll collaborate in a small, agile team to deliver high-stakes projects, often in secure or regulated environments. A typical day may include:
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.
+Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.
+Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.
+Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.
+Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.
+Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.
+Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Focus
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.
+Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.
+Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.
+Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.
+Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+Minimum Requirements
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.6+ years of software engineering experience, ideally in environments requiring high reliability or security.Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.Proficiency in Python and/or TypeScript.Strong understanding of the HTTP protocol and secure API design.Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.
+Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.
+6+ years of software engineering experience, ideally in environments requiring high reliability or security.
+Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.
+Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.
+Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.
+Proficiency in Python and/or TypeScript.
+Strong understanding of the HTTP protocol and secure API design.
+Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Preferred Qualifications
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.History of deploying machine learning models to production, ideally in secure or cloud-based government environments.Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.
+Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.
+History of deploying machine learning models to production, ideally in secure or cloud-based government environments.
+Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.
+Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.
+Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“technical phone interview”) during which a member of our team will ask technical questions about your background or specialization. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:**Please note that the Statement of Exceptional Work is a key deciding factor for consideration.**
+15 min Technical Screen2x 45 min Coding Interview1 hour Meet the Team
+15 min Technical Screen
+2x 45 min Coding Interview
+1 hour Meet the Team
+Our goal is to finish the main process within one week. All interviews will be conducted via Google Meet or in-person.
+Benefits
+Competitive cash-based compensationxAI equityPrivate health and dental insuranceUnlimited time off subject to prior approval
+Competitive cash-based compensation
+xAI equity
+Private health and dental insurance
+Unlimited time off subject to prior approval
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Applied AI Engineer, Federal
+Applied AI Engineer, Federal
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About the Role
+Applied AI Engineers work directly with our end customers, including federal government and enterprise partners, to own strategy and execution of mission-critical AI solutions. This role mirrors the responsibilities of a hands-on AI startup CTO: you’ll collaborate in a small, agile team to deliver high-stakes projects, often in secure or regulated environments. A typical day may include:
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.
+Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.
+Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.
+Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.
+Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.
+Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.
+Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Focus
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.
+Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.
+Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.
+Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.
+Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+Minimum Requirements
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.6+ years of software engineering experience, ideally in environments requiring high reliability or security.Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.Proficiency in Python and/or TypeScript.Strong understanding of the HTTP protocol and secure API design.Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.
+Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.
+6+ years of software engineering experience, ideally in environments requiring high reliability or security.
+Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.
+Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.
+Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.
+Proficiency in Python and/or TypeScript.
+Strong understanding of the HTTP protocol and secure API design.
+Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Preferred Qualifications
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.History of deploying machine learning models to production, ideally in secure or cloud-based government environments.Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.
+Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.
+History of deploying machine learning models to production, ideally in secure or cloud-based government environments.
+Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.
+Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.
+Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“technical phone interview”) during which a member of our team will ask technical questions about your background or specialization. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:**Please note that the Statement of Exceptional Work is a key deciding factor for consideration.**
+15 min Technical Screen2x 45 min Coding Interview1 hour Meet the Team
+15 min Technical Screen
+2x 45 min Coding Interview
+1 hour Meet the Team
+Our goal is to finish the main process within one week. All interviews will be conducted via Google Meet or in-person.
+Benefits
+Competitive cash-based compensationxAI equityPrivate health and dental insuranceUnlimited time off subject to prior approval
+Competitive cash-based compensation
+xAI equity
+Private health and dental insurance
+Unlimited time off subject to prior approval
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About the Role
+Applied AI Engineers work directly with our end customers, including federal government and enterprise partners, to own strategy and execution of mission-critical AI solutions. This role mirrors the responsibilities of a hands-on AI startup CTO: you’ll collaborate in a small, agile team to deliver high-stakes projects, often in secure or regulated environments. A typical day may include:
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Drive the development and enhancement of the core product and underlying model, while collaborating cross-functionally to deliver end-to-end AI solutions.
+Identifying pain points, scoping product specifications, and designing and building LLM-powered software for government or enterprise use cases.
+Benchmarking models and developing evaluation frameworks to assess performance and address weaknesses, ensuring compliance with customer standards.
+Enhancing model performance through system prompt tuning or fine-tuning, with an eye toward secure and scalable deployment.
+Analyzing request logs, prompt data, or system outputs to ensure reliability and auditability.
+Building internal tooling to streamline workflows and automate repetitive tasks in secure environments.
+Refining xAI SDKs or developer documentation based on customer feedback, with an emphasis on usability for government or enterprise developers.
+Focus
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+A passion for solving complex, real-world problems—particularly those tied to government missions or enterprise objectives—delivering measurable impact through AI.
+Proven ability to ship high-quality, secure code and complete projects in challenging, regulated, or ambiguous environments.
+Adaptability to shifting priorities and requirements in a fast-paced, mission-driven startup setting.
+Exceptional communication skills to interface with customers—including government stakeholders—clarifying technical requirements and driving projects to completion.
+Expertise in designing, implementing, and maintaining robust, scalable, and secure AI-driven solutions that meet stringent compliance and operational standards.
+Minimum Requirements
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.6+ years of software engineering experience, ideally in environments requiring high reliability or security.Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.Proficiency in Python and/or TypeScript.Strong understanding of the HTTP protocol and secure API design.Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Government Partnership Experience: Demonstrated success working with government agencies, DoD, or federal contractors on AI, software, or data projects.
+Clearance Preferred: Active U.S. security clearance (e.g., Secret, Top Secret) or eligibility to obtain one is highly desirable.
+6+ years of software engineering experience, ideally in environments requiring high reliability or security.
+Excellent verbal and written communication skills in English, with experience documenting technical solutions for diverse stakeholders.
+Ability to translate business, product, or mission needs into engineering solutions, particularly for government or enterprise clients.
+Proven experience implementing AI or machine learning products with APIs, back-end systems, and front-end interfaces.
+Proficiency in Python and/or TypeScript.
+Strong understanding of the HTTP protocol and secure API design.
+Robust engineering background, preferably in fields such as Computer Science, Mathematics, Software Engineering, Physics, or Data Science.
+Preferred Qualifications
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.History of deploying machine learning models to production, ideally in secure or cloud-based government environments.Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Experience building evaluation frameworks for AI systems and assessing capabilities in regulated or high-stakes contexts.
+Deep understanding of machine learning fundamentals—model evaluation, training, and fine-tuning—with a focus on production-ready deployments.
+History of deploying machine learning models to production, ideally in secure or cloud-based government environments.
+Expertise in writing developer documentation or maintaining SDKs for technical audiences, including government developers.
+Ability to work with massive datasets, optimize system performance, and scale solutions for high-throughput, mission-critical workloads.
+Familiarity with infrastructure-as-code tools like Pulumi or Terraform, particularly in secure or government-aligned deployments.
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15 minute interview (“technical phone interview”) during which a member of our team will ask technical questions about your background or specialization. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:**Please note that the Statement of Exceptional Work is a key deciding factor for consideration.**
+15 min Technical Screen2x 45 min Coding Interview1 hour Meet the Team
+15 min Technical Screen
+2x 45 min Coding Interview
+1 hour Meet the Team
+Our goal is to finish the main process within one week. All interviews will be conducted via Google Meet or in-person.
+Benefits
+Competitive cash-based compensationxAI equityPrivate health and dental insuranceUnlimited time off subject to prior approval
+Competitive cash-based compensation
+xAI equity
+Private health and dental insurance
+Unlimited time off subject to prior approval
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+*
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+In 100 words or less, tell us about a piece of work you are most proud of.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Powered by
+Read ourPrivacy Policy

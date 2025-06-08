@@ -1,0 +1,393 @@
+URL: https://jobs.lever.co/aircall/1e2867d0-0c80-4c19-9000-8b7a1a888277
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Senior Software Engineer Backend/AI - Madrid
+    • h3: Your mission @ Aircall:
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • li: Participate in requirements analysis to help with providing the right technical and business solutions for our customers
+    • li: Propose innovative solutions based onAI landscape trends
+    • li: Have key responsibilities within the design, architecture, and end-to-end delivery of AI key modules
+    • li: Write clean scalable code and test and deploy applications and systems
+    • li: Revise, update, refactor, and debug code
+    • li: Be part of an engineering organization delivering high quality, secure, voice solutions to Aircall clients
+    • li: Involvement in product and platform performance optimization and live site monitoring
+    • li: Participate in an on-call rotation to respond to critical system issues and ensure continuous system reliability
+    • li: Mentor team members
+    • h3: A little about you:
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • li: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)
+    • li: You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performance
+    • li: Nice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by Amazon
+    • li: Security is at the forefront of your mind in everything that you do
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Senior Software Engineer Backend/AI - Madrid
+    • h3: Your mission @ Aircall:
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • li: Participate in requirements analysis to help with providing the right technical and business solutions for our customers
+    • li: Propose innovative solutions based onAI landscape trends
+    • li: Have key responsibilities within the design, architecture, and end-to-end delivery of AI key modules
+    • li: Write clean scalable code and test and deploy applications and systems
+    • li: Revise, update, refactor, and debug code
+    • li: Be part of an engineering organization delivering high quality, secure, voice solutions to Aircall clients
+    • li: Involvement in product and platform performance optimization and live site monitoring
+    • li: Participate in an on-call rotation to respond to critical system issues and ensure continuous system reliability
+    • li: Mentor team members
+    • h3: A little about you:
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • li: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)
+    • li: You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performance
+    • li: Nice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by Amazon
+    • li: Security is at the forefront of your mind in everything that you do
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Senior Software Engineer Backend/AI - Madrid
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Senior Software Engineer Backend/AI - Madrid
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: Senior Software Engineer Backend/AI - Madrid
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 14]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 15]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Your mission @ Aircall:
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • li: Participate in requirements analysis to help with providing the right technical and business solutions for our customers
+    • li: Propose innovative solutions based onAI landscape trends
+    • li: Have key responsibilities within the design, architecture, and end-to-end delivery of AI key modules
+    • li: Write clean scalable code and test and deploy applications and systems
+    • li: Revise, update, refactor, and debug code
+    • li: Be part of an engineering organization delivering high quality, secure, voice solutions to Aircall clients
+    • li: Involvement in product and platform performance optimization and live site monitoring
+    • li: Participate in an on-call rotation to respond to critical system issues and ensure continuous system reliability
+    • li: Mentor team members
+    • h3: A little about you:
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • li: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)
+    • li: You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performance
+    • li: Nice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by Amazon
+    • li: Security is at the forefront of your mind in everything that you do
+
+[Div 16]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span, b
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span, b
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span, b, a
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span, a
+
+[Div 24]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Your mission @ Aircall:
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • li: Participate in requirements analysis to help with providing the right technical and business solutions for our customers
+    • li: Propose innovative solutions based onAI landscape trends
+    • li: Have key responsibilities within the design, architecture, and end-to-end delivery of AI key modules
+    • li: Write clean scalable code and test and deploy applications and systems
+    • li: Revise, update, refactor, and debug code
+    • li: Be part of an engineering organization delivering high quality, secure, voice solutions to Aircall clients
+    • li: Involvement in product and platform performance optimization and live site monitoring
+    • li: Participate in an on-call rotation to respond to critical system issues and ensure continuous system reliability
+    • li: Mentor team members
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Your mission @ Aircall:
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • ul: Participate in requirements analysis to help with providing the right technical and business solutions for our customersPropose innovative solutions based onAI landscape trendsHave key responsibilities within the design, architecture, and end-to-end delivery of AI key modulesWrite clean scalable code and test and deploy applications and systemsRevise, update, refactor, and debug codeBe part of an engineering organization delivering high quality, secure, voice solutions to Aircall clientsInvolvement in product and platform performance optimization and live site monitoringParticipate in an on-call rotation to respond to critical system issues and ensure continuous system reliabilityMentor team members
+    • li: Participate in requirements analysis to help with providing the right technical and business solutions for our customers
+    • li: Propose innovative solutions based onAI landscape trends
+    • li: Have key responsibilities within the design, architecture, and end-to-end delivery of AI key modules
+    • li: Write clean scalable code and test and deploy applications and systems
+    • li: Revise, update, refactor, and debug code
+    • li: Be part of an engineering organization delivering high quality, secure, voice solutions to Aircall clients
+    • li: Involvement in product and platform performance optimization and live site monitoring
+    • li: Participate in an on-call rotation to respond to critical system issues and ensure continuous system reliability
+    • li: Mentor team members
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 27]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: A little about you:
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • li: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)
+    • li: You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performance
+    • li: Nice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by Amazon
+    • li: Security is at the forefront of your mind in everything that you do
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: A little about you:
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • ul: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performanceNice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by AmazonSecurity is at the forefront of your mind in everything that you do
+    • li: AI experience is a must for this position: Knowledge about LLMs (GPT, Mistral, Llama, Claude, etc…) and experience developing with them (usage, prompting, etc), AI frameworks (Langchain, LlamaIndex, Auto Gen, etc), AI architectures (RAG, reranking, etc)
+    • li: You have at least5+ years of experience in back-end development in a large scale, preferably typed language (Typescript/Node.js, Java, Scala),with experience in Javascript, Ruby, or Python, with a focus on delivering for security, scalability, availability, and performance
+    • li: Nice to have: Ideally you willhave worked with AWSin a production environment and understand how to design for, deploy on and get the best out of, the environment and services provided by Amazon
+    • li: Security is at the forefront of your mind in everything that you do
+
+[Div 29]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 33]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 36]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 37]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 39]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 40]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 41]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 42]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 43]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 44]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 45]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 46]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 47]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 48]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 49]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 50]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 51]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 52]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 53]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 54]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 55]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 56]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Aircall Home Page
+
+[Div 57]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Aircall Home Page
+
+
+🧾 Form Fields:

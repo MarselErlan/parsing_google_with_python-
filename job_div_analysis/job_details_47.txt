@@ -1,0 +1,669 @@
+URL: https://jobs.smartrecruiters.com/MicroStrategy1/744000058218695-ai-engineer-i
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: script
+
+[Div 2]
+  ➤ class: ['isn', 'isn-global-overlay']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Sorry, Internet Explorer 11 is no longer supported by SmartRecruiters
+    • p: Please update to one of the following browsers:
+    • ul: Google ChromeMicrosoft EdgeApple SafariMozilla Firefox
+    • li: Google Chrome
+    • li: Microsoft Edge
+    • li: Apple Safari
+    • li: Mozilla Firefox
+    • p: You can find details about supported web browsershere.
+
+[Div 3]
+  ➤ class: ['isn-global-overlay-backdrop']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Sorry, Internet Explorer 11 is no longer supported by SmartRecruiters
+    • p: Please update to one of the following browsers:
+    • ul: Google ChromeMicrosoft EdgeApple SafariMozilla Firefox
+    • li: Google Chrome
+    • li: Microsoft Edge
+    • li: Apple Safari
+    • li: Mozilla Firefox
+    • p: You can find details about supported web browsershere.
+
+[Div 4]
+  ➤ class: ['isn-global-overlay-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Sorry, Internet Explorer 11 is no longer supported by SmartRecruiters
+    • p: Please update to one of the following browsers:
+    • ul: Google ChromeMicrosoft EdgeApple SafariMozilla Firefox
+    • li: Google Chrome
+    • li: Microsoft Edge
+    • li: Apple Safari
+    • li: Mozilla Firefox
+    • p: You can find details about supported web browsershere.
+
+[Div 5]
+  ➤ class: ['isn-overlay-dialog', 'isn-bg-brand-white', 'isn-border-solid', 'isn-font-sans', 'isn-w-full']
+  ➤ id: None
+  ➤ child tags: section
+    • h1: Sorry, Internet Explorer 11 is no longer supported by SmartRecruiters
+    • p: Please update to one of the following browsers:
+    • ul: Google ChromeMicrosoft EdgeApple SafariMozilla Firefox
+    • li: Google Chrome
+    • li: Microsoft Edge
+    • li: Apple Safari
+    • li: Mozilla Firefox
+    • p: You can find details about supported web browsershere.
+
+[Div 6]
+  ➤ class: ['isn-overlay-dialog-header-icon-wrapper', 'isn-flex', 'isn-items-center']
+  ➤ id: None
+  ➤ child tags: svg
+
+[Div 7]
+  ➤ class: ['jobad', 'site']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer I
+    • ul: Full-time
+    • li: Full-time
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+    • h2: share this job
+    • h2: Other jobs at MicroStrategy Services Corp.
+    • ul: Cloud Support Engineer ITysons Corner, VIRGINIAAccount ExecutiveTysons Corner, VIRGINIARevenue Operations AnalystTysons Corner, VIRGINIAShow all jobs
+    • li: Cloud Support Engineer ITysons Corner, VIRGINIA
+    • p: Cloud Support Engineer I
+    • p: Tysons Corner, VIRGINIA
+    • li: Account ExecutiveTysons Corner, VIRGINIA
+    • p: Account Executive
+    • li: Revenue Operations AnalystTysons Corner, VIRGINIA
+    • p: Revenue Operations Analyst
+    • p: Tysons Corner, VIRGINIA
+    • li: Show all jobs
+
+[Div 8]
+  ➤ class: ['wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer I
+    • ul: Full-time
+    • li: Full-time
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+    • h2: share this job
+    • h2: Other jobs at MicroStrategy Services Corp.
+    • ul: Cloud Support Engineer ITysons Corner, VIRGINIAAccount ExecutiveTysons Corner, VIRGINIARevenue Operations AnalystTysons Corner, VIRGINIAShow all jobs
+    • li: Cloud Support Engineer ITysons Corner, VIRGINIA
+    • p: Cloud Support Engineer I
+    • p: Tysons Corner, VIRGINIA
+    • li: Account ExecutiveTysons Corner, VIRGINIA
+    • p: Account Executive
+    • li: Revenue Operations AnalystTysons Corner, VIRGINIA
+    • p: Revenue Operations Analyst
+    • p: Tysons Corner, VIRGINIA
+    • li: Show all jobs
+
+[Div 9]
+  ➤ class: ['grid']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer I
+    • ul: Full-time
+    • li: Full-time
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+    • h2: share this job
+    • h2: Other jobs at MicroStrategy Services Corp.
+    • ul: Cloud Support Engineer ITysons Corner, VIRGINIAAccount ExecutiveTysons Corner, VIRGINIARevenue Operations AnalystTysons Corner, VIRGINIAShow all jobs
+    • li: Cloud Support Engineer ITysons Corner, VIRGINIA
+    • p: Cloud Support Engineer I
+    • p: Tysons Corner, VIRGINIA
+    • li: Account ExecutiveTysons Corner, VIRGINIA
+    • p: Account Executive
+    • li: Revenue Operations AnalystTysons Corner, VIRGINIA
+    • p: Revenue Operations Analyst
+    • p: Tysons Corner, VIRGINIA
+    • li: Show all jobs
+
+[Div 10]
+  ➤ class: ['column', 'jobad-container', 'wide-9of16', 'medium-5of8', 'print-block', 'equal-column']
+  ➤ id: None
+  ➤ child tags: header, main
+    • h1: AI Engineer I
+    • ul: Full-time
+    • li: Full-time
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+
+[Div 11]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: meta
+
+[Div 12]
+  ➤ class: ['job-sections']
+  ➤ id: None
+  ➤ child tags: div, section
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+
+[Div 13]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Company Description
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+    • h2: Job Description
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+    • h2: Additional Information
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+
+[Div 14]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Company Description
+
+[Div 15]
+  ➤ class: ['wysiwyg']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Strategy (Nasdaq: MSTR) is at the forefront of transforming organizations into intelligent enterprises through data-driven innovation. We don't just follow trends—we set them and drive change. As a market leader in enterprise analytics and mobility software, we've pioneered the BI and analytics space, empowering people to make better decisions and revolutionizing how businesses operate.
+    • p: But that's not all. Strategy is also leading a groundbreaking shift in how companies approach their treasury reserve strategy, boldly adopting Bitcoin as a key asset. This visionary move is reshaping the financial landscape and solidifying our position as a forward-thinking, innovative force in the market. Four years after adopting the Bitcoin Standard, Strategy's stock has outperformed every company in the S&P 500.
+    • p: Our people are the core of our success. At Strategy, you'll join a team of smart, creative minds working on dynamic projects with cutting-edge technologies. We thrive on curiosity, innovation, and a relentless pursuit of excellence.
+    • p: Our corporate values—bold, agile, engaged, impactful, and united—are the foundation of our culture. As we lead the charge into the new era of AI and financial innovation, we foster an environment where every employee's contributions are recognized and valued.
+
+[Div 16]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Job Description
+
+[Div 17]
+  ➤ class: ['wysiwyg']
+  ➤ id: None
+  ➤ child tags: ul, p
+    • p: We are looking for a highly skilled AI Engineer to join our team and contribute to the development of AI-powered solutions. The ideal candidate will have expertise in Python programming, REST API development, cloud infrastructure, and AI model integration.
+    • p: We are seeking candidates who are on track to graduate in May 2025 or who have graduated in Fall 2024.
+    • p: This is a full-time position and not remote. Work will be conducted from our office in Tysons, VA.
+    • p: Key Responsibilities:
+    • ul: Develop, maintain, and optimize AI-driven applications using Python.Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.Design and build RESTful APIs with FastAPI for seamless integration of AI services.Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.Interface with relational and vector databases for efficient AI data retrieval and storage.Implement text embedding techniques to improve AI-powered natural language processing tasks.Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.Utilize Docker for containerization, ensuring scalable and efficient deployment.Collaborate with cross-functional teams using Git for version control and code management.
+    • li: Develop, maintain, and optimize AI-driven applications using Python.
+    • li: Implement object-oriented programming, module creation, and unit testing to ensure code quality and maintainability.
+    • li: Design and build RESTful APIs with FastAPI for seamless integration of AI services.
+    • li: Work with various Large Language Models (LLMs), including OpenAI and Azure OpenAI, to enhance AI-driven functionalities.
+    • li: Interface with relational and vector databases for efficient AI data retrieval and storage.
+    • li: Implement text embedding techniques to improve AI-powered natural language processing tasks.
+    • li: Deploy and manage AI applications on cloud platforms such as AWS, Azure, and GCP.
+    • li: Utilize Docker for containerization, ensuring scalable and efficient deployment.
+    • li: Collaborate with cross-functional teams using Git for version control and code management.
+    • p: Requirements:
+    • ul: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.Proven experience in developing and deploying NLP and AI-based solutions.Strong programming skills in Python, R, and SQL.
+    • li: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • p: Bachelor’s/Master’s degree in Computer Science or equivalent.Targeting May 2025 graduates.
+    • li: Proven experience in developing and deploying NLP and AI-based solutions.
+    • p: Proven experience in developing and deploying NLP and AI-based solutions.
+    • li: Strong programming skills in Python, R, and SQL.
+    • p: Strong programming skills in Python, R, and SQL.
+    • ul: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.Familiarity with data visualization tools such as MicroStrategy preferred.Strong analytical and problem-solving skills.
+    • li: Experience with NLP and AI frameworks such as NLTK, Spacy, TensorFlow, or PyTorch.
+    • li: Familiarity with data visualization tools such as MicroStrategy preferred.
+    • li: Strong analytical and problem-solving skills.
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Additional Information
+
+[Div 19]
+  ➤ class: ['wysiwyg']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+    • p: Strategy is an Equal Employment and Affirmative Action employer F/M/Disability/Vet/Sexual Orientation/Gender Identity.
+    • p: Strategy is an Equal Employment /Affirmative Action employer and provides reasonable accommodation for qualified individuals with disabilities and disabled veterans in job application procedures.  If you have any difficulty using our online system and you need an accommodation due to a disability, you may contact us about your interest in employment at application_accommodations@strategy.com.
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['smartr-button-content-wrapper']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 22]
+  ➤ class: ['column', 'jobad-aside', 'wide-6of16', 'medium-3of8', 'print-block', 'equal-column']
+  ➤ id: None
+  ➤ child tags: aside
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+    • h2: share this job
+    • h2: Other jobs at MicroStrategy Services Corp.
+    • ul: Cloud Support Engineer ITysons Corner, VIRGINIAAccount ExecutiveTysons Corner, VIRGINIARevenue Operations AnalystTysons Corner, VIRGINIAShow all jobs
+    • li: Cloud Support Engineer ITysons Corner, VIRGINIA
+    • p: Cloud Support Engineer I
+    • p: Tysons Corner, VIRGINIA
+    • li: Account ExecutiveTysons Corner, VIRGINIA
+    • p: Account Executive
+    • li: Revenue Operations AnalystTysons Corner, VIRGINIA
+    • p: Revenue Operations Analyst
+    • p: Tysons Corner, VIRGINIA
+    • li: Show all jobs
+
+[Div 23]
+  ➤ class: ['jobad-buttons', 'print-hidden']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 24]
+  ➤ class: ['widget']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+
+[Div 25]
+  ➤ class: ['media', 'media--aligned']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+
+[Div 26]
+  ➤ class: ['media-object']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 27]
+  ➤ class: ['media-content']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+
+[Div 28]
+  ➤ class: ['details']
+  ➤ id: None
+  ➤ child tags: h3, p
+    • p: Posted by
+    • h3: Iwona Van Antwerp
+
+[Div 29]
+  ➤ class: ['widget', 'socials', 'print-hidden']
+  ➤ id: None
+  ➤ child tags: ul, h2
+    • h2: share this job
+
+[Div 30]
+  ➤ class: ['widget', 'print-hidden', 'js-others']
+  ➤ id: None
+  ➤ child tags: ul, h2
+    • h2: Other jobs at MicroStrategy Services Corp.
+    • ul: Cloud Support Engineer ITysons Corner, VIRGINIAAccount ExecutiveTysons Corner, VIRGINIARevenue Operations AnalystTysons Corner, VIRGINIAShow all jobs
+    • li: Cloud Support Engineer ITysons Corner, VIRGINIA
+    • p: Cloud Support Engineer I
+    • p: Tysons Corner, VIRGINIA
+    • li: Account ExecutiveTysons Corner, VIRGINIA
+    • p: Account Executive
+    • li: Revenue Operations AnalystTysons Corner, VIRGINIA
+    • p: Revenue Operations Analyst
+    • p: Tysons Corner, VIRGINIA
+    • li: Show all jobs
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span, spl-icon
+
+[Div 32]
+  ➤ class: ['widget', 'js-qr-code']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 33]
+  ➤ class: ['modal', 'js-modals', 'is-closed']
+  ➤ id: wechat-inline
+  ➤ child tags: div
+    • p: Copy the link and open WeChat to share.
+
+[Div 34]
+  ➤ class: ['modal-dialog', 'modal--small']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Copy the link and open WeChat to share.
+
+[Div 35]
+  ➤ class: ['modal-header']
+  ➤ id: None
+  ➤ child tags: button, h4
+
+[Div 36]
+  ➤ class: ['modal-body', 'text--center']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Copy the link and open WeChat to share.
+
+[Div 37]
+  ➤ class: ['grid']
+  ➤ id: None
+  ➤ child tags: div, p, input
+    • p: Copy the link and open WeChat to share.
+
+[Div 38]
+  ➤ class: ['column']
+  ➤ id: None
+  ➤ child tags: button, a
+
+[Div 39]
+  ➤ class: ['modal', 'is-closed']
+  ➤ id: wechat-qrcode
+  ➤ child tags: div
+    • p: Use Scan QR Code in WeChat and click ··· to share.
+
+[Div 40]
+  ➤ class: ['modal-dialog', 'modal--small']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Use Scan QR Code in WeChat and click ··· to share.
+
+[Div 41]
+  ➤ class: ['modal-header']
+  ➤ id: None
+  ➤ child tags: button, h4
+
+[Div 42]
+  ➤ class: ['modal-body', 'text--center']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Use Scan QR Code in WeChat and click ··· to share.
+
+[Div 43]
+  ➤ class: ['is-loading']
+  ➤ id: qr-share
+  ➤ child tags: 
+
+[Div 44]
+  ➤ class: None
+  ➤ id: fb-root
+  ➤ child tags: 
+
+[Div 45]
+  ➤ class: None
+  ➤ id: popupholder
+  ➤ child tags: 
+
+[Div 46]
+  ➤ class: ['summary', 'print-hidden']
+  ➤ id: None
+  ➤ child tags: div
+    • p: AI Engineer I
+    • ul: Tysons Corner, VIRGINIAFull-time
+    • li: Tysons Corner, VIRGINIA
+    • li: Full-time
+
+[Div 47]
+  ➤ class: ['wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: AI Engineer I
+    • ul: Tysons Corner, VIRGINIAFull-time
+    • li: Tysons Corner, VIRGINIA
+    • li: Full-time
+
+[Div 48]
+  ➤ class: ['grid', 'grid--middle', 'summary-grid']
+  ➤ id: None
+  ➤ child tags: div, aside
+    • p: AI Engineer I
+    • ul: Tysons Corner, VIRGINIAFull-time
+    • li: Tysons Corner, VIRGINIA
+    • li: Full-time
+
+[Div 49]
+  ➤ class: ['column', 'summary-main', 'jobad-container', 'wide-9of16', 'medium-5of8']
+  ➤ id: None
+  ➤ child tags: ul, p
+    • p: AI Engineer I
+    • ul: Tysons Corner, VIRGINIAFull-time
+    • li: Tysons Corner, VIRGINIA
+    • li: Full-time
+
+[Div 50]
+  ➤ class: ['smartr-button-content-wrapper']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 51]
+  ➤ class: None
+  ➤ id: onetrust-consent-sdk
+  ➤ child tags: div
+
+[Div 52]
+  ➤ class: ['onetrust-pc-dark-filter', 'ot-hide', 'ot-fade-in']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

@@ -1,0 +1,335 @@
+URL: https://job-boards.greenhouse.io/speechify/jobs/5189157004
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['banner-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 2]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: div
+    • p: The job you are looking for is no longer open.
+
+[Div 3]
+  ➤ class: ['fade-in']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The job you are looking for is no longer open.
+
+[Div 4]
+  ➤ class: ['flash-contents', 'flash-contents--extra-light-red']
+  ➤ id: None
+  ➤ child tags: span, p
+    • p: The job you are looking for is no longer open.
+
+[Div 5]
+  ➤ class: ['index--content']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The mission of Speechify is tomake sure that reading is never a barrier to learning.
+    • p: Over 30 million people use Speechify’s text to speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more.
+    • ul: 150+ years of audio are consumed every month on SpeechifyGoogle recently named Speechify the Chrome Extension of the YearApple has recognized Speechify's iOS app as its winner of 2025's Inclusivity AwardTop #20 app in the App Store for Productivity
+    • li: 150+ years of audio are consumed every month on Speechify
+    • li: Google recently named Speechify the Chrome Extension of the Year
+    • li: Apple has recognized Speechify's iOS app as its winner of 2025's Inclusivity Award
+    • li: Top #20 app in the App Store for Productivity
+    • p: Speechify also provides a voice-over, voice cloning, and dubbing studio for businesses and creators and a text-to-speech API for developers. Through its products,Speechify is the largest provider of Speech AI in the world.
+    • p: Some of our tech stack includes: Swift, Kotlin, React, Typescript (frontend), NodeJS, Go (backend), and Python (AI).
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount. Everyone is expected by be hands-on with passion and desire to deliver excellent work.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • p: Background: Cliff Weitzman founded Speechify to overcome his own dyslexia. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, Netflix, and Google, leading PhD programs like Stanford, high growth startups like Revolut, Stripe, and Bolt, and many founders of their own companies.Excited to meet you!
+    • h2: 10 jobs
+    • h3: Engineering
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 6]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 7]
+  ➤ class: ['index--header']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The mission of Speechify is tomake sure that reading is never a barrier to learning.
+    • p: Over 30 million people use Speechify’s text to speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more.
+    • ul: 150+ years of audio are consumed every month on SpeechifyGoogle recently named Speechify the Chrome Extension of the YearApple has recognized Speechify's iOS app as its winner of 2025's Inclusivity AwardTop #20 app in the App Store for Productivity
+    • li: 150+ years of audio are consumed every month on Speechify
+    • li: Google recently named Speechify the Chrome Extension of the Year
+    • li: Apple has recognized Speechify's iOS app as its winner of 2025's Inclusivity Award
+    • li: Top #20 app in the App Store for Productivity
+    • p: Speechify also provides a voice-over, voice cloning, and dubbing studio for businesses and creators and a text-to-speech API for developers. Through its products,Speechify is the largest provider of Speech AI in the world.
+    • p: Some of our tech stack includes: Swift, Kotlin, React, Typescript (frontend), NodeJS, Go (backend), and Python (AI).
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount. Everyone is expected by be hands-on with passion and desire to deliver excellent work.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • p: Background: Cliff Weitzman founded Speechify to overcome his own dyslexia. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, Netflix, and Google, leading PhD programs like Stanford, high growth startups like Revolut, Stripe, and Bolt, and many founders of their own companies.Excited to meet you!
+
+[Div 8]
+  ➤ class: ['index--description']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The mission of Speechify is tomake sure that reading is never a barrier to learning.
+    • p: Over 30 million people use Speechify’s text to speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more.
+    • ul: 150+ years of audio are consumed every month on SpeechifyGoogle recently named Speechify the Chrome Extension of the YearApple has recognized Speechify's iOS app as its winner of 2025's Inclusivity AwardTop #20 app in the App Store for Productivity
+    • li: 150+ years of audio are consumed every month on Speechify
+    • li: Google recently named Speechify the Chrome Extension of the Year
+    • li: Apple has recognized Speechify's iOS app as its winner of 2025's Inclusivity Award
+    • li: Top #20 app in the App Store for Productivity
+    • p: Speechify also provides a voice-over, voice cloning, and dubbing studio for businesses and creators and a text-to-speech API for developers. Through its products,Speechify is the largest provider of Speech AI in the world.
+    • p: Some of our tech stack includes: Swift, Kotlin, React, Typescript (frontend), NodeJS, Go (backend), and Python (AI).
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount. Everyone is expected by be hands-on with passion and desire to deliver excellent work.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • p: Background: Cliff Weitzman founded Speechify to overcome his own dyslexia. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, Netflix, and Google, leading PhD programs like Stanford, high growth startups like Revolut, Stripe, and Bolt, and many founders of their own companies.Excited to meet you!
+
+[Div 9]
+  ➤ class: ['body']
+  ➤ id: None
+  ➤ child tags: span
+    • p: The mission of Speechify is tomake sure that reading is never a barrier to learning.
+    • p: Over 30 million people use Speechify’s text to speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more.
+    • ul: 150+ years of audio are consumed every month on SpeechifyGoogle recently named Speechify the Chrome Extension of the YearApple has recognized Speechify's iOS app as its winner of 2025's Inclusivity AwardTop #20 app in the App Store for Productivity
+    • li: 150+ years of audio are consumed every month on Speechify
+    • li: Google recently named Speechify the Chrome Extension of the Year
+    • li: Apple has recognized Speechify's iOS app as its winner of 2025's Inclusivity Award
+    • li: Top #20 app in the App Store for Productivity
+    • p: Speechify also provides a voice-over, voice cloning, and dubbing studio for businesses and creators and a text-to-speech API for developers. Through its products,Speechify is the largest provider of Speech AI in the world.
+    • p: Some of our tech stack includes: Swift, Kotlin, React, Typescript (frontend), NodeJS, Go (backend), and Python (AI).
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount. Everyone is expected by be hands-on with passion and desire to deliver excellent work.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • p: Background: Cliff Weitzman founded Speechify to overcome his own dyslexia. Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, Netflix, and Google, leading PhD programs like Stanford, high growth startups like Revolut, Stripe, and Bolt, and many founders of their own companies.Excited to meet you!
+
+[Div 10]
+  ➤ class: ['index__main']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: 10 jobs
+    • h3: Engineering
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 11]
+  ➤ class: ['filters']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 12]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 13]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 14]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 15]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 16]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 19]
+  ➤ class: ['select__value-container', 'select__value-container--is-multi', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 20]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-department-filter-placeholder
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 22]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 23]
+  ➤ class: ['padding']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: 10 jobs
+    • h3: Engineering
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 24]
+  ➤ class: ['job-posts']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Engineering
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 25]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Engineering
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 26]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: AI Engineer & Researcher, Inference
+    • p: Remote
+    • p: Applied AI Engineer & Researcher
+    • p: Remote
+    • p: Quality Assurance Engineer, Web Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, iOS Core Product
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Platform
+    • p: Remote
+    • p: Software Engineer, Studio
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+    • p: Software Engineer, Web Core Product & Chrome Extension
+    • p: Remote
+
+[Div 27]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 28]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+
+🧾 Form Fields:
+{'Label': 'Search', 'Type': 'text', 'ID': 'keyword-filter', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Department', 'Type': 'text', 'ID': 'department-filter', 'Required': 'false', 'Autocomplete': 'off'}

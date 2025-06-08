@@ -1,0 +1,5 @@
+
+LangChain is a framework for developing applications powered by language models.
+It provides tools for chaining together different components like LLMs, prompts, and data sources.
+The main benefits include modularity, composability, and ease of use.
+Common use cases include chatbots, question-answering systems, and content generation.

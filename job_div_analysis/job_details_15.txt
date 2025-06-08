@@ -1,0 +1,3361 @@
+URL: https://www.linkedin.com/jobs/artificial-intelligence-engineer-jobs
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['base-serp-page']
+  ➤ id: None
+  ➤ child tags: div, footer, section, header, a
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+    • ul: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)DoneCompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)DoneJob typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)DoneExperience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)DoneLocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)DoneSalary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)DoneRemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+    • li: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)Done
+    • li: CompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)Done
+    • li: Job typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)Done
+    • li: Experience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)Done
+    • li: LocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)Done
+    • li: Salary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)Done
+    • li: RemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h1: 16,000+Artificial Intelligence Engineer Jobs in United States
+    • ul: Data Engineer (L5)Data Engineer (L5)NetflixUnited StatesActively Hiring2 days agoData ScientistData ScientistTherapyNotes, LLCUnited StatesActively Hiring1 day agoData Scientist InternData Scientist InternFormFactor Inc.Livermore, CA13 hours ago
+    • li: Data Engineer (L5)Data Engineer (L5)NetflixUnited StatesActively Hiring2 days ago
+    • h3: Data Engineer (L5)
+    • li: Data ScientistData ScientistTherapyNotes, LLCUnited StatesActively Hiring1 day ago
+    • h3: Data Scientist
+    • li: Data Scientist InternData Scientist InternFormFactor Inc.Livermore, CA13 hours ago
+    • h3: Data Scientist Intern
+    • ul: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago**** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago**** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • li: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago
+    • h3: ******* ******** ********
+    • li: ** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago
+    • h3: ** ******** ******** (**/**) - ***** **********
+    • li: **** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago
+    • h3: **** ******** (**) - ***
+    • li: **** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • h3: **** ******** (******)
+    • h2: Sign in to view all job postings
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h3: Search similar titles
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • ul: Seniority levelNot ApplicableEmployment typeFull-timeJob functionOtherIndustriesEntertainment Providers
+    • li: Seniority levelNot Applicable
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionOther
+    • h3: Job function
+    • li: IndustriesEntertainment Providers
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobsDirector Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobsPraescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobsRobotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobsDirector Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobsPraescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobsRobotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • li: Intelligence Analyst jobs
+    • li: Ohio Lottery Commission jobs
+    • li: Field Operations Coordinator jobs
+    • li: Data Warehouse Administrator jobs
+    • li: Intelligence Officer jobs
+    • li: General Engineer jobs
+    • li: Hardware Network Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Processing Engineer jobs
+    • li: Scientist jobs
+    • li: Data Science Specialist jobs
+    • li: Senior Computer Engineer jobs
+    • ul: Director Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobs
+    • li: Director Business Management jobs
+    • li: Information Assurance Specialist jobs
+    • li: Chief Clinical Officer jobs
+    • li: Director Marketing Research jobs
+    • li: Country Product Manager jobs
+    • li: Mission Essential jobs
+    • li: Postgraduate Researcher jobs
+    • li: Assistant Professor of Computer Science jobs
+    • li: Python Developer jobs
+    • li: Learning Specialist jobs
+    • li: Knowledge Management Officer jobs
+    • li: Data Scientist jobs
+    • li: Technology Instructor jobs
+    • li: Safety Training Coordinator jobs
+    • li: Senior Technology Specialist jobs
+    • ul: Praescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobs
+    • li: Praescient Analytics jobs
+    • li: Black Rocket Productions jobs
+    • li: Senior Environmental Scientist jobs
+    • li: Market Coordinator jobs
+    • li: Hardware Software Engineer jobs
+    • li: Senior Demand Planning Analyst jobs
+    • li: MassDOT jobs
+    • li: Student Web Developer jobs
+    • li: Professor of Computer Science jobs
+    • li: Portal Developer jobs
+    • li: Science Specialist jobs
+    • li: Algorithm Engineer jobs
+    • li: Data Processing Technician jobs
+    • li: Engineer jobs
+    • li: Computer Vision Engineer jobs
+    • ul: Robotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Robotics Engineer jobs
+    • li: Research Clerk jobs
+    • li: Market Intelligence Manager jobs
+    • li: Global Purchasing Manager jobs
+    • li: Commercial Planning Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Orchid Island Golf and Beach Club jobs
+    • li: Intern jobs
+    • li: Web Consultant jobs
+    • li: Business Planning Analyst jobs
+    • li: Mutual Fund Representative jobs
+    • li: Contract Researcher jobs
+    • li: Junior Scientist jobs
+    • li: United States Air Force Academy jobs
+    • li: Investigations Manager jobs
+    • ul: LinkedIn© 2025AboutAccessibilityUser AgreementPrivacy PolicyYour California Privacy ChoicesCookie PolicyCopyright PolicyBrand PolicyGuest ControlsCommunity Guidelinesالعربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))Language
+    • li: LinkedIn© 2025
+    • li: About
+    • li: Accessibility
+    • li: User Agreement
+    • li: Privacy Policy
+    • li: Your California Privacy Choices
+    • li: Cookie Policy
+    • li: Copyright Policy
+    • li: Brand Policy
+    • li: Guest Controls
+    • li: Community Guidelines
+    • li: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))Language
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 2]
+  ➤ class: ['search-bar__full-placeholder', 'font-sans', 'text-md', 'text-color-text', 'max-w-[calc(100%-40px)]', 'text-left', 'whitespace-nowrap', 'overflow-hidden', 'text-ellipsis']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 3]
+  ➤ class: ['switcher-tabs__trigger-and-tabs', 'babymamabear:flex']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 4]
+  ➤ class: ['hidden']
+  ➤ id: switcher-description
+  ➤ child tags: 
+
+[Div 5]
+  ➤ class: ['switcher-tabs', 'hidden', 'z-[1]', 'w-auto', 'min-w-[160px]', 'mb-1.5', 'py-1', 'absolute', 'top-[48px]', 'left-0', 'border-solid', 'border-1', 'border-color-border-faint', 'papabear:container-raised', 'babymamabear:static', 'babymamabear:w-[100vw]', 'babymamabear:h-[48px]', 'babymamabear:p-0', 'overflow-y-hidden', 'overflow-x-auto', 'md:overflow-x-hidden']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 6]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 7]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 8]
+  ➤ class: ['search-bar__live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 9]
+  ➤ class: ['nav__cta-container', 'order-3', 'flex', 'gap-x-1', 'justify-end', 'min-w-[100px]', 'flex-nowrap', 'flex-shrink-0', 'babybear:flex-wrap', 'flex-2']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 10]
+  ➤ class: ['base-serp-page__filters']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)DoneCompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)DoneJob typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)DoneExperience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)DoneLocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)DoneSalary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)DoneRemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+    • li: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)Done
+    • li: CompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)Done
+    • li: Job typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)Done
+    • li: Experience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)Done
+    • li: LocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)Done
+    • li: Salary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)Done
+    • li: RemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+
+[Div 11]
+  ➤ class: ['search-filters', 'search-filters--carousel']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)DoneCompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)DoneJob typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)DoneExperience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)DoneLocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)DoneSalary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)DoneRemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+    • li: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)Done
+    • li: CompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)Done
+    • li: Job typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)Done
+    • li: Experience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)Done
+    • li: LocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)Done
+    • li: Salary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)Done
+    • li: RemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+
+[Div 12]
+  ➤ class: ['filters', 'filters--desktop']
+  ➤ id: None
+  ➤ child tags: form
+    • ul: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)DoneCompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)DoneJob typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)DoneExperience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)DoneLocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)DoneSalary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)DoneRemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+    • li: Any timeAny time (15,912)Past month (13,656)Past week (6,134)Past 24 hours (1,339)Done
+    • li: CompanyClear textMeta (304)Netflix (42)Nuro (19)Paces (6)Dentsply Sirona (2)Done
+    • li: Job typeFull-time (14,599)Part-time (33)Contract (747)Temporary (27)Volunteer (1)Done
+    • li: Experience levelInternship (205)Entry level (1,519)Associate (751)Mid-Senior level (9,892)Director (421)Done
+    • li: LocationClear textNew York, NY (866)San Francisco, CA (849)Mountain View, CA (314)Los Angeles, CA (182)Menlo Park, CA (84)Done
+    • li: Salary$40,000+ (4,066)$60,000+ (4,058)$80,000+ (4,026)$100,000+ (3,966)$120,000+ (3,806)Done
+    • li: RemoteOn-site (9,103)Hybrid (4,073)Remote (3,387)Done
+
+[Div 13]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 14]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 15]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 16]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 19]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 20]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 21]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 22]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 23]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 24]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, section, button
+
+[Div 25]
+  ➤ class: ['typeahead-live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 26]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 27]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 28]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 29]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 30]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 31]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 32]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 33]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 34]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 35]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 36]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 37]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 38]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 39]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 40]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 41]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 42]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 43]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 44]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 45]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 46]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 47]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 48]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 49]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 50]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 51]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 52]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 53]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 54]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 55]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 56]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, section, button
+
+[Div 57]
+  ➤ class: ['typeahead-live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 58]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 59]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 60]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 61]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 62]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 63]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 64]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 65]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 66]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 67]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 68]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 69]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 70]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 71]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 72]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 73]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 74]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 75]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 76]
+  ➤ class: ['dropdown-to-modal', 'filter__dropdown-to-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 77]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 78]
+  ➤ class: ['collapsible-dropdown__list', 'hidden', 'container-raised', 'absolute', 'w-auto', 'overflow-y-auto', 'flex-col', 'items-stretch', 'z-1', 'bottom-auto', 'top-[100%]']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 79]
+  ➤ class: ['filter-values-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 80]
+  ➤ class: ['filter-values-container__filter-values']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 81]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 82]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 83]
+  ➤ class: ['filter-values-container__filter-value']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 84]
+  ➤ class: ['base-serp-page__content']
+  ➤ id: None
+  ➤ child tags: section, main
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h1: 16,000+Artificial Intelligence Engineer Jobs in United States
+    • ul: Data Engineer (L5)Data Engineer (L5)NetflixUnited StatesActively Hiring2 days agoData ScientistData ScientistTherapyNotes, LLCUnited StatesActively Hiring1 day agoData Scientist InternData Scientist InternFormFactor Inc.Livermore, CA13 hours ago
+    • li: Data Engineer (L5)Data Engineer (L5)NetflixUnited StatesActively Hiring2 days ago
+    • h3: Data Engineer (L5)
+    • li: Data ScientistData ScientistTherapyNotes, LLCUnited StatesActively Hiring1 day ago
+    • h3: Data Scientist
+    • li: Data Scientist InternData Scientist InternFormFactor Inc.Livermore, CA13 hours ago
+    • h3: Data Scientist Intern
+    • ul: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago**** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago**** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • li: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago
+    • h3: ******* ******** ********
+    • li: ** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago
+    • h3: ** ******** ******** (**/**) - ***** **********
+    • li: **** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago
+    • h3: **** ******** (**) - ***
+    • li: **** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • h3: **** ******** (******)
+    • h2: Sign in to view all job postings
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h3: Search similar titles
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • ul: Seniority levelNot ApplicableEmployment typeFull-timeJob functionOtherIndustriesEntertainment Providers
+    • li: Seniority levelNot Applicable
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionOther
+    • h3: Job function
+    • li: IndustriesEntertainment Providers
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 85]
+  ➤ class: ['flex', 'justify-between', 'items-center', 'container-lined', 'py-1.5', 'px-2', 'mr-2', 'mb-2']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 86]
+  ➤ class: ['flex']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 87]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 88]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 89]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 90]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: alert-toggle-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 91]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 92]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 93]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 94]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 95]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 96]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 97]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 98]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 99]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 100]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 101]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 102]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: alert-toggle-sign-in-modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 103]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 104]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 105]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 106]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 107]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 108]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 109]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 110]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 111]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 112]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 113]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 114]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 115]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 116]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 117]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 118]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 119]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 120]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 121]
+  ➤ class: ['results-context-header']
+  ➤ id: None
+  ➤ child tags: h1
+    • h1: 16,000+Artificial Intelligence Engineer Jobs in United States
+
+[Div 122]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card', 'job-search-card--active']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Engineer (L5)
+
+[Div 123]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 124]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer (L5)
+
+[Div 125]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time, div
+
+[Div 126]
+  ➤ class: ['job-posting-benefits', 'text-sm']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 127]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Scientist
+
+[Div 128]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 129]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 130]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time, div
+
+[Div 131]
+  ➤ class: ['job-posting-benefits', 'text-sm']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 132]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Scientist Intern
+
+[Div 133]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 134]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist Intern
+
+[Div 135]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 136]
+  ➤ class: ['blurred-overlay', 'w-screen', 'h-screen', 'relative', '!w-full', '!h-full', 'min-h-[200px]']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago**** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago**** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • li: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago
+    • h3: ******* ******** ********
+    • li: ** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago
+    • h3: ** ******** ******** (**/**) - ***** **********
+    • li: **** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago
+    • h3: **** ******** (**) - ***
+    • li: **** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • h3: **** ******** (******)
+    • h2: Sign in to view all job postings
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 137]
+  ➤ class: ['blurred-content', 'blur']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago**** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago**** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • li: ******* ******** *************** ******** ********************* ******Actively Hiring1 week ago
+    • h3: ******* ******** ********
+    • li: ** ******** ******** (**/**) - ***** ************ ******** ******** (**/**) - ***** ******************** *******, **Actively Hiring1 week ago
+    • h3: ** ******** ******** (**/**) - ***** **********
+    • li: **** ******** (**) - ******* ******** (**) - **************** ******Actively Hiring6 days ago
+    • h3: **** ******** (**) - ***
+    • li: **** ******** (******)**** ******** (******)*************, **2 weeks ago
+    • h3: **** ******** (******)
+
+[Div 138]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: ******* ******** ********
+
+[Div 139]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 140]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: ******* ******** ********
+
+[Div 141]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time, div
+
+[Div 142]
+  ➤ class: ['job-posting-benefits', 'text-sm']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 143]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: ** ******** ******** (**/**) - ***** **********
+
+[Div 144]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 145]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: ** ******** ******** (**/**) - ***** **********
+
+[Div 146]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time, div
+
+[Div 147]
+  ➤ class: ['job-posting-benefits', 'text-sm']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 148]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: **** ******** (**) - ***
+
+[Div 149]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 150]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: **** ******** (**) - ***
+
+[Div 151]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time, div
+
+[Div 152]
+  ➤ class: ['job-posting-benefits', 'text-sm']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 153]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-search-card', 'base-search-card--link', 'job-search-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: **** ******** (******)
+
+[Div 154]
+  ➤ class: ['search-entity-media']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 155]
+  ➤ class: ['base-search-card__info']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: **** ******** (******)
+
+[Div 156]
+  ➤ class: ['base-search-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 157]
+  ➤ class: ['absolute', 'top-1/2', 'left-0', 'right-0', 'm-auto', '-translate-y-1/2', 'container-raised', 'container-lined', 'font-sans', 'text-color-text', 'text-center', 'max-w-[600px]', 'w-3/4', 'pb-3']
+  ➤ id: None
+  ➤ child tags: div, h3, h2
+    • h2: Sign in to view all job postings
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 158]
+  ➤ class: ['m-auto', 'justify-center', 'babybear:w-11/12', 'w-[276px]']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 159]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 160]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 161]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: blurred-overlay-jobs-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 162]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 163]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 164]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 165]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 166]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 167]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 168]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 169]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 170]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 171]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 172]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 173]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 174]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 175]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 176]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 177]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 178]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 179]
+  ➤ class: ['left-right-divider', 'my-1.5', 'm-auto']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 180]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 181]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 182]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 183]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 184]
+  ➤ class: ['details-pane__loader', 'details-pane__loader--hide']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 185]
+  ➤ class: ['loader']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 186]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 187]
+  ➤ class: ['details-pane__content', 'details-pane__content--show']
+  ➤ id: None
+  ➤ child tags: div, section, code
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • ul: Seniority levelNot ApplicableEmployment typeFull-timeJob functionOtherIndustriesEntertainment Providers
+    • li: Seniority levelNot Applicable
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionOther
+    • h3: Job function
+    • li: IndustriesEntertainment Providers
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 188]
+  ➤ class: ['top-card-layout__card', 'relative', 'p-2', 'papabear:p-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 189]
+  ➤ class: ['top-card-layout__entity-info-container', 'flex', 'flex-wrap', 'papabear:flex-nowrap']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 190]
+  ➤ class: ['top-card-layout__entity-info', 'flex-grow', 'flex-shrink-0', 'basis-0', 'babybear:flex-none', 'babybear:w-full', 'babybear:flex-none', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h4, a
+    • h2: Data Engineer (L5)
+    • p: See who Netflix has hired for this role
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 191]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 192]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span, figure
+
+[Div 193]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 194]
+  ➤ class: ['top-card-layout__cta-container', 'flex', 'flex-wrap', 'mt-0.5', 'papabear:mt-0', 'ml-[-12px]']
+  ➤ id: None
+  ➤ child tags: code, div, button, a
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 195]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 196]
+  ➤ class: ['modal', 'sign-up-modal']
+  ➤ id: sign-up-modal
+  ➤ child tags: div
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 197]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 198]
+  ➤ class: ['modal__main', 'w-full', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, code
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 199]
+  ➤ class: ['loader', 'loader--absolute']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 200]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 201]
+  ➤ class: ['sign-up-modal__body']
+  ➤ id: None
+  ➤ child tags: code, div, form
+    • p: Join to apply for theData Engineer (L5)role atNetflix
+    • h2: Security verification
+
+[Div 202]
+  ➤ class: ['profile-card', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 203]
+  ➤ class: ['profile-card__content']
+  ➤ id: None
+  ➤ child tags: div, button, img
+
+[Div 204]
+  ➤ class: ['profile-card__info']
+  ➤ id: None
+  ➤ child tags: h3, p
+
+[Div 205]
+  ➤ class: ['profile-card__edit-photo-modal', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 206]
+  ➤ class: ['profile-card__edit-photo-content']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 207]
+  ➤ class: ['profile-card__edit-photo-remove']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 208]
+  ➤ class: ['profile-card__edit-photo-cancel']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 209]
+  ➤ class: ['alert', 'hidden']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 210]
+  ➤ class: ['wrapper']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 211]
+  ➤ class: ['join-form__form-input-container', 'join-form__form-input-container--is-hidden', 'join-form__form-input-container--is-last-section', 'join-form__form-input-container--is-section-2']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 212]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 213]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 214]
+  ➤ class: ['join-form__form-input-container', 'join-form__form-input-container--is-section-1']
+  ➤ id: None
+  ➤ child tags: div, code
+
+[Div 215]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, datalist, input
+
+[Div 216]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 217]
+  ➤ class: ['pt-4']
+  ➤ id: join-form__legal-agreement-padding
+  ➤ child tags: 
+
+[Div 218]
+  ➤ class: ['join-form__form-body-agreement', 'join-form__form-body-agreement--is-hidden']
+  ➤ id: join-form__step_2_agreement
+  ➤ child tags: a
+
+[Div 219]
+  ➤ class: ['third-party-join__container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 220]
+  ➤ class: ['third-party-join__reg-option']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 221]
+  ➤ class: ['third-party-join__gsi-btn-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 222]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 223]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 224]
+  ➤ class: ['sign-up-modal__tertiary-cta-container']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 225]
+  ➤ class: None
+  ➤ id: teriary-cta-container
+  ➤ child tags: a
+
+[Div 226]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Security verification
+
+[Div 227]
+  ➤ class: ['modal', 'challenge-dialog']
+  ➤ id: challenge-dialog
+  ➤ child tags: div
+    • h2: Security verification
+
+[Div 228]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Security verification
+
+[Div 229]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 230]
+  ➤ class: ['flex']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 231]
+  ➤ class: ['sr-only']
+  ➤ id: focus-capture
+  ➤ child tags: 
+
+[Div 232]
+  ➤ class: ['ellipsis-menu', 'absolute', 'right-0', 'top-0', 'top-card-layout__ellipsis-menu', 'mr-1', 'papabear:mt-0.5', 'papabear:mr-2']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Report this job
+    • li: Report this job
+
+[Div 233]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Report this job
+    • li: Report this job
+
+[Div 234]
+  ➤ class: ['top-card-layout__footer', 'mt-2']
+  ➤ id: None
+  ➤ child tags: section
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 235]
+  ➤ class: ['flex', 'flex-wrap', 'space-x-1']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 236]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 237]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 238]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 239]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 240]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 241]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 242]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 243]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 244]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 245]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 246]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 247]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 248]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 249]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 250]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 251]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 252]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 253]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 254]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 255]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 256]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 257]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 258]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 259]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 260]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 261]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 262]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 263]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 264]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 265]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 266]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 267]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 268]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 269]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 270]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 271]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_fit_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 272]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 273]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 274]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 275]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 276]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 277]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 278]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 279]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 280]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 281]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 282]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 283]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 284]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 285]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 286]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 287]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 288]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 289]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 290]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 291]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 292]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 293]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 294]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 295]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 296]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 297]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 298]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 299]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 300]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 301]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 302]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 303]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 304]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_resume_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 305]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 306]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 307]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 308]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 309]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 310]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 311]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 312]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 313]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 314]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 315]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 316]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 317]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 318]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 319]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 320]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 321]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 322]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 323]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 324]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 325]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 326]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 327]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 328]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 329]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 330]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 331]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 332]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 333]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 334]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 335]
+  ➤ class: ['decorated-job-posting__details']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • ul: Seniority levelNot ApplicableEmployment typeFull-timeJob functionOtherIndustriesEntertainment Providers
+    • li: Seniority levelNot Applicable
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionOther
+    • h3: Job function
+    • li: IndustriesEntertainment Providers
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 336]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Retrieved from the description.
+    • h3: Base pay range
+
+[Div 337]
+  ➤ class: ['compensation__salary-range']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Base pay range
+
+[Div 338]
+  ➤ class: ['salary', 'compensation__salary']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 339]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, ul
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • ul: Seniority levelNot ApplicableEmployment typeFull-timeJob functionOtherIndustriesEntertainment Providers
+    • li: Seniority levelNot Applicable
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionOther
+    • h3: Job function
+    • li: IndustriesEntertainment Providers
+    • h3: Industries
+
+[Div 340]
+  ➤ class: ['description__text', 'description__text--rich']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+
+[Div 341]
+  ➤ class: ['show-more-less-html__markup', 'show-more-less-html__markup--clamp-after-5', 'relative', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: ul, strong, br
+    • ul: You strive to write elegant code, and you're comfortable with picking up new technologies independentlyYou are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQLYou enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning modelsYou have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modelingYou are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasetsYou have an eye for detail, good data intuition, and a passion for data qualityYou appreciate the importance of great documentation and data debugging skillsYou relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedbackYou are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+    • li: You strive to write elegant code, and you're comfortable with picking up new technologies independently
+    • li: You are proficient in at least one major programming language (e.g. Java, Scala, Python) and comfortable working with SQL
+    • li: You enjoy helping teams push the boundaries of analytical insights, creating new product features using data, and powering machine learning models
+    • li: You have a strong background in at least one of the following: distributed data processing or software engineering of data services, or data modeling
+    • li: You are familiar with big data technologies like Spark or Flink and comfortable working with web-scale datasets
+    • li: You have an eye for detail, good data intuition, and a passion for data quality
+    • li: You appreciate the importance of great documentation and data debugging skills
+    • li: You relate to and embody many of the aspects of the Netflix Culture. You love working independently while also collaborating and giving/receiving candid feedback
+    • li: You are comfortable working in a rapidly changing environment with ambiguous requirements. You are nimble and take intelligent risks
+
+[Div 342]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 343]
+  ➤ class: ['face-pile', 'flex', '!no-underline']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 344]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 345]
+  ➤ class: ['find-a-referral__cta-container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Referrals increase your chances of interviewing at Netflix by 2x
+
+[Div 346]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobsDirector Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobsPraescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobsRobotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobsDirector Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobsPraescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobsRobotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • li: Intelligence Analyst jobs
+    • li: Ohio Lottery Commission jobs
+    • li: Field Operations Coordinator jobs
+    • li: Data Warehouse Administrator jobs
+    • li: Intelligence Officer jobs
+    • li: General Engineer jobs
+    • li: Hardware Network Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Processing Engineer jobs
+    • li: Scientist jobs
+    • li: Data Science Specialist jobs
+    • li: Senior Computer Engineer jobs
+    • ul: Director Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobs
+    • li: Director Business Management jobs
+    • li: Information Assurance Specialist jobs
+    • li: Chief Clinical Officer jobs
+    • li: Director Marketing Research jobs
+    • li: Country Product Manager jobs
+    • li: Mission Essential jobs
+    • li: Postgraduate Researcher jobs
+    • li: Assistant Professor of Computer Science jobs
+    • li: Python Developer jobs
+    • li: Learning Specialist jobs
+    • li: Knowledge Management Officer jobs
+    • li: Data Scientist jobs
+    • li: Technology Instructor jobs
+    • li: Safety Training Coordinator jobs
+    • li: Senior Technology Specialist jobs
+    • ul: Praescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobs
+    • li: Praescient Analytics jobs
+    • li: Black Rocket Productions jobs
+    • li: Senior Environmental Scientist jobs
+    • li: Market Coordinator jobs
+    • li: Hardware Software Engineer jobs
+    • li: Senior Demand Planning Analyst jobs
+    • li: MassDOT jobs
+    • li: Student Web Developer jobs
+    • li: Professor of Computer Science jobs
+    • li: Portal Developer jobs
+    • li: Science Specialist jobs
+    • li: Algorithm Engineer jobs
+    • li: Data Processing Technician jobs
+    • li: Engineer jobs
+    • li: Computer Vision Engineer jobs
+    • ul: Robotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Robotics Engineer jobs
+    • li: Research Clerk jobs
+    • li: Market Intelligence Manager jobs
+    • li: Global Purchasing Manager jobs
+    • li: Commercial Planning Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Orchid Island Golf and Beach Club jobs
+    • li: Intern jobs
+    • li: Web Consultant jobs
+    • li: Business Planning Analyst jobs
+    • li: Mutual Fund Representative jobs
+    • li: Contract Researcher jobs
+    • li: Junior Scientist jobs
+    • li: United States Air Force Academy jobs
+    • li: Investigations Manager jobs
+
+[Div 347]
+  ➤ class: ['max-w-screen-content-max-w', 'w-full', 'flex', 'justify-between', 'my-0', 'mx-auto', 'mamabear:px-3', 'babybear:px-2', 'babybear:flex-col']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • li: Intelligence Analyst jobs
+    • li: Ohio Lottery Commission jobs
+    • li: Field Operations Coordinator jobs
+    • li: Data Warehouse Administrator jobs
+    • li: Intelligence Officer jobs
+    • li: General Engineer jobs
+    • li: Hardware Network Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Processing Engineer jobs
+    • li: Scientist jobs
+    • li: Data Science Specialist jobs
+    • li: Senior Computer Engineer jobs
+    • ul: Director Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobs
+    • li: Director Business Management jobs
+    • li: Information Assurance Specialist jobs
+    • li: Chief Clinical Officer jobs
+    • li: Director Marketing Research jobs
+    • li: Country Product Manager jobs
+    • li: Mission Essential jobs
+    • li: Postgraduate Researcher jobs
+    • li: Assistant Professor of Computer Science jobs
+    • li: Python Developer jobs
+    • li: Learning Specialist jobs
+    • li: Knowledge Management Officer jobs
+    • li: Data Scientist jobs
+    • li: Technology Instructor jobs
+    • li: Safety Training Coordinator jobs
+    • li: Senior Technology Specialist jobs
+    • ul: Praescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobs
+    • li: Praescient Analytics jobs
+    • li: Black Rocket Productions jobs
+    • li: Senior Environmental Scientist jobs
+    • li: Market Coordinator jobs
+    • li: Hardware Software Engineer jobs
+    • li: Senior Demand Planning Analyst jobs
+    • li: MassDOT jobs
+    • li: Student Web Developer jobs
+    • li: Professor of Computer Science jobs
+    • li: Portal Developer jobs
+    • li: Science Specialist jobs
+    • li: Algorithm Engineer jobs
+    • li: Data Processing Technician jobs
+    • li: Engineer jobs
+    • li: Computer Vision Engineer jobs
+    • ul: Robotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Robotics Engineer jobs
+    • li: Research Clerk jobs
+    • li: Market Intelligence Manager jobs
+    • li: Global Purchasing Manager jobs
+    • li: Commercial Planning Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Orchid Island Golf and Beach Club jobs
+    • li: Intern jobs
+    • li: Web Consultant jobs
+    • li: Business Planning Analyst jobs
+    • li: Mutual Fund Representative jobs
+    • li: Contract Researcher jobs
+    • li: Junior Scientist jobs
+    • li: United States Air Force Academy jobs
+    • li: Investigations Manager jobs
+
+[Div 348]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Machine Learning Engineer jobsMarket Research Coordinator jobsWeb Content Administrator jobsIntelligence Analyst jobsOhio Lottery Commission jobsField Operations Coordinator jobsData Warehouse Administrator jobsIntelligence Officer jobsGeneral Engineer jobsHardware Network Engineer jobsInformation Assurance Engineer jobsProcessing Engineer jobsScientist jobsData Science Specialist jobsSenior Computer Engineer jobs
+    • li: Machine Learning Engineer jobs
+    • li: Market Research Coordinator jobs
+    • li: Web Content Administrator jobs
+    • li: Intelligence Analyst jobs
+    • li: Ohio Lottery Commission jobs
+    • li: Field Operations Coordinator jobs
+    • li: Data Warehouse Administrator jobs
+    • li: Intelligence Officer jobs
+    • li: General Engineer jobs
+    • li: Hardware Network Engineer jobs
+    • li: Information Assurance Engineer jobs
+    • li: Processing Engineer jobs
+    • li: Scientist jobs
+    • li: Data Science Specialist jobs
+    • li: Senior Computer Engineer jobs
+
+[Div 349]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Director Business Management jobsInformation Assurance Specialist jobsChief Clinical Officer jobsDirector Marketing Research jobsCountry Product Manager jobsMission Essential jobsPostgraduate Researcher jobsAssistant Professor of Computer Science jobsPython Developer jobsLearning Specialist jobsKnowledge Management Officer jobsData Scientist jobsTechnology Instructor jobsSafety Training Coordinator jobsSenior Technology Specialist jobs
+    • li: Director Business Management jobs
+    • li: Information Assurance Specialist jobs
+    • li: Chief Clinical Officer jobs
+    • li: Director Marketing Research jobs
+    • li: Country Product Manager jobs
+    • li: Mission Essential jobs
+    • li: Postgraduate Researcher jobs
+    • li: Assistant Professor of Computer Science jobs
+    • li: Python Developer jobs
+    • li: Learning Specialist jobs
+    • li: Knowledge Management Officer jobs
+    • li: Data Scientist jobs
+    • li: Technology Instructor jobs
+    • li: Safety Training Coordinator jobs
+    • li: Senior Technology Specialist jobs
+
+[Div 350]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Praescient Analytics jobsBlack Rocket Productions jobsSenior Environmental Scientist jobsMarket Coordinator jobsHardware Software Engineer jobsSenior Demand Planning Analyst jobsMassDOT jobsStudent Web Developer jobsProfessor of Computer Science jobsPortal Developer jobsScience Specialist jobsAlgorithm Engineer jobsData Processing Technician jobsEngineer jobsComputer Vision Engineer jobs
+    • li: Praescient Analytics jobs
+    • li: Black Rocket Productions jobs
+    • li: Senior Environmental Scientist jobs
+    • li: Market Coordinator jobs
+    • li: Hardware Software Engineer jobs
+    • li: Senior Demand Planning Analyst jobs
+    • li: MassDOT jobs
+    • li: Student Web Developer jobs
+    • li: Professor of Computer Science jobs
+    • li: Portal Developer jobs
+    • li: Science Specialist jobs
+    • li: Algorithm Engineer jobs
+    • li: Data Processing Technician jobs
+    • li: Engineer jobs
+    • li: Computer Vision Engineer jobs
+
+[Div 351]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Robotics Engineer jobsResearch Clerk jobsMarket Intelligence Manager jobsGlobal Purchasing Manager jobsCommercial Planning Manager jobsBusiness Intelligence Administrator jobsOrchid Island Golf and Beach Club jobsIntern jobsWeb Consultant jobsBusiness Planning Analyst jobsMutual Fund Representative jobsContract Researcher jobsJunior Scientist jobsUnited States Air Force Academy jobsInvestigations Manager jobs
+    • li: Robotics Engineer jobs
+    • li: Research Clerk jobs
+    • li: Market Intelligence Manager jobs
+    • li: Global Purchasing Manager jobs
+    • li: Commercial Planning Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Orchid Island Golf and Beach Club jobs
+    • li: Intern jobs
+    • li: Web Consultant jobs
+    • li: Business Planning Analyst jobs
+    • li: Mutual Fund Representative jobs
+    • li: Contract Researcher jobs
+    • li: Junior Scientist jobs
+    • li: United States Air Force Academy jobs
+    • li: Investigations Manager jobs
+
+[Div 352]
+  ➤ class: ['collapsible-dropdown', 'collapsible-dropdown--footer', 'collapsible-dropdown--up', 'flex', 'items-center', 'relative', 'hyphens-auto', 'language-selector', 'z-2']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 353]
+  ➤ class: ['guest-upsells']
+  ➤ id: None
+  ➤ child tags: div, script, form
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 354]
+  ➤ class: ['google-one-tap__module', 'hidden', 'fixed', 'flex', 'flex-col', 'items-center', 'top-[20px]', 'right-[20px]', 'z-[9999]']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 355]
+  ➤ class: ['google-auth__tnc-container', 'hidden', 'relative', 'top-2', 'bg-color-background-container-tint', 'pl-2', 'pr-1', 'pt-2', 'pb-3', 'w-[375px]', 'rounded-md', 'shadow-2xl']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 356]
+  ➤ class: None
+  ➤ id: google-one-tap__container
+  ➤ child tags: 
+
+[Div 357]
+  ➤ class: ['loader', 'loader--full-screen']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 358]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 359]
+  ➤ class: ['contextual-sign-in-modal', 'base-contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 360]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 361]
+  ➤ class: ['toasts', 'fixed', 'z-8', 'babybear:right-4', 'mamabear:right-4', 'papabear:min-h-[96px]', 'invisible', 'top:auto', 'bottom-4', 'left-4', 'papabear:w-[400px]', 'toasts--bottom']
+  ➤ id: toasts
+  ➤ child tags: template
+
+[Div 362]
+  ➤ class: ['toast', 'container-raised', 'flex', 'toast--bottom', 'transition', 'ease-accelerate', 'duration-xxslow']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 363]
+  ➤ class: ['toast__message', 'flex', 'flex-1', 'babybear:items-center', 'mamabear:items-center', 'papabear:items-start', 'py-2', 'px-1.5']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 364]
+  ➤ class: ['toast__message-content-container']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 365]
+  ➤ class: ['top-level-modal-container']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to view more jobs
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 366]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: base-contextual-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to view more jobs
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 367]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4', 'modal__overlay--visible']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to view more jobs
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 368]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to view more jobs
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 369]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to view more jobs
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 370]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 371]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 372]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 373]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 374]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 375]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 376]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 377]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 378]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: base-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 379]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 380]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 381]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 382]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 383]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 384]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 385]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 386]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 387]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 388]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 389]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 390]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 391]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 392]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 393]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 394]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 395]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 396]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 397]
+  ➤ class: None
+  ➤ id: batBeacon189389104119
+  ➤ child tags: img
+
+
+🧾 Form Fields:
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-keywords', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-location', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Any time (15,912)', 'Type': 'radio', 'ID': 'f_TPR-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Past month (13,656)', 'Type': 'radio', 'ID': 'f_TPR-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Past week (6,134)', 'Type': 'radio', 'ID': 'f_TPR-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Past 24 hours (1,339)', 'Type': 'radio', 'ID': 'f_TPR-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'f_C', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Meta (304)', 'Type': 'checkbox', 'ID': 'f_C-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Netflix (42)', 'Type': 'checkbox', 'ID': 'f_C-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Nuro (19)', 'Type': 'checkbox', 'ID': 'f_C-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Paces (6)', 'Type': 'checkbox', 'ID': 'f_C-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Dentsply Sirona (2)', 'Type': 'checkbox', 'ID': 'f_C-4', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Full-time (14,599)', 'Type': 'checkbox', 'ID': 'f_JT-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Part-time (33)', 'Type': 'checkbox', 'ID': 'f_JT-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Contract (747)', 'Type': 'checkbox', 'ID': 'f_JT-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Temporary (27)', 'Type': 'checkbox', 'ID': 'f_JT-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Volunteer (1)', 'Type': 'checkbox', 'ID': 'f_JT-4', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Internship (205)', 'Type': 'checkbox', 'ID': 'f_E-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Entry level (1,519)', 'Type': 'checkbox', 'ID': 'f_E-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Associate (751)', 'Type': 'checkbox', 'ID': 'f_E-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Mid-Senior level (9,892)', 'Type': 'checkbox', 'ID': 'f_E-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Director (421)', 'Type': 'checkbox', 'ID': 'f_E-4', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'f_PP', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'New York, NY (866)', 'Type': 'checkbox', 'ID': 'f_PP-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'San Francisco, CA (849)', 'Type': 'checkbox', 'ID': 'f_PP-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Mountain View, CA (314)', 'Type': 'checkbox', 'ID': 'f_PP-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Los Angeles, CA (182)', 'Type': 'checkbox', 'ID': 'f_PP-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Menlo Park, CA (84)', 'Type': 'checkbox', 'ID': 'f_PP-4', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': '$40,000+ (4,066)', 'Type': 'radio', 'ID': 'f_SB2-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': '$60,000+ (4,058)', 'Type': 'radio', 'ID': 'f_SB2-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': '$80,000+ (4,026)', 'Type': 'radio', 'ID': 'f_SB2-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': '$100,000+ (3,966)', 'Type': 'radio', 'ID': 'f_SB2-3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': '$120,000+ (3,806)', 'Type': 'radio', 'ID': 'f_SB2-4', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'On-site (9,103)', 'Type': 'checkbox', 'ID': 'f_WT-0', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Hybrid (4,073)', 'Type': 'checkbox', 'ID': 'f_WT-1', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Remote (3,387)', 'Type': 'checkbox', 'ID': 'f_WT-2', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'alert-toggle-sign-in-modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'alert-toggle-sign-in-modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'blurred-overlay-jobs-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'blurred-overlay-jobs-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'First name', 'Type': 'text', 'ID': 'first-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Last name', 'Type': 'text', 'ID': 'last-name', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Email', 'Type': 'text', 'ID': 'email-or-phone', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Password (6+ characters)', 'Type': 'password', 'ID': 'password', 'Required': 'false', 'Autocomplete': 'new-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'base-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'base-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

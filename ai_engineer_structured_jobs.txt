@@ -1,0 +1,297 @@
+Structured Job Listings for 'AI Engineer'
+Total saved: 49
+
+URL: https://boards.greenhouse.io/databricks/jobs/7896752002
+Company: Databricks
+Location: San Francisco, California; Bengaluru, India; Mountain View
+Summary: Databricks is hiring for various positions including Applied AI Engineer in San Francisco, Senior Engineering Manager - Backend in Bengaluru, and Senior Engineering Manager - Enzyme in Mountain View.
+Description file: job_descriptions/description_1.txt
+
+URL: https://boards.greenhouse.io/databricks/jobs/7859597002
+Company: Databricks
+Location: Not specified
+Summary: The role involves applying machine learning, scheduling, and optimization algorithms to enhance efficiency and performance.
+Description file: job_descriptions/description_2.txt
+
+URL: https://jobs.lever.co/mistral
+Company: Mistral AI
+Location: Palo Alto, Paris
+Summary: Mistral AI is hiring for various full-time positions, including a GTM AI & Automation Architect in Palo Alto and an Applied AI Engineer in Paris.
+Description file: job_descriptions/description_3.txt
+
+URL: https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84
+Company: Mistral AI
+Location: Singapore
+Summary: Mistral AI is seeking a full-time, on-site Applied AI Engineer in Singapore to join their Solutions team.
+Description file: job_descriptions/description_4.txt
+
+URL: https://boards.greenhouse.io/outschool/jobs/4436338006
+Company: Outschool
+Location: Not specified
+Summary: Outschool is seeking a Principal AI Product Engineer to enhance their online learning platform by connecting learners with a global community of teachers and peers.
+Description file: job_descriptions/description_5.txt
+
+URL: https://jobs.lever.co/slangai/0c80cef9-0e83-4881-813f-c2de16cf009c
+Company: Slang.ai
+Location: New York, New York
+Summary: Slang.ai is seeking a Staff AI Engineer to join their team, offering a full-time remote position based in New York, New York.
+Description file: job_descriptions/description_6.txt
+
+URL: https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5
+Company: Mistral AI
+Location: Paris
+Summary: Mistral AI is seeking an Applied AI Engineer intern in Paris to work on use-case solutions on-site.
+Description file: job_descriptions/description_7.txt
+
+URL: https://boards.greenhouse.io/beekeeper/jobs/6629355
+Company: Beekeeper
+Location: Not specified
+Summary: The position is for a Senior AI Engineer at Beekeeper, where the role involves collaborating with a product squad to design, implement, and deploy AI solutions.
+Description file: job_descriptions/description_8.txt
+
+URL: https://job-boards.greenhouse.io/speechify/jobs/5287658004
+Company: Speechify
+Location: Remote
+Summary: Speechify is seeking a remote AI Engineer & Researcher specializing in inference to join their global team.
+Description file: job_descriptions/description_9.txt
+
+URL: https://job-boards.greenhouse.io/youcom/jobs/4533831008
+Company: you.com
+Location: Not specified
+Summary: The position is for a Senior AI Engineer at you.com, where the role involves advancing AI technologies.
+Description file: job_descriptions/description_10.txt
+
+URL: https://jobs.lever.co/mistral/97096378-2802-482c-ac47-445ad9c78d2b
+Company: Mistral AI
+Location: Palo Alto
+Summary: Mistral AI is seeking an Applied AI Engineer in Palo Alto to leverage AI for simplifying tasks, saving time, and enhancing learning.
+Description file: job_descriptions/description_11.txt
+
+URL: https://jobs.lever.co/mistral/fb15ec7f-d9e9-4246-9d36-486d46c289e4
+Company: Mistral AI
+Location: Palo Alto
+Summary: Mistral AI is seeking a full-time, on-site Applied AI Engineer specializing in ML Infrastructure in Palo Alto.
+Description file: job_descriptions/description_12.txt
+
+URL: https://jobs.lever.co/goodleap/474695b1-a630-401f-9089-23b6ac64f3d7
+Company: GoodLeap
+Location: Not specified
+Summary: GoodLeap is seeking a Principal AI Engineer to lead their Servicing Solutions team.
+Description file: job_descriptions/description_13.txt
+
+URL: https://jobs.lever.co/hostinger/607cd5b1-d845-4ade-bd37-1fa26b14804b
+Company: Hostinger
+Location: Vilnius / Kaunas
+Summary: Hostinger is seeking an AI Engineer to join their team in a full-time, hybrid role in Vilnius or Kaunas.
+Description file: job_descriptions/description_14.txt
+
+URL: https://www.linkedin.com/jobs/artificial-intelligence-engineer-jobs
+Company: Kodiak
+Location: San Francisco, CA
+Summary: There are over 17,000 Artificial Intelligence Engineer job openings in the United States, including positions for new graduates in applied AI and computer vision.
+Description file: job_descriptions/description_15.txt
+
+URL: https://job-boards.greenhouse.io/xai/jobs/4754207007
+Company: xAI
+Location: Palo Alto, CA
+Summary: xAI is seeking an AI Engineer and Researcher for its xAI Ads team in Palo Alto, CA, to contribute to their mission of creating AI systems with accurate understanding.
+Description file: job_descriptions/description_16.txt
+
+URL: https://job-boards.greenhouse.io/ketryx/jobs/4611245008
+Company: Ketryx
+Location: Remote (EU) or Vienna, Austria (Hybrid)
+Summary: Ketryx is seeking a full-time AI Engineer to work remotely within the EU or in a hybrid capacity from Vienna, Austria, offering a very attractive base salary.
+Description file: job_descriptions/description_17.txt
+
+URL: https://www.indeed.com/q-artificial-intelligence-engineer-jobs.html
+Company: Regional One Inc.
+Location: Deerfield Beach, FL 33442
+Summary: Regional One Inc. is seeking a full-time Artificial Intelligence Engineer in Deerfield Beach, FL.
+Description file: job_descriptions/description_18.txt
+
+URL: https://jobs.lever.co/kodiak/fbdc4c3e-8dcd-454c-bca7-8cb04c5caffd
+Company: Kodiak Robotics, Inc.
+Location: SF Bay Area
+Summary: Kodiak Robotics, Inc. is seeking an Applied AI Engineer specializing in Computer Vision for a full-time, hybrid position in the SF Bay Area.
+Description file: job_descriptions/description_19.txt
+
+URL: https://job-boards.greenhouse.io/xai/jobs/4703144007
+Company: xAI
+Location: Palo Alto, CA
+Summary: The job is for an Applied AI Engineer at xAI located in Palo Alto, CA.
+Description file: job_descriptions/description_20.txt
+
+URL: https://boards.greenhouse.io/andurilindustries/jobs/4655041007
+Company: Anduril
+Location: Costa Mesa, California, United States
+Summary: Anduril is hiring for positions including Electromechanical Engineer and Senior AI Engineer in Costa Mesa, California.
+Description file: job_descriptions/description_21.txt
+
+URL: https://jobs.lever.co/kodiak/3ff19b8d-3452-4401-bc94-6613a50e89bc
+Company: Kodiak Robotics, Inc.
+Location: SF Bay Area
+Summary: Kodiak Robotics, Inc. is seeking an Applied AI Engineer specializing in Foundation Models for a full-time, hybrid position in the SF Bay Area.
+Description file: job_descriptions/description_22.txt
+
+URL: https://job-boards.greenhouse.io/vaticlabs/jobs/5414236
+Company: Vatic Labs
+Location: Not specified
+Summary: Vatic Labs is seeking an AI Engineer to design and develop AI solutions, with a focus on candidates who do not require visa sponsorship in the United States.
+Description file: job_descriptions/description_23.txt
+
+URL: https://boards.greenhouse.io/array/jobs/5440151004?gh_jid=5440151004&utm_source=remotive.com&ref=remotive.com
+Company: Array
+Location: Remote
+Summary: Array is seeking a Staff Gen AI Engineer for a remote position to contribute to their financial innovation platform.
+Description file: job_descriptions/description_24.txt
+
+URL: https://jobs.lever.co/kodiak/0c69e76a-6a86-4316-a22f-524d8a0f6a72
+Company: Kodiak Robotics
+Location: SF Bay Area
+Summary: Kodiak Robotics is seeking a New Grad Applied AI Engineer specializing in Computer Vision for a full-time, hybrid position in the SF Bay Area.
+Description file: job_descriptions/description_25.txt
+
+URL: https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798
+Company: Palantir Technologies
+Location: London, United Kingdom
+Summary: Palantir Technologies is hiring a Forward Deployed AI Engineer for a full-time, hybrid position in London, United Kingdom.
+Description file: job_descriptions/description_26.txt
+
+URL: https://jobs.lever.co/wandb/173352f8-4c9a-473c-934d-01f8454d03b2
+Company: Weights & Biases
+Location: India (Remote), New Delhi
+Summary: Weights & Biases is hiring a remote AI Engineer based in India to join their Marketing and Growth team.
+Description file: job_descriptions/description_27.txt
+
+URL: https://job-boards.greenhouse.io/speechify/jobs/4510121004
+Company: Speechify
+Location: Remote
+Summary: Speechify is seeking an Applied AI Engineer & Researcher for a remote position to contribute to their global team.
+Description file: job_descriptions/description_28.txt
+
+URL: https://job-boards.greenhouse.io/xai/jobs/4676513007
+Company: xAI
+Location: San Francisco & Palo Alto, CA
+Summary: xAI is seeking an Applied AI Engineer for federal projects, located in San Francisco and Palo Alto, CA.
+Description file: job_descriptions/description_29.txt
+
+URL: http://job-boards.greenhouse.io/xai/jobs/4592865007
+Company: xAI
+Location: San Francisco & Palo Alto, CA
+Summary: xAI is seeking an Applied AI Engineer & Researcher to work in San Francisco and Palo Alto, CA, focusing on creating accurate AI systems.
+Description file: job_descriptions/description_30.txt
+
+URL: https://jobs.lever.co/kodiak/d1ee1237-35f5-4f0a-aa02-e908f79db61d
+Company: Kodiak Robotics, Inc.
+Location: SF Bay Area
+Summary: Kodiak Robotics, Inc. is seeking an Applied AI Engineer specializing in Generative AI for a full-time, hybrid position in the SF Bay Area.
+Description file: job_descriptions/description_31.txt
+
+URL: https://www.linkedin.com/jobs/view/ai-ml-engineer-dublin-us-at-articul8-ai-4174514689
+Company: Articul8 AI
+Location: Dublin, CA
+Summary: Articul8 AI is looking for an AI/ML Engineer to create and implement AI-driven solutions for real-world applications.
+Description file: job_descriptions/description_32.txt
+
+URL: https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488
+Company: Palantir Technologies
+Location: New York, NY
+Summary: The position is for a Forward Deployed AI Engineer at Palantir Technologies, located in New York, NY, offering a full-time hybrid work arrangement.
+Description file: job_descriptions/description_33.txt
+
+URL: https://jobs.eu.lever.co/pnlfin/dd079c7f-82b3-4db4-9b98-e9891ea5b08e
+Company: Finom
+Location: Not specified
+Summary: Finom is looking for a versatile and passionate AI Engineer to join their AI team, focusing on novel approaches in AI Agents.
+Description file: job_descriptions/description_34.txt
+
+URL: https://www.linkedin.com/jobs/view/senior-applied-ai-engineer-at-postman-4224307023
+Company: Postman
+Location: San Francisco, CA
+Summary: Postman is hiring a Senior Applied AI Engineer based in San Francisco, CA.
+Description file: job_descriptions/description_35.txt
+
+URL: http://job-boards.greenhouse.io/natera/jobs/5553353004
+Company: Natera
+Location: Not specified
+Summary: Natera is looking for an experienced Senior AI Engineer to lead innovative AI projects.
+Description file: job_descriptions/description_36.txt
+
+URL: https://www.linkedin.com/jobs/view/3942495577
+Company: Not found
+Location: Not found
+Summary: Not found
+Description file: job_descriptions/description_37.txt
+
+URL: http://job-boards.greenhouse.io/snorkelai/jobs/5481420004
+Company: Snorkel AI
+Location: Not specified
+Summary: Snorkel AI is seeking an Applied AI Engineer to research and utilize established and state-of-the-art AI techniques.
+Description file: job_descriptions/description_38.txt
+
+URL: https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-decisioning-at-hightouch-4176588544
+Company: Hightouch
+Location: San Francisco, CA
+Summary: Hightouch is hiring a Machine Learning Engineer for AI Decisioning in San Francisco, CA.
+Description file: job_descriptions/description_39.txt
+
+URL: https://job-boards.greenhouse.io/speechify/jobs/5189157004
+Company: Speechify
+Location: Remote
+Summary: Speechify is a global company with nearly 200 employees, offering positions such as Applied AI Engineer & Researcher and Quality Assurance Engineer, Web Core, with remote work options.
+Description file: job_descriptions/description_40.txt
+
+URL: https://www.indeed.com/q-ai-engineer-online-internship-jobs.html
+Company: Not specified
+Location: Not specified
+Summary: There are 43 AI Engineer Online Internship positions available on Indeed.com, including roles such as Software Engineer Intern and Web Developer.
+Description file: job_descriptions/description_41.txt
+
+URL: https://www.linkedin.com/jobs/view/senior-ai-engineer-at-jobs-via-dice-4242096353
+Company: Jobs via Dice
+Location: Addison, TX
+Summary: Jobs via Dice is hiring a Senior AI Engineer in Addison, TX.
+Description file: job_descriptions/description_42.txt
+
+URL: https://boards.greenhouse.io/myfitnesspal/jobs/6662784
+Company: MyFitnessPal
+Location: Remote - US
+Summary: MyFitnessPal is seeking a Senior AI Engineer to work remotely within the United States.
+Description file: job_descriptions/description_43.txt
+
+URL: https://jobs.lever.co/mistral/97096378-2802-482c-ac47-445ad9c78d2b/apply
+Company: Mistral AI
+Location: Palo Alto (with a mention of San Francisco)
+Summary: Mistral AI is seeking an Applied AI Engineer for use-case development in Palo Alto.
+Description file: job_descriptions/description_44.txt
+
+URL: https://boards.greenhouse.io/make/jobs/5920853003
+Company: Make
+Location: Prague, Czechia
+Summary: Make is seeking a Senior TypeScript AI Engineer to join their team in Prague, Czechia, focusing on building adaptive, intelligent automation.
+Description file: No job description available.
+
+URL: https://www.linkedin.com/jobs/view/ai-engineer-software-engineer-at-sidram-technologies-4226466927
+Company: SIDRAM TECHNOLOGIES
+Location: New York
+Summary: SIDRAM TECHNOLOGIES is hiring for the role of AI Engineer/Software Engineer for their client company, L'Oreal, located in New York.
+Description file: job_descriptions/description_46.txt
+
+URL: https://jobs.smartrecruiters.com/MicroStrategy1/744000058218695-ai-engineer-i
+Company: SmartRecruiters
+Location: Not specified
+Summary: SmartRecruiters is seeking a highly skilled AI Engineer to join their team and work on developing AI-powered solutions.
+Description file: job_descriptions/description_47.txt
+
+URL: https://jobs.lever.co/aircall/1e2867d0-0c80-4c19-9000-8b7a1a888277
+Company: Aircall
+Location: Madrid
+Summary: Aircall is seeking a Senior Software Engineer specializing in Backend and AI to design, develop, deploy, and operate business-critical AI features in Madrid.
+Description file: job_descriptions/description_48.txt
+
+URL: https://www.linkedin.com/jobs/view/sr-machine-learning-engineer-agentic-ai-at-greylock-4161097021
+Company: Greylock
+Location: Mountain View, CA
+Summary: Greylock is hiring a Senior Machine Learning Engineer specializing in Agentic AI in Mountain View, CA.
+Description file: job_descriptions/description_49.txt
+

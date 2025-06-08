@@ -1,0 +1,952 @@
+URL: https://job-boards.greenhouse.io/vaticlabs/jobs/5414236
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer
+    • p: Vatic is looking for an AI engineer with proven experience with large foundational models.  Our environment is highly collaborative, fostering innovation and growth. We are interested in a variety of data modalities (language, vision, multimodal, and structured data) and modern model architectures. We are looking for team players who are interested in developing next-generation platforms and tools for Machine Learning as well as conducting state-of-the-art research.
+    • p: As an AI Engineer you will:
+    • ul: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • li: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.
+    • li: Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.
+    • li: play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • p: We employ a team of talented engineers who have been recognized as leaders in our field. We are passionate about hiring the best and brightest, empowering them with the tools and freedom they need to be successful.
+    • p: If you possess the following, we would love to explore what is available for you with our team:
+    • ul: Keen interest in training, evaluation, understanding, and innovation of foundational modelsAdvanced proficiency with Python development in a Linux environmentStrong understanding of machine learning, deep learning, and generative AI methods and technologiesDirect experience with multi-GPU model trainingDemonstrable success building high performance softwarePerformance tuning/optimization of software and algorithmsFamiliarity with parallel computing models and frameworksStrong analytical and problem-solving skillsA passion for trading, research, and technologyExcitement and interest in using readily available open source technologies and prototypesExcellent communication skillsConfident team player motivated by a fast-paced environment
+    • li: Keen interest in training, evaluation, understanding, and innovation of foundational models
+    • li: Advanced proficiency with Python development in a Linux environment
+    • li: Strong understanding of machine learning, deep learning, and generative AI methods and technologies
+    • li: Direct experience with multi-GPU model training
+    • li: Demonstrable success building high performance software
+    • li: Performance tuning/optimization of software and algorithms
+    • li: Familiarity with parallel computing models and frameworks
+    • li: Strong analytical and problem-solving skills
+    • li: A passion for trading, research, and technology
+    • li: Excitement and interest in using readily available open source technologies and prototypes
+    • li: Excellent communication skills
+    • li: Confident team player motivated by a fast-paced environment
+    • p: At Vatic, we’re serious about our work—but we also believe in balance, growth, and having fun along the way. Here’s what you can expect:
+    • ul: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.Comprehensive health benefits – Full health insurance coverage for employeesanddependents.Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.Fun team outings – Build camaraderie and unwind with regular events.Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • li: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.
+    • li: Comprehensive health benefits – Full health insurance coverage for employeesanddependents.
+    • li: Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.
+    • li: Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.
+    • li: Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.
+    • li: Fun team outings – Build camaraderie and unwind with regular events.
+    • li: Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • p: The base salary range for this role is between $175,000 and $275,000. The base salary range does not include any other form of compensation, such as any bonus amounts, or any benefits.  Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of education obtained, skill set, and other factors.
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Education
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 3]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 4]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer
+    • p: Vatic is looking for an AI engineer with proven experience with large foundational models.  Our environment is highly collaborative, fostering innovation and growth. We are interested in a variety of data modalities (language, vision, multimodal, and structured data) and modern model architectures. We are looking for team players who are interested in developing next-generation platforms and tools for Machine Learning as well as conducting state-of-the-art research.
+    • p: As an AI Engineer you will:
+    • ul: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • li: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.
+    • li: Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.
+    • li: play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • p: We employ a team of talented engineers who have been recognized as leaders in our field. We are passionate about hiring the best and brightest, empowering them with the tools and freedom they need to be successful.
+    • p: If you possess the following, we would love to explore what is available for you with our team:
+    • ul: Keen interest in training, evaluation, understanding, and innovation of foundational modelsAdvanced proficiency with Python development in a Linux environmentStrong understanding of machine learning, deep learning, and generative AI methods and technologiesDirect experience with multi-GPU model trainingDemonstrable success building high performance softwarePerformance tuning/optimization of software and algorithmsFamiliarity with parallel computing models and frameworksStrong analytical and problem-solving skillsA passion for trading, research, and technologyExcitement and interest in using readily available open source technologies and prototypesExcellent communication skillsConfident team player motivated by a fast-paced environment
+    • li: Keen interest in training, evaluation, understanding, and innovation of foundational models
+    • li: Advanced proficiency with Python development in a Linux environment
+    • li: Strong understanding of machine learning, deep learning, and generative AI methods and technologies
+    • li: Direct experience with multi-GPU model training
+    • li: Demonstrable success building high performance software
+    • li: Performance tuning/optimization of software and algorithms
+    • li: Familiarity with parallel computing models and frameworks
+    • li: Strong analytical and problem-solving skills
+    • li: A passion for trading, research, and technology
+    • li: Excitement and interest in using readily available open source technologies and prototypes
+    • li: Excellent communication skills
+    • li: Confident team player motivated by a fast-paced environment
+    • p: At Vatic, we’re serious about our work—but we also believe in balance, growth, and having fun along the way. Here’s what you can expect:
+    • ul: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.Comprehensive health benefits – Full health insurance coverage for employeesanddependents.Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.Fun team outings – Build camaraderie and unwind with regular events.Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • li: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.
+    • li: Comprehensive health benefits – Full health insurance coverage for employeesanddependents.
+    • li: Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.
+    • li: Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.
+    • li: Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.
+    • li: Fun team outings – Build camaraderie and unwind with regular events.
+    • li: Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • p: The base salary range for this role is between $175,000 and $275,000. The base salary range does not include any other form of compensation, such as any bonus amounts, or any benefits.  Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of education obtained, skill set, and other factors.
+
+[Div 5]
+  ➤ class: ['job__tags']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['job__header']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h1: AI Engineer
+
+[Div 7]
+  ➤ class: ['job__title']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: AI Engineer
+
+[Div 8]
+  ➤ class: ['job__location']
+  ➤ id: None
+  ➤ child tags: div, svg
+
+[Div 9]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 10]
+  ➤ class: ['job__description', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Vatic is looking for an AI engineer with proven experience with large foundational models.  Our environment is highly collaborative, fostering innovation and growth. We are interested in a variety of data modalities (language, vision, multimodal, and structured data) and modern model architectures. We are looking for team players who are interested in developing next-generation platforms and tools for Machine Learning as well as conducting state-of-the-art research.
+    • p: As an AI Engineer you will:
+    • ul: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • li: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.
+    • li: Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.
+    • li: play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • p: We employ a team of talented engineers who have been recognized as leaders in our field. We are passionate about hiring the best and brightest, empowering them with the tools and freedom they need to be successful.
+    • p: If you possess the following, we would love to explore what is available for you with our team:
+    • ul: Keen interest in training, evaluation, understanding, and innovation of foundational modelsAdvanced proficiency with Python development in a Linux environmentStrong understanding of machine learning, deep learning, and generative AI methods and technologiesDirect experience with multi-GPU model trainingDemonstrable success building high performance softwarePerformance tuning/optimization of software and algorithmsFamiliarity with parallel computing models and frameworksStrong analytical and problem-solving skillsA passion for trading, research, and technologyExcitement and interest in using readily available open source technologies and prototypesExcellent communication skillsConfident team player motivated by a fast-paced environment
+    • li: Keen interest in training, evaluation, understanding, and innovation of foundational models
+    • li: Advanced proficiency with Python development in a Linux environment
+    • li: Strong understanding of machine learning, deep learning, and generative AI methods and technologies
+    • li: Direct experience with multi-GPU model training
+    • li: Demonstrable success building high performance software
+    • li: Performance tuning/optimization of software and algorithms
+    • li: Familiarity with parallel computing models and frameworks
+    • li: Strong analytical and problem-solving skills
+    • li: A passion for trading, research, and technology
+    • li: Excitement and interest in using readily available open source technologies and prototypes
+    • li: Excellent communication skills
+    • li: Confident team player motivated by a fast-paced environment
+    • p: At Vatic, we’re serious about our work—but we also believe in balance, growth, and having fun along the way. Here’s what you can expect:
+    • ul: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.Comprehensive health benefits – Full health insurance coverage for employeesanddependents.Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.Fun team outings – Build camaraderie and unwind with regular events.Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • li: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.
+    • li: Comprehensive health benefits – Full health insurance coverage for employeesanddependents.
+    • li: Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.
+    • li: Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.
+    • li: Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.
+    • li: Fun team outings – Build camaraderie and unwind with regular events.
+    • li: Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • p: The base salary range for this role is between $175,000 and $275,000. The base salary range does not include any other form of compensation, such as any bonus amounts, or any benefits.  Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of education obtained, skill set, and other factors.
+
+[Div 11]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, p
+    • p: Vatic is looking for an AI engineer with proven experience with large foundational models.  Our environment is highly collaborative, fostering innovation and growth. We are interested in a variety of data modalities (language, vision, multimodal, and structured data) and modern model architectures. We are looking for team players who are interested in developing next-generation platforms and tools for Machine Learning as well as conducting state-of-the-art research.
+    • p: As an AI Engineer you will:
+    • ul: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • li: Play a crucial role in designing and developing cutting-edge frameworks that can serve as the future tools to help develop innovative platforms and systems that drive our trading and research efforts, with a different lens through foundational models.
+    • li: Work closely with a team of passionate researchers and engineers to make sure such frameworks are compatible with recent cloud platforms, popular ML frameworks and libraries, as well as modern model architectures.
+    • li: play a central role in defining and running large-scale experiments that contribute towards rigorous evaluation and in-depth model analysis.
+    • p: We employ a team of talented engineers who have been recognized as leaders in our field. We are passionate about hiring the best and brightest, empowering them with the tools and freedom they need to be successful.
+    • p: If you possess the following, we would love to explore what is available for you with our team:
+    • ul: Keen interest in training, evaluation, understanding, and innovation of foundational modelsAdvanced proficiency with Python development in a Linux environmentStrong understanding of machine learning, deep learning, and generative AI methods and technologiesDirect experience with multi-GPU model trainingDemonstrable success building high performance softwarePerformance tuning/optimization of software and algorithmsFamiliarity with parallel computing models and frameworksStrong analytical and problem-solving skillsA passion for trading, research, and technologyExcitement and interest in using readily available open source technologies and prototypesExcellent communication skillsConfident team player motivated by a fast-paced environment
+    • li: Keen interest in training, evaluation, understanding, and innovation of foundational models
+    • li: Advanced proficiency with Python development in a Linux environment
+    • li: Strong understanding of machine learning, deep learning, and generative AI methods and technologies
+    • li: Direct experience with multi-GPU model training
+    • li: Demonstrable success building high performance software
+    • li: Performance tuning/optimization of software and algorithms
+    • li: Familiarity with parallel computing models and frameworks
+    • li: Strong analytical and problem-solving skills
+    • li: A passion for trading, research, and technology
+    • li: Excitement and interest in using readily available open source technologies and prototypes
+    • li: Excellent communication skills
+    • li: Confident team player motivated by a fast-paced environment
+    • p: At Vatic, we’re serious about our work—but we also believe in balance, growth, and having fun along the way. Here’s what you can expect:
+    • ul: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.Comprehensive health benefits – Full health insurance coverage for employeesanddependents.Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.Fun team outings – Build camaraderie and unwind with regular events.Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • li: Flat structure with direct executive exposure – Work closely with leadership and make an impact from day one.
+    • li: Comprehensive health benefits – Full health insurance coverage for employeesanddependents.
+    • li: Daily meals provided – Enjoy free breakfast, lunch, and dinner at the office.
+    • li: Gym membership – Stay healthy with a gym reimbursement, in addition to our onsite gym.
+    • li: Unlimited office snacks – Fuel your day with your favorite snacks, always stocked.
+    • li: Fun team outings – Build camaraderie and unwind with regular events.
+    • li: Organized poker, ping pong, and game nights – We’re a competitive group that enjoys getting together to challenge one another.
+    • p: The base salary range for this role is between $175,000 and $275,000. The base salary range does not include any other form of compensation, such as any bonus amounts, or any benefits.  Factors that may impact the agreed upon base salary within the range for a particular candidate include years of experience, level of education obtained, skill set, and other factors.
+
+[Div 12]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['application--container']
+  ➤ id: None
+  ➤ child tags: div, form
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Education
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 14]
+  ➤ class: ['application--header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 15]
+  ➤ class: ['application--header--text']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 16]
+  ➤ class: ['application--header--title']
+  ➤ id: None
+  ➤ child tags: h2
+    • h2: Apply for this job
+
+[Div 17]
+  ➤ class: ['application--header--required']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: *
+    • p: indicates a required field
+
+[Div 18]
+  ➤ class: ['application--header--required--asterisk']
+  ➤ id: None
+  ➤ child tags: p
+    • p: *
+
+[Div 19]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 21]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 22]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 25]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 27]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 28]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 31]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 33]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 34]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-resume
+  ➤ child tags: span
+
+[Div 35]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 36]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 37]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 39]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 40]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 41]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 42]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 43]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 44]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 45]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-cover_letter
+  ➤ child tags: 
+
+[Div 46]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 47]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 48]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 49]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 50]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 51]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 52]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 53]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 54]
+  ➤ class: ['education--container']
+  ➤ id: None
+  ➤ child tags: div, button
+    • p: Education
+
+[Div 55]
+  ➤ class: ['education--form']
+  ➤ id: None
+  ➤ child tags: div, hr
+    • p: Education
+
+[Div 56]
+  ➤ class: ['education--header']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Education
+
+[Div 57]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 58]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 59]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 60]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 61]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 62]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 63]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-school--0-placeholder
+  ➤ child tags: 
+
+[Div 64]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 65]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 66]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 67]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 68]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 69]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 70]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 71]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 72]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 73]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 74]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 75]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 76]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 77]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 78]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 79]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, fieldset
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 80]
+  ➤ class: ['checkbox__wrapper']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 81]
+  ➤ class: ['checkbox__input']
+  ➤ id: None
+  ➤ child tags: svg, input
+
+[Div 82]
+  ➤ class: ['body', 'body__secondary']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 83]
+  ➤ class: ['question-description']
+  ➤ id: question_43169577[]-description
+  ➤ child tags: ol, p, ul
+    • p: Effective Date: 10/01/2016
+    • p: Vatic Labs Operations LLC and its affiliates entities (collectively “Vatic Labs” or the Firm or “we”) are committed to protecting your privacy while providing you with the opportunity to receive our services.
+    • p: This Privacy Notice describes your privacy rights regarding the collection, use, storage, sharing and protection of your personal information by Vatic Labs. It applies to the collection of your personal information via our ApplyNow website linked to this Privacy Notice (the “Site”).
+    • p: Scope and Consent
+    • p: By using this Site, you acknowledge and understand that Vatic Labs will process (including, but without limitation, collecting, storing, using, transferring or disclosing) any personal information that you submit.”You also expressly consentto Vatic Labs’ processing sensitive information you elect to submit (for instance, information relating to your race or ethnic origin or your religious beliefs or other beliefs of a similar nature).
+    • p: By providing personal information via this Website, you acknowledge and understand the terms of this Privacy Notice.
+    • p: Reason for processing and how we use the Personal Information
+    • p: Our primary purpose in collecting personal information is to provide you with a smooth and efficient experience in applying for a job with us. Your submitted application and any additional personal information will be used to:
+    • ol: assess your skills and interest in career opportunities at Vatic Labsverify your identity, including the account creation and password reset processesprovide customer service, dispute resolution, and Site troubleshootingcustomize, measure, and report on our Site and career service operationsprocess your application and send notices to you about our open positionscompare information for accuracy and verify it with third partiesconduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • li: assess your skills and interest in career opportunities at Vatic Labs
+    • li: verify your identity, including the account creation and password reset processes
+    • li: provide customer service, dispute resolution, and Site troubleshooting
+    • li: customize, measure, and report on our Site and career service operations
+    • li: process your application and send notices to you about our open positions
+    • li: compare information for accuracy and verify it with third parties
+    • li: conduct background checks (as permitted by applicable law), which may include verification of skill proficiency, criminal history, financial history and other information that may be necessary for determining your qualifications for an open position at Vatic Labs
+    • p: If you accept employment with Vatic Labs, the information collected on this Site will become part of your employment record and will be used for employment purposes (and our related employment data protection policy will apply).
+    • p: All these reasons are in the legitimate interests of Vatic Labs.
+    • p: Collection of Personal Information
+    • p: We collect the following types of personal information when you visit or use the Site:
+    • p: Information we collect automatically: When you visit the Site, we (including service providers working on our behalf (“Green House”)) may collect information sent to us through your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, the following: data about the pages you access, your computer IP address, device identifiers, the type of operating system you’re using, your location, mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site.
+    • p: Information you provide to us: We (including service providers) may collect and store any information you provide us when you use the Site, including when you submit an application. When you use the Site to submit an application, you will be required to submit personal information, otherwise you may not be able to access certain parts of the Site and we will not be able to process your application. This information includes:
+    • p: Contact information, such as your name, address, phone, email, and other similar information
+    • p: Resume or CV, cover letter, previous work experience, education, and transcripts
+    • p: Desired salary, relevant work experience, type of employment sought, date available, employee referral
+    • p: Information from Other Sources: We also may obtain information about you from other sources, to the extent permitted by applicable law, such as through your contact with us, including from third parties such as employment research firms, identity verification services, and other websites on the Internet (subject to such third party’s privacy policies). For example, you may choose to provide us with access to certain personal information stored by third parties such as social media sites (e.g., LinkedIn). The information we may receive varies by site and is controlled by that site. By authorizing Vatic Labs to have access to this information, you agree that Vatic Labs may collect, store and use this information in accordance with this Privacy Notice.
+    • p: How We Share Personal Information with Third Parties
+    • p: Vatic Labs will not sell or rent your personal information to third parties for their marketing purposes without your explicit consent.
+    • p: We may share your personal information with members of the Vatic Labs corporate family to assess your skills for job openings. Access to your personal information will be limited to those employees or agents of Vatic Labs who have a business need to access such personal information.
+    • p: To the extent permitted by applicable law, we may also disclose your personal information when we believe, that the disclosure is necessary to: protect the legal rights, privacy or safety the company or its employees, agents and contractors; protect the safety and security of visitors to our web sites or other properties; protect against fraud or other illegal activity or for risk management purposes; respond to inquiries or requests from public authorities; permit us to pursue available remedies or limit the damages that we may sustain; or comply with the law or a legal process.
+    • p: How We Use Cookies and Similar Technologies
+    • p: This Website uses “cookies” to facilitate the site user’s use of the site.” These are “session cookies” and are erased when you close your browser (unless the user clicks the “remember me” box so that the website will remember the user on a later occasion).”” Vatic Labs uses Google Analytics, which also sets cookies to gather information about how our site is used.” We do not receive information about individual site users from Google Analytics.” Google advises that Google Analytics cookies “do not collect personal data about website visitors.” https://developers.google.com/analytics/resources/concepts/gaConceptsCookies.
+    • p: Cross Border Transfers of Personal Information
+    • p: Vatic Labs operates both inside and outside the European Economic Area (“EEA”). The data that we collect from you may be transferred to, stored and processed at a destination outside the EEA, including countries whose laws provide various levels of protection for personal data, not always equivalent to the level of protection that may be provided in your own country.
+    • p: By using this Site,you expressly consentto our transferring of your personal information to our servers in the US Please note that if your personal information is transferred in this manner Vatic Labs is committed to adequately protecting your personal information as described in this Privacy Notice regardless of where the data resides and to providing appropriate protection for your personal information where such data is transferred across borders.”
+    • p: Please note Vatic Labs operates the following technical and organizational security protocols wherever the personal information is transferred to Green House:
+    • ul: All communication to our application is encrypted using TLSAll communication with third party APIS is authenticated over TLS.
+    • li: All communication to our application is encrypted using TLS
+    • li: All communication with third party APIS is authenticated over TLS.
+    • p: How long do we keep your Personal Information?
+    • p: We do not keep your personal information for any specific period but will not keep it for longer than is necessary for our purposes.” In general, we will keep your personal information for the duration of your application process and for a period afterwards depending on whether you are successful or not.” In considering how long to keep it, we will take into account its relevance to our business either as a record or in the event of a legal claim.
+    • p: Access to your Personal Information and other rights
+    • p: We try to be as open as we reasonably can about personnel information that we process.” If you would like specific information, you may ask us informally.
+    • p: In addition, you have a legal right to make a “subject access request”.” If you exercise this right and we hold personal information about you, we are required to provide you with information on it, including:
+    • ol: giving you a description and copy of the personal information;telling you why we are processing it; andif you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • li: giving you a description and copy of the personal information;
+    • li: telling you why we are processing it; and
+    • li: if you make a subject access request and there is any question about who you are, we may require you to provide information from which we can satisfy ourselves as to your identity.
+    • p: In addition to the subject access right, subject to statutory conditions, you may have a right to have your personal information rectified or erased or to object to its processing or have it restricted.”
+    • p: How You Can Contact Us about Privacy Questions
+    • p: If you have questions or concerns regarding this Privacy Notice, you should contact us by email at gdpr@vaticlabs.ai.
+    • p: I also give informed and freely given consent to (1) any of my sensitive personal data being processed in the manner described above and (2) my personal data being transferred outside the EEA as described above.
+    • p: BY CLICKING SUBMIT, I AGREE THAT THE INFORMATION PROVIDED ON THIS FORM AND CONTAINED ON ATTACHED DOCUMENTS IS TRUE AND COMPLETE TO THE BEST OF MY KNOWLEDGE.
+
+[Div 84]
+  ➤ class: ['application--submit']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 85]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 86]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+[Div 87]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 88]
+  ➤ class: ['grecaptcha-badge']
+  ➤ id: None
+  ➤ child tags: div, textarea
+
+[Div 89]
+  ➤ class: ['grecaptcha-logo']
+  ➤ id: None
+  ➤ child tags: iframe
+
+[Div 90]
+  ➤ class: ['grecaptcha-error']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'First Name*', 'Type': 'text', 'ID': 'first_name', 'Required': 'true', 'Autocomplete': 'given-name'}
+{'Label': 'Last Name*', 'Type': 'text', 'ID': 'last_name', 'Required': 'true', 'Autocomplete': 'family-name'}
+{'Label': 'Email*', 'Type': 'text', 'ID': 'email', 'Required': 'true', 'Autocomplete': 'email'}
+{'Label': 'Phone*', 'Type': 'text', 'ID': 'phone', 'Required': 'true', 'Autocomplete': 'tel'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'resume', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'cover_letter', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'School*', 'Type': 'text', 'ID': 'school--0', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Do you now or in the future require visa sponsorship to work in the United States?*', 'Type': 'text', 'ID': 'question_43169573', 'Required': 'true', 'Autocomplete': 'N/A'}
+{'Label': 'LinkedIn Profile', 'Type': 'text', 'ID': 'question_43169574', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Website', 'Type': 'text', 'ID': 'question_43169575', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'How did you hear about this job?', 'Type': 'text', 'ID': 'question_43169576', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Acknowledge/Confirm', 'Type': 'checkbox', 'ID': 'question_43169577[]_168362076', 'Required': 'false', 'Autocomplete': 'N/A'}

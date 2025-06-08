@@ -1,0 +1,1090 @@
+URL: https://job-boards.greenhouse.io/youcom/jobs/4533831008
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['banner-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 2]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 3]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Senior AI Engineer
+    • p: you.com is an AI-powered search and productivity platform designed to empower users with personalized, efficient, and trustworthy search experiences.As a cutting-edge technology company, we combine advanced AI models with user-first principles to deliver tools that enhance discovery, creativity, and productivity. At you.com, we are on a mission to create the most helpful search engine in the world—one that prioritizes transparency, privacy, and user control.
+    • p: We’re building a team of innovators, problem-solvers, and visionaries who are passionate about shaping the future of AI and technology.At you.com, you’ll have the opportunity to work on impactful projects, collaborate with some of the brightest minds in the industry, and grow your career in an environment that values creativity, diversity, and curiosity.If you’re ready to make a difference and help us revolutionize the way people search and work, we’d love to have you join us!
+    • p: As Senior AI Engineer, you will play a pivotal role in advancing AI capabilities across Generative AI (e.g., large language models) and Search. Your responsibilities will focus on researching, building, and deploying innovative product experiences that redefine the potential of AI assistants. By blending your technical expertise, creativity, and a passion for pushing the boundaries of AI technology, you will thrive at the intersection of research and engineering and shape the future of AI-powered products.
+    • ul: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • li: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.
+    • li: End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.
+    • li: Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • ul: 5+ years of experience improving backend and/or AI systems, with familiarity using PythonDeep understanding of systems architectureExperience in shipping and scaling AI productsYou are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performanceYou are curious and have a strong ability to conduct both research and core engineering workEquivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • li: 5+ years of experience improving backend and/or AI systems, with familiarity using Python
+    • li: Deep understanding of systems architecture
+    • li: Experience in shipping and scaling AI products
+    • li: You are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performance
+    • li: You are curious and have a strong ability to conduct both research and core engineering work
+    • li: Equivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+    • p: Salary Band
+    • p: $150,000-$270,000USD
+    • ul: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessionsFlexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*12 weeks of paid parental leave in the US*401k program, 3% match - vested immediately!*$500 work-from-home stipend to be used up to a year of your start date*$1,200 per year Health & Wellness Allowance to support your personal goals*Chance to collaborate with a team at the forefront of AI research
+    • li: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • p: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • li: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • p: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • li: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • p: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • li: 12 weeks of paid parental leave in the US*
+    • p: 12 weeks of paid parental leave in the US*
+    • li: 401k program, 3% match - vested immediately!*
+    • p: 401k program, 3% match - vested immediately!*
+    • li: $500 work-from-home stipend to be used up to a year of your start date*
+    • p: $500 work-from-home stipend to be used up to a year of your start date*
+    • li: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • p: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • li: Chance to collaborate with a team at the forefront of AI research
+    • p: Chance to collaborate with a team at the forefront of AI research
+    • p: *Certain perks and benefits are limited to full-time employees only
+    • p: you.comis an E-Verify employer. We are also an inclusive, equitable, and accessible workplace. Please let us know if you require accommodation for any portion of the recruitment and hiring process.
+    • p: Create a Job Alert
+    • p: Interested in building your career at you.com? Get future opportunities sent straight to your email.
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in you.com’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 4]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: Senior AI Engineer
+    • p: you.com is an AI-powered search and productivity platform designed to empower users with personalized, efficient, and trustworthy search experiences.As a cutting-edge technology company, we combine advanced AI models with user-first principles to deliver tools that enhance discovery, creativity, and productivity. At you.com, we are on a mission to create the most helpful search engine in the world—one that prioritizes transparency, privacy, and user control.
+    • p: We’re building a team of innovators, problem-solvers, and visionaries who are passionate about shaping the future of AI and technology.At you.com, you’ll have the opportunity to work on impactful projects, collaborate with some of the brightest minds in the industry, and grow your career in an environment that values creativity, diversity, and curiosity.If you’re ready to make a difference and help us revolutionize the way people search and work, we’d love to have you join us!
+    • p: As Senior AI Engineer, you will play a pivotal role in advancing AI capabilities across Generative AI (e.g., large language models) and Search. Your responsibilities will focus on researching, building, and deploying innovative product experiences that redefine the potential of AI assistants. By blending your technical expertise, creativity, and a passion for pushing the boundaries of AI technology, you will thrive at the intersection of research and engineering and shape the future of AI-powered products.
+    • ul: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • li: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.
+    • li: End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.
+    • li: Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • ul: 5+ years of experience improving backend and/or AI systems, with familiarity using PythonDeep understanding of systems architectureExperience in shipping and scaling AI productsYou are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performanceYou are curious and have a strong ability to conduct both research and core engineering workEquivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • li: 5+ years of experience improving backend and/or AI systems, with familiarity using Python
+    • li: Deep understanding of systems architecture
+    • li: Experience in shipping and scaling AI products
+    • li: You are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performance
+    • li: You are curious and have a strong ability to conduct both research and core engineering work
+    • li: Equivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+    • p: Salary Band
+    • p: $150,000-$270,000USD
+    • ul: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessionsFlexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*12 weeks of paid parental leave in the US*401k program, 3% match - vested immediately!*$500 work-from-home stipend to be used up to a year of your start date*$1,200 per year Health & Wellness Allowance to support your personal goals*Chance to collaborate with a team at the forefront of AI research
+    • li: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • p: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • li: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • p: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • li: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • p: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • li: 12 weeks of paid parental leave in the US*
+    • p: 12 weeks of paid parental leave in the US*
+    • li: 401k program, 3% match - vested immediately!*
+    • p: 401k program, 3% match - vested immediately!*
+    • li: $500 work-from-home stipend to be used up to a year of your start date*
+    • p: $500 work-from-home stipend to be used up to a year of your start date*
+    • li: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • p: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • li: Chance to collaborate with a team at the forefront of AI research
+    • p: Chance to collaborate with a team at the forefront of AI research
+    • p: *Certain perks and benefits are limited to full-time employees only
+    • p: you.comis an E-Verify employer. We are also an inclusive, equitable, and accessible workplace. Please let us know if you require accommodation for any portion of the recruitment and hiring process.
+    • p: Create a Job Alert
+    • p: Interested in building your career at you.com? Get future opportunities sent straight to your email.
+
+[Div 5]
+  ➤ class: ['job__tags']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['job__header']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h1: Senior AI Engineer
+
+[Div 7]
+  ➤ class: ['job__title']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Senior AI Engineer
+
+[Div 8]
+  ➤ class: ['job__location']
+  ➤ id: None
+  ➤ child tags: div, svg
+
+[Div 9]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 10]
+  ➤ class: ['job__description', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • p: you.com is an AI-powered search and productivity platform designed to empower users with personalized, efficient, and trustworthy search experiences.As a cutting-edge technology company, we combine advanced AI models with user-first principles to deliver tools that enhance discovery, creativity, and productivity. At you.com, we are on a mission to create the most helpful search engine in the world—one that prioritizes transparency, privacy, and user control.
+    • p: We’re building a team of innovators, problem-solvers, and visionaries who are passionate about shaping the future of AI and technology.At you.com, you’ll have the opportunity to work on impactful projects, collaborate with some of the brightest minds in the industry, and grow your career in an environment that values creativity, diversity, and curiosity.If you’re ready to make a difference and help us revolutionize the way people search and work, we’d love to have you join us!
+    • p: As Senior AI Engineer, you will play a pivotal role in advancing AI capabilities across Generative AI (e.g., large language models) and Search. Your responsibilities will focus on researching, building, and deploying innovative product experiences that redefine the potential of AI assistants. By blending your technical expertise, creativity, and a passion for pushing the boundaries of AI technology, you will thrive at the intersection of research and engineering and shape the future of AI-powered products.
+    • ul: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • li: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.
+    • li: End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.
+    • li: Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • ul: 5+ years of experience improving backend and/or AI systems, with familiarity using PythonDeep understanding of systems architectureExperience in shipping and scaling AI productsYou are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performanceYou are curious and have a strong ability to conduct both research and core engineering workEquivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • li: 5+ years of experience improving backend and/or AI systems, with familiarity using Python
+    • li: Deep understanding of systems architecture
+    • li: Experience in shipping and scaling AI products
+    • li: You are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performance
+    • li: You are curious and have a strong ability to conduct both research and core engineering work
+    • li: Equivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+    • p: Salary Band
+    • p: $150,000-$270,000USD
+    • ul: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessionsFlexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*12 weeks of paid parental leave in the US*401k program, 3% match - vested immediately!*$500 work-from-home stipend to be used up to a year of your start date*$1,200 per year Health & Wellness Allowance to support your personal goals*Chance to collaborate with a team at the forefront of AI research
+    • li: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • p: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • li: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • p: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • li: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • p: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • li: 12 weeks of paid parental leave in the US*
+    • p: 12 weeks of paid parental leave in the US*
+    • li: 401k program, 3% match - vested immediately!*
+    • p: 401k program, 3% match - vested immediately!*
+    • li: $500 work-from-home stipend to be used up to a year of your start date*
+    • p: $500 work-from-home stipend to be used up to a year of your start date*
+    • li: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • p: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • li: Chance to collaborate with a team at the forefront of AI research
+    • p: Chance to collaborate with a team at the forefront of AI research
+    • p: *Certain perks and benefits are limited to full-time employees only
+    • p: you.comis an E-Verify employer. We are also an inclusive, equitable, and accessible workplace. Please let us know if you require accommodation for any portion of the recruitment and hiring process.
+
+[Div 11]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: you.com is an AI-powered search and productivity platform designed to empower users with personalized, efficient, and trustworthy search experiences.As a cutting-edge technology company, we combine advanced AI models with user-first principles to deliver tools that enhance discovery, creativity, and productivity. At you.com, we are on a mission to create the most helpful search engine in the world—one that prioritizes transparency, privacy, and user control.
+    • p: We’re building a team of innovators, problem-solvers, and visionaries who are passionate about shaping the future of AI and technology.At you.com, you’ll have the opportunity to work on impactful projects, collaborate with some of the brightest minds in the industry, and grow your career in an environment that values creativity, diversity, and curiosity.If you’re ready to make a difference and help us revolutionize the way people search and work, we’d love to have you join us!
+
+[Div 12]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p, h4, ul
+    • p: As Senior AI Engineer, you will play a pivotal role in advancing AI capabilities across Generative AI (e.g., large language models) and Search. Your responsibilities will focus on researching, building, and deploying innovative product experiences that redefine the potential of AI assistants. By blending your technical expertise, creativity, and a passion for pushing the boundaries of AI technology, you will thrive at the intersection of research and engineering and shape the future of AI-powered products.
+    • ul: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • li: AI Infrastructure Development:Oversee and enhance the core you.com LLM and AI infrastructure, along with the associated backend systems.
+    • li: End-to-End Project Leadership:Lead the development of new AI-driven projects, encompassing ideation, prototyping, research, infrastructure design, scalability, monitoring, and evaluation.
+    • li: Rapid Iteration:Adapt quickly to user feedback and evolving requirements, ensuring continuous improvement in a fast-paced environment.
+    • ul: 5+ years of experience improving backend and/or AI systems, with familiarity using PythonDeep understanding of systems architectureExperience in shipping and scaling AI productsYou are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performanceYou are curious and have a strong ability to conduct both research and core engineering workEquivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+    • li: 5+ years of experience improving backend and/or AI systems, with familiarity using Python
+    • li: Deep understanding of systems architecture
+    • li: Experience in shipping and scaling AI products
+    • li: You are an autonomous and highly-driven team player with a commitment to maintaining high standards of quality and performance
+    • li: You are curious and have a strong ability to conduct both research and core engineering work
+    • li: Equivalent experience or relevant coursework to a BS or MS in Machine Learning, Computer Science, or related field.
+
+[Div 13]
+  ➤ class: ['job__pay-ranges']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+    • p: Salary Band
+    • p: $150,000-$270,000USD
+
+[Div 14]
+  ➤ class: ['pay-range']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+    • p: Salary Band
+    • p: $150,000-$270,000USD
+
+[Div 15]
+  ➤ class: ['description']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+
+[Div 16]
+  ➤ class: ['body']
+  ➤ id: None
+  ➤ child tags: span
+    • p: Our salary bands are structured based on a combination of geographic tiers and internal leveling. Compensation is determined by multiple factors assessed during the interview process, with the final offer reflecting these considerations.
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, p, h4
+    • ul: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessionsFlexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*12 weeks of paid parental leave in the US*401k program, 3% match - vested immediately!*$500 work-from-home stipend to be used up to a year of your start date*$1,200 per year Health & Wellness Allowance to support your personal goals*Chance to collaborate with a team at the forefront of AI research
+    • li: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • p: Hubs in San Francisco and New York City offering regular in-person gatherings and co-working sessions
+    • li: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • p: Flexible PTO with 11 U.S. holidays observed and a week shutdown in December to rest and recharge*
+    • li: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • p: A competitive health insurance plan covers 100% of the policyholder and 75% for dependents*
+    • li: 12 weeks of paid parental leave in the US*
+    • p: 12 weeks of paid parental leave in the US*
+    • li: 401k program, 3% match - vested immediately!*
+    • p: 401k program, 3% match - vested immediately!*
+    • li: $500 work-from-home stipend to be used up to a year of your start date*
+    • p: $500 work-from-home stipend to be used up to a year of your start date*
+    • li: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • p: $1,200 per year Health & Wellness Allowance to support your personal goals*
+    • li: Chance to collaborate with a team at the forefront of AI research
+    • p: Chance to collaborate with a team at the forefront of AI research
+    • p: *Certain perks and benefits are limited to full-time employees only
+    • p: you.comis an E-Verify employer. We are also an inclusive, equitable, and accessible workplace. Please let us know if you require accommodation for any portion of the recruitment and hiring process.
+
+[Div 18]
+  ➤ class: ['job-alert', 'job-alert--margin']
+  ➤ id: None
+  ➤ child tags: div, svg
+    • p: Create a Job Alert
+    • p: Interested in building your career at you.com? Get future opportunities sent straight to your email.
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Create a Job Alert
+    • p: Interested in building your career at you.com? Get future opportunities sent straight to your email.
+
+[Div 20]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['application--container']
+  ➤ id: None
+  ➤ child tags: div, form
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in you.com’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 22]
+  ➤ class: ['application--header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 23]
+  ➤ class: ['application--header--text']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 24]
+  ➤ class: ['application--header--title']
+  ➤ id: None
+  ➤ child tags: h2
+    • h2: Apply for this job
+
+[Div 25]
+  ➤ class: ['application--header--required']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: *
+    • p: indicates a required field
+
+[Div 26]
+  ➤ class: ['application--header--required--asterisk']
+  ➤ id: None
+  ➤ child tags: p
+    • p: *
+
+[Div 27]
+  ➤ class: ['application--header--autofill-with-greenhouse']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 28]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 31]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 33]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 34]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 36]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 37]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 39]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 40]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 41]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 42]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 43]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 44]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 45]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 46]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-resume
+  ➤ child tags: span
+
+[Div 47]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 48]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 49]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 50]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 51]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 52]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 53]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 54]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 55]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 56]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 57]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 58]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 59]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 60]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 61]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 62]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 63]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 64]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 65]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 66]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 67]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 68]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 69]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_9558018008-placeholder
+  ➤ child tags: 
+
+[Div 70]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 71]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 72]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 73]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 74]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 75]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 76]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 77]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 78]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 79]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_9558019008-placeholder
+  ➤ child tags: 
+
+[Div 80]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 81]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 82]
+  ➤ class: ['eeoc__container', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in you.com’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 83]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 84]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in you.com’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+
+[Div 85]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 86]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 87]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 88]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 89]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 90]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 91]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 92]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-gender-placeholder
+  ➤ child tags: 
+
+[Div 93]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 94]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 95]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 96]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 97]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 98]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 99]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 100]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 101]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 102]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-hispanic_ethnicity-placeholder
+  ➤ child tags: 
+
+[Div 103]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 104]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 105]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+[Div 106]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 107]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 108]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 109]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 110]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 111]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 112]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 113]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-veteran_status-placeholder
+  ➤ child tags: 
+
+[Div 114]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 115]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 116]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 117]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, ul, p, br, strong, h2
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+
+[Div 118]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 119]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 120]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 121]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 122]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 123]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 124]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 125]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 126]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 127]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 128]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 129]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 130]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 131]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 132]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-disability_status-placeholder
+  ➤ child tags: 
+
+[Div 133]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 134]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 135]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 136]
+  ➤ class: ['application--submit']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 137]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 138]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+[Div 139]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 140]
+  ➤ class: ['grecaptcha-badge']
+  ➤ id: None
+  ➤ child tags: div, textarea
+
+[Div 141]
+  ➤ class: ['grecaptcha-logo']
+  ➤ id: None
+  ➤ child tags: iframe
+
+[Div 142]
+  ➤ class: ['grecaptcha-error']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'First Name*', 'Type': 'text', 'ID': 'first_name', 'Required': 'true', 'Autocomplete': 'given-name'}
+{'Label': 'Last Name*', 'Type': 'text', 'ID': 'last_name', 'Required': 'true', 'Autocomplete': 'family-name'}
+{'Label': 'Preferred First Name', 'Type': 'text', 'ID': 'preferred_name', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email*', 'Type': 'text', 'ID': 'email', 'Required': 'true', 'Autocomplete': 'email'}
+{'Label': 'Phone*', 'Type': 'text', 'ID': 'phone', 'Required': 'true', 'Autocomplete': 'tel'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'resume', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'LinkedIn Profile*', 'Type': 'text', 'ID': 'question_9558016008', 'Required': 'true', 'Autocomplete': 'N/A'}
+{'Label': 'Website', 'Type': 'text', 'ID': 'question_9558017008', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Are you legally authorized to work in the United States?*', 'Type': 'text', 'ID': 'question_9558018008', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Will you now or in the future require visa sponsorship?*', 'Type': 'text', 'ID': 'question_9558019008', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Gender', 'Type': 'text', 'ID': 'gender', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Are you Hispanic/Latino?', 'Type': 'text', 'ID': 'hispanic_ethnicity', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Veteran Status', 'Type': 'text', 'ID': 'veteran_status', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Disability Status', 'Type': 'text', 'ID': 'disability_status', 'Required': 'false', 'Autocomplete': 'off'}

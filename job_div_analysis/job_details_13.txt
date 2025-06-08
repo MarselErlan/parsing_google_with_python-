@@ -1,0 +1,338 @@
+URL: https://jobs.lever.co/goodleap/474695b1-a630-401f-9089-23b6ac64f3d7
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Principal AI Engineer - Servicing Solutions
+    • h3: Key Responsibilities
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • li: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.
+    • li: Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.
+    • li: Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.
+    • li: Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.
+    • li: Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.
+    • li: Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.
+    • li: Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • h3: Qualifications
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • li: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.
+    • li: Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.
+    • li: Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web products
+    • li: Some hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.
+    • li: Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.
+    • li: Expertise in Python and TypeScript, with experience in building AI-driven backend systems.
+    • li: Experience in .NET (C#) preferred but not required.
+    • li: Experience working with vector databases, embeddings, and semantic search.
+    • li: Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.
+    • li: Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.
+    • li: Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Principal AI Engineer - Servicing Solutions
+    • h3: Key Responsibilities
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • li: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.
+    • li: Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.
+    • li: Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.
+    • li: Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.
+    • li: Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.
+    • li: Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.
+    • li: Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • h3: Qualifications
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • li: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.
+    • li: Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.
+    • li: Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web products
+    • li: Some hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.
+    • li: Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.
+    • li: Expertise in Python and TypeScript, with experience in building AI-driven backend systems.
+    • li: Experience in .NET (C#) preferred but not required.
+    • li: Experience working with vector databases, embeddings, and semantic search.
+    • li: Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.
+    • li: Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.
+    • li: Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Principal AI Engineer - Servicing Solutions
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Principal AI Engineer - Servicing Solutions
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: Principal AI Engineer - Servicing Solutions
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 14]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 15]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Key Responsibilities
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • li: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.
+    • li: Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.
+    • li: Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.
+    • li: Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.
+    • li: Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.
+    • li: Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.
+    • li: Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • h3: Qualifications
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • li: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.
+    • li: Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.
+    • li: Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web products
+    • li: Some hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.
+    • li: Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.
+    • li: Expertise in Python and TypeScript, with experience in building AI-driven backend systems.
+    • li: Experience in .NET (C#) preferred but not required.
+    • li: Experience working with vector databases, embeddings, and semantic search.
+    • li: Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.
+    • li: Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.
+    • li: Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+
+[Div 16]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: u
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 24]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 26]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Key Responsibilities
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • li: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.
+    • li: Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.
+    • li: Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.
+    • li: Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.
+    • li: Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.
+    • li: Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.
+    • li: Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Key Responsibilities
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • ul: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+    • li: Architect and develop scalable AI-driven tools integrated with Large Language Models (LLMs) and multi-agent systems to drive automation and enhance decision-making.
+    • li: Build and implement retrieval-augmented generation (RAG) and knowledge management systems to enhance AI-powered insights and recommendations.
+    • li: Lead AI strategy, collaborating closely with engineering, data, and product teams to align AI initiatives with strategic business objectives.
+    • li: Evaluate and integrate third-party LLMs, AI models, APIs, and agentic frameworks.
+    • li: Mentor engineers on best practices in AI/ML, fostering a culture of continuous learning and technical excellence.
+    • li: Ensure AI solutions meet regulatory standards, including SOC 2, PCI-DSS, and ethical guidelines.
+    • li: Collaborate on model fine-tuning, deployment, and MLOps practices with assistance from other team members.
+
+[Div 28]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Qualifications
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • li: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.
+    • li: Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.
+    • li: Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web products
+    • li: Some hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.
+    • li: Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.
+    • li: Expertise in Python and TypeScript, with experience in building AI-driven backend systems.
+    • li: Experience in .NET (C#) preferred but not required.
+    • li: Experience working with vector databases, embeddings, and semantic search.
+    • li: Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.
+    • li: Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.
+    • li: Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Qualifications
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • ul: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web productsSome hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.Expertise in Python and TypeScript, with experience in building AI-driven backend systems.Experience in .NET (C#) preferred but not required.Experience working with vector databases, embeddings, and semantic search.Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+    • li: 10+ years of experience in software engineering, with at least 2+ years working with AI/ML solutions or LLMs.
+    • li: Excellent leadership and problem-solving skills, with the ability to drive AI strategy at scale.
+    • li: Strong software architecture and design skills, with experience building and improving distributed systems and full-stack applications and web products
+    • li: Some hands-on experience with AI model development, fine-tuning, and deployment using frameworks like PyTorch, TensorFlow, Hugging Face.
+    • li: Significant hands-on experience with LLM APIs, agent frameworks, platforms, and protocols such as OpenAI API, AWS Bedrock, LangChain, Semantic Kernel, Model Context Protocol.
+    • li: Expertise in Python and TypeScript, with experience in building AI-driven backend systems.
+    • li: Experience in .NET (C#) preferred but not required.
+    • li: Experience working with vector databases, embeddings, and semantic search.
+    • li: Strong understanding of machine learning principles, prompt engineering, and AI inference optimization.
+    • li: Familiarity with MLOps, CI/CD for AI pipelines, and AI observability tools.
+    • li: Knowledge of financial services applications, including risk assessment, fraud detection, and AI-driven process automation.
+
+[Div 30]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div, small
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 33]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 36]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 37]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 39]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 40]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: GoodLeap Home Page
+
+[Div 41]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: GoodLeap Home Page
+
+
+🧾 Form Fields:

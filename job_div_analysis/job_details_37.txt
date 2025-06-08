@@ -1,0 +1,1227 @@
+URL: https://www.linkedin.com/jobs/view/3942495577
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['search-bar__full-placeholder', 'font-sans', 'text-md', 'text-color-text', 'max-w-[calc(100%-40px)]', 'text-left', 'whitespace-nowrap', 'overflow-hidden', 'text-ellipsis']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['switcher-tabs__trigger-and-tabs', 'babymamabear:flex']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 3]
+  ➤ class: ['hidden']
+  ➤ id: switcher-description
+  ➤ child tags: 
+
+[Div 4]
+  ➤ class: ['switcher-tabs', 'hidden', 'z-[1]', 'w-auto', 'min-w-[160px]', 'mb-1.5', 'py-1', 'absolute', 'top-[48px]', 'left-0', 'border-solid', 'border-1', 'border-color-border-faint', 'papabear:container-raised', 'babymamabear:static', 'babymamabear:w-[100vw]', 'babymamabear:h-[48px]', 'babymamabear:p-0', 'overflow-y-hidden', 'overflow-x-auto', 'md:overflow-x-hidden']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 5]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 6]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 7]
+  ➤ class: ['search-bar__live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 8]
+  ➤ class: ['nav__cta-container', 'order-3', 'flex', 'gap-x-1', 'justify-end', 'min-w-[100px]', 'flex-nowrap', 'flex-shrink-0', 'babybear:flex-wrap', 'flex-2', 'babymamabear:min-w-[50px]']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 9]
+  ➤ class: ['details', 'mx-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, section, code
+    • h3: AI Engineer
+    • h1: AI Engineer
+    • p: See who Jotform has hired for this role
+    • ul: Report this job
+    • li: Report this job
+    • p: Direct message the job poster from Jotform
+    • h3: Sinem Seda SOYDAN ÜNSAL
+    • p: ABOUT Jotform
+    • p: Jotform is a San Francisco-based SaaS company with more than 30 million users worldwide. We are thriving and growing and we’ve never needed outside funding. That’s because we like keeping things agile, independent and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes — from small businesses to enterprises.
+    • p: Since our inception in 2006, our mission has been to help users create, manage and share online forms and receive responses in the easiest way possible.
+    • p: ABOUT THE ROLE
+    • p: Jotform is seekingAI Engineerin our Ankara office, located at a relaxed fun environment in ODTU Teknokent. As a rapidly growing company we are hiring for similar positions continuously and once an opportunity matches with your qualifications, we will contact you immediately.
+    • p: Here’s what you will be doing:
+    • ul: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.Develop and implement AI products to enhance product performance and user experience.Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.Contribute to the development and maintenance of Jotform’s AI infrastructure.Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • li: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.
+    • li: Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.
+    • li: Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.
+    • li: Develop and implement AI products to enhance product performance and user experience.
+    • li: Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.
+    • li: Contribute to the development and maintenance of Jotform’s AI infrastructure.
+    • li: Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • p: Education & Work Experience & Technical Requirements:
+    • ul: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.Strong Knowledge of Python and SQL.Excellent communication and presentation skills in English.Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.Ability to extract, interpret, and present insights from unstructured and structured data.Experience in productionizing AI systems at scale.Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • li: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.
+    • li: Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.
+    • li: Strong Knowledge of Python and SQL.
+    • li: Excellent communication and presentation skills in English.
+    • li: Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.
+    • li: Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.
+    • li: Ability to extract, interpret, and present insights from unstructured and structured data.
+    • li: Experience in productionizing AI systems at scale.
+    • li: Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • p: Jotform PERKS
+    • ul: High growth-paced environment with collaborative and unique team cultureGenerous market competitive total compensation packageHealth InsuranceProfessional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!Challenging projects, regular feedback, healthy competitionFun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • li: High growth-paced environment with collaborative and unique team culture
+    • li: Generous market competitive total compensation package
+    • li: Health Insurance
+    • li: Professional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!
+    • li: Challenging projects, regular feedback, healthy competition
+    • li: Fun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • p: OUR PROCESS
+    • p: We’ll review your application along with all the others we receive and pick the top profiles for a screening call. In many cases due to time constraints and our candidate volume, only the short-listed candidates are contacted but we do consider each application carefully. If you have been selected as a short-listed candidate we will contact you for a short screening call to get to know you better. If you don’t get a call please don’t be disappointed! We receive many applications for each role and have to prioritize who we speak to.
+    • p: Thank you for taking the time to apply for a position at Jotform!
+    • p: Jotform is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+    • p: https://www.jotform.com/job-applicant-privacy/
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionInformation TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionInformation Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Jotform by 2x
+    • p: Get notified about newArtificial Intelligence Engineerjobs inAnkara, Türkiye.
+    • h2: Similar jobs
+    • ul: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week agoMachine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week agoData ScientistData ScientistJotformAnkara, Türkiye1 week agoData EngineerData EngineerOBSSAnkara, Türkiye4 days agoPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months agoPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks agoIoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks agoSenior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks agoGame DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week agoSenior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month agoSenior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months agoGraphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • li: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Machine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week ago
+    • h3: Machine Learning (ML) Engineer
+    • li: Data ScientistData ScientistJotformAnkara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerOBSSAnkara, Türkiye4 days ago
+    • h3: Data Engineer
+    • li: Python and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months ago
+    • h3: Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+    • li: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+    • li: IoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: IoT/Data Platform Engineer
+    • li: Senior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks ago
+    • h3: Senior AI Engineer (Computer Vision)
+    • li: Game DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week ago
+    • h3: Game Developer
+    • li: Senior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month ago
+    • h3: Senior Computer Vision and Machine Learning Engineer
+    • li: Senior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months ago
+    • h3: Senior AI/ML Engineer & Lead Developer
+    • li: Graphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • h3: Graphics Programmer (C++)
+
+[Div 10]
+  ➤ class: ['sub-nav-cta__content']
+  ➤ id: None
+  ➤ child tags: div, button, img
+    • h3: AI Engineer
+
+[Div 11]
+  ➤ class: ['sub-nav-cta__text-container']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: AI Engineer
+
+[Div 12]
+  ➤ class: ['sub-nav-cta__sub-text-container']
+  ➤ id: None
+  ➤ child tags: span, a
+
+[Div 13]
+  ➤ class: ['top-card-layout__card', 'relative', 'p-2', 'papabear:p-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: AI Engineer
+    • p: See who Jotform has hired for this role
+    • ul: Report this job
+    • li: Report this job
+
+[Div 14]
+  ➤ class: ['top-card-layout__entity-info-container', 'flex', 'flex-wrap', 'papabear:flex-nowrap']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer
+    • p: See who Jotform has hired for this role
+
+[Div 15]
+  ➤ class: ['top-card-layout__entity-info', 'flex-grow', 'flex-shrink-0', 'basis-0', 'babybear:flex-none', 'babybear:w-full', 'babybear:flex-none', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h4, h1
+    • h1: AI Engineer
+    • p: See who Jotform has hired for this role
+
+[Div 16]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 17]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span, figure
+
+[Div 18]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 19]
+  ➤ class: ['top-card-layout__cta-container', 'flex', 'flex-wrap', 'mt-0.5', 'papabear:mt-0', 'ml-[-12px]']
+  ➤ id: None
+  ➤ child tags: button, a
+
+[Div 20]
+  ➤ class: ['ellipsis-menu', 'absolute', 'right-0', 'top-0', 'top-card-layout__ellipsis-menu', 'mr-1', 'papabear:mt-0.5', 'papabear:mr-2']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Report this job
+    • li: Report this job
+
+[Div 21]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Report this job
+    • li: Report this job
+
+[Div 22]
+  ➤ class: ['decorated-job-posting__details']
+  ➤ id: None
+  ➤ child tags: section
+    • p: Direct message the job poster from Jotform
+    • h3: Sinem Seda SOYDAN ÜNSAL
+    • p: ABOUT Jotform
+    • p: Jotform is a San Francisco-based SaaS company with more than 30 million users worldwide. We are thriving and growing and we’ve never needed outside funding. That’s because we like keeping things agile, independent and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes — from small businesses to enterprises.
+    • p: Since our inception in 2006, our mission has been to help users create, manage and share online forms and receive responses in the easiest way possible.
+    • p: ABOUT THE ROLE
+    • p: Jotform is seekingAI Engineerin our Ankara office, located at a relaxed fun environment in ODTU Teknokent. As a rapidly growing company we are hiring for similar positions continuously and once an opportunity matches with your qualifications, we will contact you immediately.
+    • p: Here’s what you will be doing:
+    • ul: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.Develop and implement AI products to enhance product performance and user experience.Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.Contribute to the development and maintenance of Jotform’s AI infrastructure.Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • li: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.
+    • li: Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.
+    • li: Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.
+    • li: Develop and implement AI products to enhance product performance and user experience.
+    • li: Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.
+    • li: Contribute to the development and maintenance of Jotform’s AI infrastructure.
+    • li: Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • p: Education & Work Experience & Technical Requirements:
+    • ul: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.Strong Knowledge of Python and SQL.Excellent communication and presentation skills in English.Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.Ability to extract, interpret, and present insights from unstructured and structured data.Experience in productionizing AI systems at scale.Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • li: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.
+    • li: Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.
+    • li: Strong Knowledge of Python and SQL.
+    • li: Excellent communication and presentation skills in English.
+    • li: Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.
+    • li: Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.
+    • li: Ability to extract, interpret, and present insights from unstructured and structured data.
+    • li: Experience in productionizing AI systems at scale.
+    • li: Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • p: Jotform PERKS
+    • ul: High growth-paced environment with collaborative and unique team cultureGenerous market competitive total compensation packageHealth InsuranceProfessional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!Challenging projects, regular feedback, healthy competitionFun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • li: High growth-paced environment with collaborative and unique team culture
+    • li: Generous market competitive total compensation package
+    • li: Health Insurance
+    • li: Professional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!
+    • li: Challenging projects, regular feedback, healthy competition
+    • li: Fun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • p: OUR PROCESS
+    • p: We’ll review your application along with all the others we receive and pick the top profiles for a screening call. In many cases due to time constraints and our candidate volume, only the short-listed candidates are contacted but we do consider each application carefully. If you have been selected as a short-listed candidate we will contact you for a short screening call to get to know you better. If you don’t get a call please don’t be disappointed! We receive many applications for each role and have to prioritize who we speak to.
+    • p: Thank you for taking the time to apply for a position at Jotform!
+    • p: Jotform is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+    • p: https://www.jotform.com/job-applicant-privacy/
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionInformation TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionInformation Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Jotform by 2x
+
+[Div 23]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, ul
+    • p: Direct message the job poster from Jotform
+    • h3: Sinem Seda SOYDAN ÜNSAL
+    • p: ABOUT Jotform
+    • p: Jotform is a San Francisco-based SaaS company with more than 30 million users worldwide. We are thriving and growing and we’ve never needed outside funding. That’s because we like keeping things agile, independent and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes — from small businesses to enterprises.
+    • p: Since our inception in 2006, our mission has been to help users create, manage and share online forms and receive responses in the easiest way possible.
+    • p: ABOUT THE ROLE
+    • p: Jotform is seekingAI Engineerin our Ankara office, located at a relaxed fun environment in ODTU Teknokent. As a rapidly growing company we are hiring for similar positions continuously and once an opportunity matches with your qualifications, we will contact you immediately.
+    • p: Here’s what you will be doing:
+    • ul: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.Develop and implement AI products to enhance product performance and user experience.Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.Contribute to the development and maintenance of Jotform’s AI infrastructure.Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • li: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.
+    • li: Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.
+    • li: Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.
+    • li: Develop and implement AI products to enhance product performance and user experience.
+    • li: Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.
+    • li: Contribute to the development and maintenance of Jotform’s AI infrastructure.
+    • li: Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • p: Education & Work Experience & Technical Requirements:
+    • ul: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.Strong Knowledge of Python and SQL.Excellent communication and presentation skills in English.Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.Ability to extract, interpret, and present insights from unstructured and structured data.Experience in productionizing AI systems at scale.Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • li: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.
+    • li: Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.
+    • li: Strong Knowledge of Python and SQL.
+    • li: Excellent communication and presentation skills in English.
+    • li: Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.
+    • li: Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.
+    • li: Ability to extract, interpret, and present insights from unstructured and structured data.
+    • li: Experience in productionizing AI systems at scale.
+    • li: Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • p: Jotform PERKS
+    • ul: High growth-paced environment with collaborative and unique team cultureGenerous market competitive total compensation packageHealth InsuranceProfessional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!Challenging projects, regular feedback, healthy competitionFun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • li: High growth-paced environment with collaborative and unique team culture
+    • li: Generous market competitive total compensation package
+    • li: Health Insurance
+    • li: Professional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!
+    • li: Challenging projects, regular feedback, healthy competition
+    • li: Fun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • p: OUR PROCESS
+    • p: We’ll review your application along with all the others we receive and pick the top profiles for a screening call. In many cases due to time constraints and our candidate volume, only the short-listed candidates are contacted but we do consider each application carefully. If you have been selected as a short-listed candidate we will contact you for a short screening call to get to know you better. If you don’t get a call please don’t be disappointed! We receive many applications for each role and have to prioritize who we speak to.
+    • p: Thank you for taking the time to apply for a position at Jotform!
+    • p: Jotform is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+    • p: https://www.jotform.com/job-applicant-privacy/
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionInformation TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionInformation Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+
+[Div 24]
+  ➤ class: ['message-the-recruiter']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Direct message the job poster from Jotform
+    • h3: Sinem Seda SOYDAN ÜNSAL
+
+[Div 25]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Sinem Seda SOYDAN ÜNSAL
+
+[Div 26]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: h3, h4
+    • h3: Sinem Seda SOYDAN ÜNSAL
+
+[Div 27]
+  ➤ class: ['base-main-card__ctas', 'z-[3]', 'self-center', 'ml-3', 'babybear:ml-1', 'babybear:self-start']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 28]
+  ➤ class: ['description__text', 'description__text--rich']
+  ➤ id: None
+  ➤ child tags: section
+    • p: ABOUT Jotform
+    • p: Jotform is a San Francisco-based SaaS company with more than 30 million users worldwide. We are thriving and growing and we’ve never needed outside funding. That’s because we like keeping things agile, independent and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes — from small businesses to enterprises.
+    • p: Since our inception in 2006, our mission has been to help users create, manage and share online forms and receive responses in the easiest way possible.
+    • p: ABOUT THE ROLE
+    • p: Jotform is seekingAI Engineerin our Ankara office, located at a relaxed fun environment in ODTU Teknokent. As a rapidly growing company we are hiring for similar positions continuously and once an opportunity matches with your qualifications, we will contact you immediately.
+    • p: Here’s what you will be doing:
+    • ul: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.Develop and implement AI products to enhance product performance and user experience.Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.Contribute to the development and maintenance of Jotform’s AI infrastructure.Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • li: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.
+    • li: Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.
+    • li: Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.
+    • li: Develop and implement AI products to enhance product performance and user experience.
+    • li: Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.
+    • li: Contribute to the development and maintenance of Jotform’s AI infrastructure.
+    • li: Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • p: Education & Work Experience & Technical Requirements:
+    • ul: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.Strong Knowledge of Python and SQL.Excellent communication and presentation skills in English.Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.Ability to extract, interpret, and present insights from unstructured and structured data.Experience in productionizing AI systems at scale.Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • li: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.
+    • li: Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.
+    • li: Strong Knowledge of Python and SQL.
+    • li: Excellent communication and presentation skills in English.
+    • li: Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.
+    • li: Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.
+    • li: Ability to extract, interpret, and present insights from unstructured and structured data.
+    • li: Experience in productionizing AI systems at scale.
+    • li: Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • p: Jotform PERKS
+    • ul: High growth-paced environment with collaborative and unique team cultureGenerous market competitive total compensation packageHealth InsuranceProfessional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!Challenging projects, regular feedback, healthy competitionFun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • li: High growth-paced environment with collaborative and unique team culture
+    • li: Generous market competitive total compensation package
+    • li: Health Insurance
+    • li: Professional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!
+    • li: Challenging projects, regular feedback, healthy competition
+    • li: Fun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • p: OUR PROCESS
+    • p: We’ll review your application along with all the others we receive and pick the top profiles for a screening call. In many cases due to time constraints and our candidate volume, only the short-listed candidates are contacted but we do consider each application carefully. If you have been selected as a short-listed candidate we will contact you for a short screening call to get to know you better. If you don’t get a call please don’t be disappointed! We receive many applications for each role and have to prioritize who we speak to.
+    • p: Thank you for taking the time to apply for a position at Jotform!
+    • p: Jotform is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+    • p: https://www.jotform.com/job-applicant-privacy/
+
+[Div 29]
+  ➤ class: ['show-more-less-html__markup', 'show-more-less-html__markup--clamp-after-5', 'relative', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: ul, p
+    • p: ABOUT Jotform
+    • p: Jotform is a San Francisco-based SaaS company with more than 30 million users worldwide. We are thriving and growing and we’ve never needed outside funding. That’s because we like keeping things agile, independent and fun. Jotform believes everyone should be able to create their own online forms. Our 10,000+ ready-made form templates, 100+ integrations and more than 380 widgets have made us one of the most popular online form builders for organizations of all sizes — from small businesses to enterprises.
+    • p: Since our inception in 2006, our mission has been to help users create, manage and share online forms and receive responses in the easiest way possible.
+    • p: ABOUT THE ROLE
+    • p: Jotform is seekingAI Engineerin our Ankara office, located at a relaxed fun environment in ODTU Teknokent. As a rapidly growing company we are hiring for similar positions continuously and once an opportunity matches with your qualifications, we will contact you immediately.
+    • p: Here’s what you will be doing:
+    • ul: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.Develop and implement AI products to enhance product performance and user experience.Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.Contribute to the development and maintenance of Jotform’s AI infrastructure.Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • li: Collaborate with cross-functional teams to identify AI-driven opportunities and provide actionable recommendations to drive growth, enhance products, and optimize operations.
+    • li: Apply advanced artificial intelligence and machine learning techniques to create high-quality and high-impact products.
+    • li: Participate in the design, development, testing, deployment, and maintenance of new AI models, products, and data pipelines.
+    • li: Develop and implement AI products to enhance product performance and user experience.
+    • li: Design and execute experiments to evaluate and improve the effectiveness of various AI-driven strategies and initiatives.
+    • li: Contribute to the development and maintenance of Jotform’s AI infrastructure.
+    • li: Stay updated with the latest advancements in artificial intelligence, machine learning, and statistical modeling techniques, and proactively integrate innovative approaches into Jotform’s AI products and machine learning solutions.
+    • p: Education & Work Experience & Technical Requirements:
+    • ul: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.Strong Knowledge of Python and SQL.Excellent communication and presentation skills in English.Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.Ability to extract, interpret, and present insights from unstructured and structured data.Experience in productionizing AI systems at scale.Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • li: Bachelor’s or Master’s degree in Computer Engineering, Electrical Engineering, Math, Statistics, or a related quantitative field.
+    • li: Professional experience as an AI Engineer, ML Engineer, Data Scientist, or related role.
+    • li: Strong Knowledge of Python and SQL.
+    • li: Excellent communication and presentation skills in English.
+    • li: Hands-on experience with AI and machine learning frameworks such as Huggingface Transformers, PyTorch, Tensorflow, and scikit-learn.
+    • li: Solid knowledge of Restful APIs, preferably hands-on experience on FastAPI.
+    • li: Ability to extract, interpret, and present insights from unstructured and structured data.
+    • li: Experience in productionizing AI systems at scale.
+    • li: Experience in working with Large Language Models(LLMs) and Generative AI frameworks.
+    • p: Jotform PERKS
+    • ul: High growth-paced environment with collaborative and unique team cultureGenerous market competitive total compensation packageHealth InsuranceProfessional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!Challenging projects, regular feedback, healthy competitionFun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • li: High growth-paced environment with collaborative and unique team culture
+    • li: Generous market competitive total compensation package
+    • li: Health Insurance
+    • li: Professional Growth & Career Opportunities: We support your personal and professional development with educational materials and expenses & relevant conferences abroad to stay up to date with the latest industry trends & online courses or coaching - and support you pursuing ones that you are passionate about!
+    • li: Challenging projects, regular feedback, healthy competition
+    • li: Fun & Relax working environment: When we’re in the office; music, jeans and t-shirts are the norm & kitchens stocked with healthy & tasty snacks & drinks
+    • p: OUR PROCESS
+    • p: We’ll review your application along with all the others we receive and pick the top profiles for a screening call. In many cases due to time constraints and our candidate volume, only the short-listed candidates are contacted but we do consider each application carefully. If you have been selected as a short-listed candidate we will contact you for a short screening call to get to know you better. If you don’t get a call please don’t be disappointed! We receive many applications for each role and have to prioritize who we speak to.
+    • p: Thank you for taking the time to apply for a position at Jotform!
+    • p: Jotform is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+    • p: https://www.jotform.com/job-applicant-privacy/
+
+[Div 30]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Jotform by 2x
+
+[Div 31]
+  ➤ class: ['face-pile', 'flex', '!no-underline']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Jotform by 2x
+
+[Div 32]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 33]
+  ➤ class: ['find-a-referral__cta-container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Referrals increase your chances of interviewing at Jotform by 2x
+
+[Div 34]
+  ➤ class: ['job-alert-redirect-section__container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Get notified about newArtificial Intelligence Engineerjobs inAnkara, Türkiye.
+
+[Div 35]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week agoMachine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week agoData ScientistData ScientistJotformAnkara, Türkiye1 week agoData EngineerData EngineerOBSSAnkara, Türkiye4 days agoPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months agoPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks agoIoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks agoSenior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks agoGame DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week agoSenior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month agoSenior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months agoGraphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • li: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Machine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week ago
+    • h3: Machine Learning (ML) Engineer
+    • li: Data ScientistData ScientistJotformAnkara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerOBSSAnkara, Türkiye4 days ago
+    • h3: Data Engineer
+    • li: Python and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months ago
+    • h3: Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+    • li: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+    • li: IoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: IoT/Data Platform Engineer
+    • li: Senior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks ago
+    • h3: Senior AI Engineer (Computer Vision)
+    • li: Game DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week ago
+    • h3: Game Developer
+    • li: Senior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month ago
+    • h3: Senior Computer Vision and Machine Learning Engineer
+    • li: Senior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months ago
+    • h3: Senior AI/ML Engineer & Lead Developer
+    • li: Graphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • h3: Graphics Programmer (C++)
+
+[Div 36]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week agoMachine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week agoData ScientistData ScientistJotformAnkara, Türkiye1 week agoData EngineerData EngineerOBSSAnkara, Türkiye4 days agoPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months agoPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks agoIoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks agoSenior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks agoGame DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week agoSenior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month agoSenior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months agoGraphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • li: Data ScientistData ScientistUdemyAnkara, Ankara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Machine Learning (ML) EngineerMachine Learning (ML) EngineerJotformAnkara, Türkiye1 week ago
+    • h3: Machine Learning (ML) Engineer
+    • li: Data ScientistData ScientistJotformAnkara, Türkiye1 week ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerOBSSAnkara, Türkiye4 days ago
+    • h3: Data Engineer
+    • li: Python and Kubernetes Software Engineer - Data, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye3 months ago
+    • h3: Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+    • li: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsPython and Kubernetes Software Engineer - Data, Workflows, AI/ML & AnalyticsCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+    • li: IoT/Data Platform EngineerIoT/Data Platform EngineerCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: IoT/Data Platform Engineer
+    • li: Senior AI Engineer (Computer Vision)Senior AI Engineer (Computer Vision)NetcadAnkara, Türkiye3 weeks ago
+    • h3: Senior AI Engineer (Computer Vision)
+    • li: Game DeveloperGame DeveloperLoop GamesAnkara, Türkiye1 week ago
+    • h3: Game Developer
+    • li: Senior Computer Vision and Machine Learning EngineerSenior Computer Vision and Machine Learning EngineerMilvus RoboticsAnkara, Ankara, Türkiye1 month ago
+    • h3: Senior Computer Vision and Machine Learning Engineer
+    • li: Senior AI/ML Engineer & Lead DeveloperSenior AI/ML Engineer & Lead DeveloperAiFA LabsAnkara, Ankara, Türkiye2 months ago
+    • h3: Senior AI/ML Engineer & Lead Developer
+    • li: Graphics Programmer (C++)Graphics Programmer (C++)Magic MediaAnkara, Ankara, Türkiye3 weeks ago
+    • h3: Graphics Programmer (C++)
+
+[Div 37]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 38]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 39]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 40]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning (ML) Engineer
+
+[Div 41]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning (ML) Engineer
+
+[Div 42]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 43]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 44]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 45]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 46]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 47]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 48]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 49]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+
+[Div 50]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Python and Kubernetes Software Engineer - Data, AI/ML & Analytics
+
+[Div 51]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 52]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+
+[Div 53]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Python and Kubernetes Software Engineer - Data, Workflows, AI/ML & Analytics
+
+[Div 54]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 55]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: IoT/Data Platform Engineer
+
+[Div 56]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: IoT/Data Platform Engineer
+
+[Div 57]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 58]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Senior AI Engineer (Computer Vision)
+
+[Div 59]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Senior AI Engineer (Computer Vision)
+
+[Div 60]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 61]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Game Developer
+
+[Div 62]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Game Developer
+
+[Div 63]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 64]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Senior Computer Vision and Machine Learning Engineer
+
+[Div 65]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Senior Computer Vision and Machine Learning Engineer
+
+[Div 66]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 67]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Senior AI/ML Engineer & Lead Developer
+
+[Div 68]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Senior AI/ML Engineer & Lead Developer
+
+[Div 69]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 70]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Graphics Programmer (C++)
+
+[Div 71]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Graphics Programmer (C++)
+
+[Div 72]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 73]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Software Engineer - Data InfrastructureSoftware Engineer - Data InfrastructureCanonicalAnkara, Ankara, Türkiye2 weeks agoLead Data Governance EngineerLead Data Governance EngineerCanonicalAnkara, Ankara, Türkiye2 weeks agoSoftware Engineer - Data Infrastructure - KafkaSoftware Engineer - Data Infrastructure - KafkaCanonicalAnkara, Ankara, Türkiye2 weeks agoSoftware Engineer - Data Infrastructure - OpenSearch/ElasticSearchSoftware Engineer - Data Infrastructure - OpenSearch/ElasticSearchCanonicalAnkara, Ankara, Türkiye2 weeks agoSenior Game DeveloperSenior Game DeveloperPanteonAnkara, Türkiye2 weeks ago
+    • li: Software Engineer - Data InfrastructureSoftware Engineer - Data InfrastructureCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Software Engineer - Data Infrastructure
+    • p: Canonical
+    • li: Lead Data Governance EngineerLead Data Governance EngineerCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Lead Data Governance Engineer
+    • p: Canonical
+    • li: Software Engineer - Data Infrastructure - KafkaSoftware Engineer - Data Infrastructure - KafkaCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Software Engineer - Data Infrastructure - Kafka
+    • p: Canonical
+    • li: Software Engineer - Data Infrastructure - OpenSearch/ElasticSearchSoftware Engineer - Data Infrastructure - OpenSearch/ElasticSearchCanonicalAnkara, Ankara, Türkiye2 weeks ago
+    • h3: Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch
+    • p: Canonical
+    • li: Senior Game DeveloperSenior Game DeveloperPanteonAnkara, Türkiye2 weeks ago
+    • h3: Senior Game Developer
+    • p: Panteon
+
+[Div 74]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer - Data Infrastructure
+    • p: Canonical
+
+[Div 75]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer - Data Infrastructure
+    • p: Canonical
+
+[Div 76]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 77]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Lead Data Governance Engineer
+    • p: Canonical
+
+[Div 78]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Lead Data Governance Engineer
+    • p: Canonical
+
+[Div 79]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 80]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer - Data Infrastructure - Kafka
+    • p: Canonical
+
+[Div 81]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer - Data Infrastructure - Kafka
+    • p: Canonical
+
+[Div 82]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 83]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch
+    • p: Canonical
+
+[Div 84]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer - Data Infrastructure - OpenSearch/ElasticSearch
+    • p: Canonical
+
+[Div 85]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 86]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Senior Game Developer
+    • p: Panteon
+
+[Div 87]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Senior Game Developer
+    • p: Panteon
+
+[Div 88]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 89]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Explore collaborative articles
+    • p: We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+[Div 90]
+  ➤ class: ['flex', 'flex-row']
+  ➤ id: None
+  ➤ child tags: h2, img
+    • h2: Explore collaborative articles
+
+[Div 91]
+  ➤ class: ['pre-footer']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 92]
+  ➤ class: ['collapsible-dropdown', 'collapsible-dropdown--footer', 'collapsible-dropdown--up', 'flex', 'items-center', 'relative', 'hyphens-auto', 'language-selector', 'z-2']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 93]
+  ➤ class: ['guest-upsells']
+  ➤ id: None
+  ➤ child tags: div, script, form
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 94]
+  ➤ class: ['google-one-tap__module', 'hidden', 'fixed', 'flex', 'flex-col', 'items-center', 'top-[20px]', 'right-[20px]', 'z-[9999]']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 95]
+  ➤ class: ['google-auth__tnc-container', 'hidden', 'relative', 'top-2', 'bg-color-background-container-tint', 'pl-2', 'pr-1', 'pt-2', 'pb-3', 'w-[375px]', 'rounded-md', 'shadow-2xl']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 96]
+  ➤ class: None
+  ➤ id: google-one-tap__container
+  ➤ child tags: 
+
+[Div 97]
+  ➤ class: ['loader', 'loader--full-screen']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 98]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 99]
+  ➤ class: ['contextual-sign-in-modal', 'base-contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 100]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 101]
+  ➤ class: ['toasts', 'fixed', 'z-8', 'babybear:right-4', 'mamabear:right-4', 'papabear:min-h-[96px]', 'invisible', 'top:auto', 'bottom-4', 'left-4', 'papabear:w-[400px]', 'toasts--bottom']
+  ➤ id: toasts
+  ➤ child tags: template
+
+[Div 102]
+  ➤ class: ['toast', 'container-raised', 'flex', 'toast--bottom', 'transition', 'ease-accelerate', 'duration-xxslow']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 103]
+  ➤ class: ['toast__message', 'flex', 'flex-1', 'babybear:items-center', 'mamabear:items-center', 'papabear:items-start', 'py-2', 'px-1.5']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 104]
+  ➤ class: ['toast__message-content-container']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 105]
+  ➤ class: ['top-level-modal-container']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jotform
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 106]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: base-contextual-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jotform
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 107]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4', 'modal__overlay--visible']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to see who you already know at Jotform
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 108]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jotform
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 109]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to see who you already know at Jotform
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 110]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 111]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 112]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 113]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 114]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 115]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 116]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 117]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 118]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: base-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 119]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 120]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 121]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 122]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 123]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 124]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 125]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 126]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 127]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 128]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 129]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 130]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 131]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 132]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 133]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 134]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 135]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 136]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 137]
+  ➤ class: None
+  ➤ id: batBeacon10467151416
+  ➤ child tags: img
+
+
+🧾 Form Fields:
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-keywords', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-location', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'base-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'base-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

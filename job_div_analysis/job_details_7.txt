@@ -1,0 +1,308 @@
+URL: https://jobs.lever.co/mistral/881941e1-2741-48e2-8767-12866965fac5
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Applied AI Engineer, Use-case - Paris (Internship)
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Applied AI Engineer, Use-case - Paris (Internship)
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Applied AI Engineer, Use-case - Paris (Internship)
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Applied AI Engineer, Use-case - Paris (Internship)
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: Applied AI Engineer, Use-case - Paris (Internship)
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 14]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 15]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 16]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 24]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 30]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 33]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 36]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 37]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 39]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 40]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 41]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 42]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 43]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 44]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 45]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 46]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 47]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 48]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 49]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 50]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 51]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 52]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 53]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 54]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 55]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 56]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 57]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 58]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Mistral AI Home Page
+
+[Div 59]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Mistral AI Home Page
+
+
+🧾 Form Fields:

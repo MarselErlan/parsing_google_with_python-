@@ -1,0 +1,2193 @@
+URL: https://www.linkedin.com/jobs/view/senior-ai-engineer-at-jobs-via-dice-4242096353
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['search-bar__full-placeholder', 'font-sans', 'text-md', 'text-color-text', 'max-w-[calc(100%-40px)]', 'text-left', 'whitespace-nowrap', 'overflow-hidden', 'text-ellipsis']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['switcher-tabs__trigger-and-tabs', 'babymamabear:flex']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 3]
+  ➤ class: ['hidden']
+  ➤ id: switcher-description
+  ➤ child tags: 
+
+[Div 4]
+  ➤ class: ['switcher-tabs', 'hidden', 'z-[1]', 'w-auto', 'min-w-[160px]', 'mb-1.5', 'py-1', 'absolute', 'top-[48px]', 'left-0', 'border-solid', 'border-1', 'border-color-border-faint', 'papabear:container-raised', 'babymamabear:static', 'babymamabear:w-[100vw]', 'babymamabear:h-[48px]', 'babymamabear:p-0', 'overflow-y-hidden', 'overflow-x-auto', 'md:overflow-x-hidden']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 5]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 6]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 7]
+  ➤ class: ['search-bar__live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 8]
+  ➤ class: ['nav__cta-container', 'order-3', 'flex', 'gap-x-1', 'justify-end', 'min-w-[100px]', 'flex-nowrap', 'flex-shrink-0', 'babybear:flex-wrap', 'flex-2', 'babymamabear:min-w-[50px]']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 9]
+  ➤ class: ['details', 'mx-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, section, code
+    • h3: Senior AI Engineer
+    • h1: Senior AI Engineer
+    • p: See who Jobs via Dice has hired for this role
+    • ul: Report this job
+    • li: Report this job
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: Remote flexibilityWork on greenfield backend systems with wide scope and autonomy.Ship products used directly by enterprise customers.Join a senior, collaborative engineering team focused on pragmatic execution.Chance to work in a Series A recently funded startup.
+    • li: Remote flexibility
+    • li: Work on greenfield backend systems with wide scope and autonomy.
+    • li: Ship products used directly by enterprise customers.
+    • li: Join a senior, collaborative engineering team focused on pragmatic execution.
+    • li: Chance to work in a Series A recently funded startup.
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Jobs via Dice by 2x
+    • p: Get notified about newArtificial Intelligence Engineerjobs inAddison, TX.
+    • h2: Similar jobs
+    • ul: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day agoAI Software EngineerAI Software EngineerBradoDallas, TX4 weeks agoAI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day agoML EngineerML EngineerWise PiratesAllen, TX1 week agoAI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks agoData EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week agoData Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day agoR&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months agoAI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week agoGen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours agoEngineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks agoSoftware Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks agoAI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days agoArtificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day agoAI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week agoData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day agoData EngineerData EngineerParticle41Dallas, TX5 months agoAI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks agoData ScientistData ScientistToyota North AmericaPlano, TX4 months agoAWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week agoData Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days agoPython/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day agoSoftware Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months agoMachine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day agoMachine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days agoPython AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month agoAI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • li: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day ago
+    • h3: Data Scientist
+    • li: AI Software EngineerAI Software EngineerBradoDallas, TX4 weeks ago
+    • h3: AI Software Engineer
+    • li: AI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day ago
+    • h3: AI / ML Engineer
+    • li: ML EngineerML EngineerWise PiratesAllen, TX1 week ago
+    • h3: ML Engineer
+    • li: AI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks ago
+    • h3: AI Engineer (Remote, USA)
+    • li: Data EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week ago
+    • h3: Data Engineer
+    • li: Data Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day ago
+    • h3: Data Engineer (remote)
+    • li: R&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months ago
+    • h3: R&D Gen AI | ML Engineer
+    • li: AI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week ago
+    • h3: AI/ML Engineer- Python and RAG
+    • li: Gen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours ago
+    • h3: Gen AI Engineer
+    • li: Engineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks ago
+    • h3: Engineer II, AI/ML Engineering
+    • li: Software Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks ago
+    • h3: Software Engineer II- AI/ML
+    • li: AI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days ago
+    • h3: AI ML Engineer
+    • li: Artificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day ago
+    • h3: Artificial Intelligence Engineer
+    • li: AI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week ago
+    • h3: AI/ML Engineer
+    • li: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day ago
+    • h3: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USA
+    • li: Data EngineerData EngineerParticle41Dallas, TX5 months ago
+    • h3: Data Engineer
+    • li: AI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistToyota North AmericaPlano, TX4 months ago
+    • h3: Data Scientist
+    • li: AWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week ago
+    • h3: AWS Gen AI/ML Engineer
+    • li: Data Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days ago
+    • h3: Data Engineer, American Airlines
+    • li: Python/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day ago
+    • h3: Python/AI-ML Engineer
+    • li: Software Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months ago
+    • h3: Software Engineer, AI Engine / HPC
+    • li: Machine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day ago
+    • h3: Machine Learning Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days ago
+    • h3: Machine Learning Engineer
+    • li: Python AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month ago
+    • h3: Python AI Developer
+    • li: AI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • h3: AI & ML Platform Engineer – VP (Hybrid)
+
+[Div 10]
+  ➤ class: ['sub-nav-cta__content']
+  ➤ id: None
+  ➤ child tags: div, img
+    • h3: Senior AI Engineer
+
+[Div 11]
+  ➤ class: ['sub-nav-cta__text-container']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior AI Engineer
+
+[Div 12]
+  ➤ class: ['sub-nav-cta__sub-text-container']
+  ➤ id: None
+  ➤ child tags: span, a
+
+[Div 13]
+  ➤ class: ['top-card-layout__card', 'relative', 'p-2', 'papabear:p-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: Senior AI Engineer
+    • p: See who Jobs via Dice has hired for this role
+    • ul: Report this job
+    • li: Report this job
+
+[Div 14]
+  ➤ class: ['top-card-layout__entity-info-container', 'flex', 'flex-wrap', 'papabear:flex-nowrap']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Senior AI Engineer
+    • p: See who Jobs via Dice has hired for this role
+
+[Div 15]
+  ➤ class: ['top-card-layout__entity-info', 'flex-grow', 'flex-shrink-0', 'basis-0', 'babybear:flex-none', 'babybear:w-full', 'babybear:flex-none', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h4, h1
+    • h1: Senior AI Engineer
+    • p: See who Jobs via Dice has hired for this role
+
+[Div 16]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 17]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span, figure
+
+[Div 18]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 19]
+  ➤ class: ['top-card-layout__cta-container', 'flex', 'flex-wrap', 'mt-0.5', 'papabear:mt-0', 'ml-[-12px]']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 20]
+  ➤ class: ['ellipsis-menu', 'absolute', 'right-0', 'top-0', 'top-card-layout__ellipsis-menu', 'mr-1', 'papabear:mt-0.5', 'papabear:mr-2']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Report this job
+    • li: Report this job
+
+[Div 21]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Report this job
+    • li: Report this job
+
+[Div 22]
+  ➤ class: ['decorated-job-posting__details']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Pay found in job post
+    • p: Retrieved from the description.
+    • h3: Base pay range
+    • ul: Remote flexibilityWork on greenfield backend systems with wide scope and autonomy.Ship products used directly by enterprise customers.Join a senior, collaborative engineering team focused on pragmatic execution.Chance to work in a Series A recently funded startup.
+    • li: Remote flexibility
+    • li: Work on greenfield backend systems with wide scope and autonomy.
+    • li: Ship products used directly by enterprise customers.
+    • li: Join a senior, collaborative engineering team focused on pragmatic execution.
+    • li: Chance to work in a Series A recently funded startup.
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at Jobs via Dice by 2x
+
+[Div 23]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Retrieved from the description.
+    • h3: Base pay range
+
+[Div 24]
+  ➤ class: ['compensation__salary-range']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Base pay range
+
+[Div 25]
+  ➤ class: ['salary', 'compensation__salary']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 26]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, ul
+    • ul: Remote flexibilityWork on greenfield backend systems with wide scope and autonomy.Ship products used directly by enterprise customers.Join a senior, collaborative engineering team focused on pragmatic execution.Chance to work in a Series A recently funded startup.
+    • li: Remote flexibility
+    • li: Work on greenfield backend systems with wide scope and autonomy.
+    • li: Ship products used directly by enterprise customers.
+    • li: Join a senior, collaborative engineering team focused on pragmatic execution.
+    • li: Chance to work in a Series A recently funded startup.
+    • ul: Seniority levelMid-Senior levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesSoftware Development
+    • li: Seniority levelMid-Senior level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesSoftware Development
+    • h3: Industries
+
+[Div 27]
+  ➤ class: ['description__text', 'description__text--rich']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Remote flexibilityWork on greenfield backend systems with wide scope and autonomy.Ship products used directly by enterprise customers.Join a senior, collaborative engineering team focused on pragmatic execution.Chance to work in a Series A recently funded startup.
+    • li: Remote flexibility
+    • li: Work on greenfield backend systems with wide scope and autonomy.
+    • li: Ship products used directly by enterprise customers.
+    • li: Join a senior, collaborative engineering team focused on pragmatic execution.
+    • li: Chance to work in a Series A recently funded startup.
+
+[Div 28]
+  ➤ class: ['show-more-less-html__markup', 'show-more-less-html__markup--clamp-after-5', 'relative', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: ul, strong, br
+    • ul: Remote flexibilityWork on greenfield backend systems with wide scope and autonomy.Ship products used directly by enterprise customers.Join a senior, collaborative engineering team focused on pragmatic execution.Chance to work in a Series A recently funded startup.
+    • li: Remote flexibility
+    • li: Work on greenfield backend systems with wide scope and autonomy.
+    • li: Ship products used directly by enterprise customers.
+    • li: Join a senior, collaborative engineering team focused on pragmatic execution.
+    • li: Chance to work in a Series A recently funded startup.
+
+[Div 29]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Jobs via Dice by 2x
+
+[Div 30]
+  ➤ class: ['face-pile', 'flex', '!no-underline']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at Jobs via Dice by 2x
+
+[Div 31]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 32]
+  ➤ class: ['find-a-referral__cta-container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Referrals increase your chances of interviewing at Jobs via Dice by 2x
+
+[Div 33]
+  ➤ class: ['job-alert-redirect-section__container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Get notified about newArtificial Intelligence Engineerjobs inAddison, TX.
+
+[Div 34]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day agoAI Software EngineerAI Software EngineerBradoDallas, TX4 weeks agoAI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day agoML EngineerML EngineerWise PiratesAllen, TX1 week agoAI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks agoData EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week agoData Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day agoR&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months agoAI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week agoGen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours agoEngineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks agoSoftware Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks agoAI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days agoArtificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day agoAI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week agoData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day agoData EngineerData EngineerParticle41Dallas, TX5 months agoAI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks agoData ScientistData ScientistToyota North AmericaPlano, TX4 months agoAWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week agoData Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days agoPython/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day agoSoftware Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months agoMachine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day agoMachine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days agoPython AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month agoAI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • li: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day ago
+    • h3: Data Scientist
+    • li: AI Software EngineerAI Software EngineerBradoDallas, TX4 weeks ago
+    • h3: AI Software Engineer
+    • li: AI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day ago
+    • h3: AI / ML Engineer
+    • li: ML EngineerML EngineerWise PiratesAllen, TX1 week ago
+    • h3: ML Engineer
+    • li: AI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks ago
+    • h3: AI Engineer (Remote, USA)
+    • li: Data EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week ago
+    • h3: Data Engineer
+    • li: Data Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day ago
+    • h3: Data Engineer (remote)
+    • li: R&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months ago
+    • h3: R&D Gen AI | ML Engineer
+    • li: AI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week ago
+    • h3: AI/ML Engineer- Python and RAG
+    • li: Gen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours ago
+    • h3: Gen AI Engineer
+    • li: Engineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks ago
+    • h3: Engineer II, AI/ML Engineering
+    • li: Software Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks ago
+    • h3: Software Engineer II- AI/ML
+    • li: AI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days ago
+    • h3: AI ML Engineer
+    • li: Artificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day ago
+    • h3: Artificial Intelligence Engineer
+    • li: AI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week ago
+    • h3: AI/ML Engineer
+    • li: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day ago
+    • h3: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USA
+    • li: Data EngineerData EngineerParticle41Dallas, TX5 months ago
+    • h3: Data Engineer
+    • li: AI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistToyota North AmericaPlano, TX4 months ago
+    • h3: Data Scientist
+    • li: AWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week ago
+    • h3: AWS Gen AI/ML Engineer
+    • li: Data Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days ago
+    • h3: Data Engineer, American Airlines
+    • li: Python/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day ago
+    • h3: Python/AI-ML Engineer
+    • li: Software Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months ago
+    • h3: Software Engineer, AI Engine / HPC
+    • li: Machine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day ago
+    • h3: Machine Learning Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days ago
+    • h3: Machine Learning Engineer
+    • li: Python AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month ago
+    • h3: Python AI Developer
+    • li: AI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • h3: AI & ML Platform Engineer – VP (Hybrid)
+
+[Div 35]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day agoAI Software EngineerAI Software EngineerBradoDallas, TX4 weeks agoAI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day agoML EngineerML EngineerWise PiratesAllen, TX1 week agoAI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks agoData EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week agoData Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day agoR&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months agoAI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week agoGen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours agoEngineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks agoSoftware Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks agoAI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days agoArtificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day agoAI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week agoData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day agoData EngineerData EngineerParticle41Dallas, TX5 months agoAI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks agoData ScientistData ScientistToyota North AmericaPlano, TX4 months agoAWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week agoData Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days agoPython/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day agoSoftware Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months agoMachine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day agoMachine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days agoPython AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month agoAI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • li: Data ScientistData ScientistConnectedX Inc.Plano, TX1 day ago
+    • h3: Data Scientist
+    • li: AI Software EngineerAI Software EngineerBradoDallas, TX4 weeks ago
+    • h3: AI Software Engineer
+    • li: AI / ML EngineerAI / ML EngineerSpark InfotechDallas-Fort Worth Metroplex1 day ago
+    • h3: AI / ML Engineer
+    • li: ML EngineerML EngineerWise PiratesAllen, TX1 week ago
+    • h3: ML Engineer
+    • li: AI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyDallas, TX3 weeks ago
+    • h3: AI Engineer (Remote, USA)
+    • li: Data EngineerData EngineerPepsiCoPlano, TX$100,000 - $167,5001 week ago
+    • h3: Data Engineer
+    • li: Data Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$80,000.00-$100,000.001 day ago
+    • h3: Data Engineer (remote)
+    • li: R&D Gen AI | ML EngineerR&D Gen AI | ML EngineerWise PiratesAllen, TX3 months ago
+    • h3: R&D Gen AI | ML Engineer
+    • li: AI/ML Engineer- Python and RAGAI/ML Engineer- Python and RAGInfosysRichardson, TX1 week ago
+    • h3: AI/ML Engineer- Python and RAG
+    • li: Gen AI EngineerGen AI EngineerCitiusTechIrving, TX22 hours ago
+    • h3: Gen AI Engineer
+    • li: Engineer II, AI/ML EngineeringEngineer II, AI/ML EngineeringCarMaxDallas, TX3 weeks ago
+    • h3: Engineer II, AI/ML Engineering
+    • li: Software Engineer II- AI/MLSoftware Engineer II- AI/MLCarMaxDallas-Fort Worth Metroplex4 weeks ago
+    • h3: Software Engineer II- AI/ML
+    • li: AI ML EngineerAI ML EngineerVizient, IncIrving, TX$102,400.00-$179,000.004 days ago
+    • h3: AI ML Engineer
+    • li: Artificial Intelligence EngineerArtificial Intelligence EngineerNeudesic, an IBM CompanyDallas, TX1 day ago
+    • h3: Artificial Intelligence Engineer
+    • li: AI/ML EngineerAI/ML EngineerRaas InfotekDallas, TX1 week ago
+    • h3: AI/ML Engineer
+    • li: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USAData Engineer-NY, SLC, TX, UT, Dallas, New York City , USAHRC Global ServicesDallas, TX1 day ago
+    • h3: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USA
+    • li: Data EngineerData EngineerParticle41Dallas, TX5 months ago
+    • h3: Data Engineer
+    • li: AI/ML EngineerAI/ML EngineerProgrammers.ioDallas, TX2 weeks ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistToyota North AmericaPlano, TX4 months ago
+    • h3: Data Scientist
+    • li: AWS Gen AI/ML EngineerAWS Gen AI/ML EngineerBiogensysPlano, TX1 week ago
+    • h3: AWS Gen AI/ML Engineer
+    • li: Data Engineer, American AirlinesData Engineer, American AirlinesDesignitDallas, TX$42.00-$45.004 days ago
+    • h3: Data Engineer, American Airlines
+    • li: Python/AI-ML EngineerPython/AI-ML EngineerNTT DATA North AmericaIrving, TX1 day ago
+    • h3: Python/AI-ML Engineer
+    • li: Software Engineer, AI Engine / HPCSoftware Engineer, AI Engine / HPCTopaz LabsDallas, TX$110,000.00-$150,000.006 months ago
+    • h3: Software Engineer, AI Engine / HPC
+    • li: Machine Learning EngineerMachine Learning EngineerInfoVision Inc.Irving, TX1 day ago
+    • h3: Machine Learning Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerMicron TechnologyRichardson, TX3 days ago
+    • h3: Machine Learning Engineer
+    • li: Python AI DeveloperPython AI DeveloperNTT DATA North AmericaIrving, TX1 month ago
+    • h3: Python AI Developer
+    • li: AI & ML Platform Engineer – VP (Hybrid)AI & ML Platform Engineer – VP (Hybrid)CitiIrving, TX$125,760.00-$188,640.005 days ago
+    • h3: AI & ML Platform Engineer – VP (Hybrid)
+
+[Div 36]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 37]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 38]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 39]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Software Engineer
+
+[Div 40]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Software Engineer
+
+[Div 41]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 42]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI / ML Engineer
+
+[Div 43]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI / ML Engineer
+
+[Div 44]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 45]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: ML Engineer
+
+[Div 46]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: ML Engineer
+
+[Div 47]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 48]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Engineer (Remote, USA)
+
+[Div 49]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Engineer (Remote, USA)
+
+[Div 50]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 51]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 52]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 53]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 54]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer (remote)
+
+[Div 55]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer (remote)
+
+[Div 56]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 57]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: R&D Gen AI | ML Engineer
+
+[Div 58]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: R&D Gen AI | ML Engineer
+
+[Div 59]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 60]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI/ML Engineer- Python and RAG
+
+[Div 61]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI/ML Engineer- Python and RAG
+
+[Div 62]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 63]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Gen AI Engineer
+
+[Div 64]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Gen AI Engineer
+
+[Div 65]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 66]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Engineer II, AI/ML Engineering
+
+[Div 67]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Engineer II, AI/ML Engineering
+
+[Div 68]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 69]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer II- AI/ML
+
+[Div 70]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer II- AI/ML
+
+[Div 71]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 72]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI ML Engineer
+
+[Div 73]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI ML Engineer
+
+[Div 74]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 75]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Artificial Intelligence Engineer
+
+[Div 76]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Artificial Intelligence Engineer
+
+[Div 77]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 78]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI/ML Engineer
+
+[Div 79]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI/ML Engineer
+
+[Div 80]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 81]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USA
+
+[Div 82]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer-NY, SLC, TX, UT, Dallas, New York City , USA
+
+[Div 83]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 84]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 85]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 86]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 87]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI/ML Engineer
+
+[Div 88]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI/ML Engineer
+
+[Div 89]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 90]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 91]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 92]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 93]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AWS Gen AI/ML Engineer
+
+[Div 94]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AWS Gen AI/ML Engineer
+
+[Div 95]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 96]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer, American Airlines
+
+[Div 97]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer, American Airlines
+
+[Div 98]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 99]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Python/AI-ML Engineer
+
+[Div 100]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Python/AI-ML Engineer
+
+[Div 101]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 102]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, AI Engine / HPC
+
+[Div 103]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, AI Engine / HPC
+
+[Div 104]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 105]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning Engineer
+
+[Div 106]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning Engineer
+
+[Div 107]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 108]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning Engineer
+
+[Div 109]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning Engineer
+
+[Div 110]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 111]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Python AI Developer
+
+[Div 112]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Python AI Developer
+
+[Div 113]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 114]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI & ML Platform Engineer – VP (Hybrid)
+
+[Div 115]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI & ML Platform Engineer – VP (Hybrid)
+
+[Div 116]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 117]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Data Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$120,000 - $140,0001 week agoGen AI EngineerGen AI EngineerSynechronIrving, TX$120,000 - $130,0001 month agoSr. Software Engineer, Gen AI & PythonSr. Software Engineer, Gen AI & PythonHillmont GroupPlano, TX$120,000 - $142,0003 weeks agoMachine Learning Engineer IIMachine Learning Engineer IIChewyRichardson, TX2 days agoData Engineer - DallasData Engineer - DallasDesignitDallas, TX1 week agoAI Automation Tool Development EngineerAI Automation Tool Development EngineerSamsung Electronics AmericaPlano, TX21 hours agoStaff Data ScientistStaff Data ScientistSoFiFrisco, TX$153,600 - $264,0001 day agoData Scientist II - TexasData Scientist II - TexasGEICORichardson, TX5 days agoSenior AI/ML EngineerSenior AI/ML EngineerAnblicksDallas, TX1 day agoAI Engineer (Daytona Beach, FL / Dallas, Texas)AI Engineer (Daytona Beach, FL / Dallas, Texas)Brown & BrownDallas, TX3 weeks ago
+    • li: Data Engineer (remote)Data Engineer (remote)ClaritevIrving, TX$120,000 - $140,0001 week ago
+    • h3: Data Engineer (remote)
+    • p: Claritev
+    • li: Gen AI EngineerGen AI EngineerSynechronIrving, TX$120,000 - $130,0001 month ago
+    • h3: Gen AI Engineer
+    • p: Synechron
+    • li: Sr. Software Engineer, Gen AI & PythonSr. Software Engineer, Gen AI & PythonHillmont GroupPlano, TX$120,000 - $142,0003 weeks ago
+    • h3: Sr. Software Engineer, Gen AI & Python
+    • p: Hillmont Group
+    • li: Machine Learning Engineer IIMachine Learning Engineer IIChewyRichardson, TX2 days ago
+    • h3: Machine Learning Engineer II
+    • p: Chewy
+    • li: Data Engineer - DallasData Engineer - DallasDesignitDallas, TX1 week ago
+    • h3: Data Engineer - Dallas
+    • p: Designit
+    • li: AI Automation Tool Development EngineerAI Automation Tool Development EngineerSamsung Electronics AmericaPlano, TX21 hours ago
+    • h3: AI Automation Tool Development Engineer
+    • p: Samsung Electronics America
+    • li: Staff Data ScientistStaff Data ScientistSoFiFrisco, TX$153,600 - $264,0001 day ago
+    • h3: Staff Data Scientist
+    • p: SoFi
+    • li: Data Scientist II - TexasData Scientist II - TexasGEICORichardson, TX5 days ago
+    • h3: Data Scientist II - Texas
+    • p: GEICO
+    • li: Senior AI/ML EngineerSenior AI/ML EngineerAnblicksDallas, TX1 day ago
+    • h3: Senior AI/ML Engineer
+    • p: Anblicks
+    • li: AI Engineer (Daytona Beach, FL / Dallas, Texas)AI Engineer (Daytona Beach, FL / Dallas, Texas)Brown & BrownDallas, TX3 weeks ago
+    • h3: AI Engineer (Daytona Beach, FL / Dallas, Texas)
+    • p: Brown & Brown
+
+[Div 118]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Engineer (remote)
+    • p: Claritev
+
+[Div 119]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Data Engineer (remote)
+    • p: Claritev
+
+[Div 120]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 121]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Gen AI Engineer
+    • p: Synechron
+
+[Div 122]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Gen AI Engineer
+    • p: Synechron
+
+[Div 123]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 124]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Sr. Software Engineer, Gen AI & Python
+    • p: Hillmont Group
+
+[Div 125]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Sr. Software Engineer, Gen AI & Python
+    • p: Hillmont Group
+
+[Div 126]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 127]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Machine Learning Engineer II
+    • p: Chewy
+
+[Div 128]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Machine Learning Engineer II
+    • p: Chewy
+
+[Div 129]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 130]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Engineer - Dallas
+    • p: Designit
+
+[Div 131]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Data Engineer - Dallas
+    • p: Designit
+
+[Div 132]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 133]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: AI Automation Tool Development Engineer
+    • p: Samsung Electronics America
+
+[Div 134]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: AI Automation Tool Development Engineer
+    • p: Samsung Electronics America
+
+[Div 135]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 136]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Staff Data Scientist
+    • p: SoFi
+
+[Div 137]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Staff Data Scientist
+    • p: SoFi
+
+[Div 138]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 139]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Scientist II - Texas
+    • p: GEICO
+
+[Div 140]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Data Scientist II - Texas
+    • p: GEICO
+
+[Div 141]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 142]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Senior AI/ML Engineer
+    • p: Anblicks
+
+[Div 143]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Senior AI/ML Engineer
+    • p: Anblicks
+
+[Div 144]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 145]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: AI Engineer (Daytona Beach, FL / Dallas, Texas)
+    • p: Brown & Brown
+
+[Div 146]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: AI Engineer (Daytona Beach, FL / Dallas, Texas)
+    • p: Brown & Brown
+
+[Div 147]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 148]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Assistant Network Engineer jobs862 open jobsSenior Information Architect jobs1,022 open jobsInfantry Soldier jobs15,460 open jobsWedding Consultant jobs28 open jobsPlant Process Engineer jobs10,102 open jobsMiddleware Specialist jobs219,035 open jobsOperations Management Consultant jobs30,980 open jobsChildcare Teacher jobs6,942 open jobsSenior Data Warehouse Engineer jobs10,085 open jobsNetwork Operations Technician jobs10,728 open jobsSenior Desktop Engineer jobs14,577 open jobsSenior Technical Support Engineer jobs7,867 open jobsPage Designer jobs1,471 open jobsLead Application Architect jobs47,074 open jobsProduct Application Specialist jobs16,162 open jobsCarrier Account Manager jobs3,787 open jobsUnix Support Engineer jobs908 open jobsSenior Associate Engineer jobs717 open jobsContract Technical Writer jobs1,191 open jobsPrincipal Product Engineer jobs40,556 open jobsTechnology Innovation Manager jobs12,177 open jobsLayout Design Engineer jobs6,042 open jobsSQL Server Consultant jobs705 open jobsClient Engineer jobs147,216 open jobsE-learning Developer jobs1,476 open jobs
+    • li: Assistant Network Engineer jobs862 open jobs
+    • h3: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs1,022 open jobs
+    • h3: Senior Information Architect jobs
+    • li: Infantry Soldier jobs15,460 open jobs
+    • h3: Infantry Soldier jobs
+    • li: Wedding Consultant jobs28 open jobs
+    • h3: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs10,102 open jobs
+    • h3: Plant Process Engineer jobs
+    • li: Middleware Specialist jobs219,035 open jobs
+    • h3: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs30,980 open jobs
+    • h3: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs6,942 open jobs
+    • h3: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs10,085 open jobs
+    • h3: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs10,728 open jobs
+    • h3: Network Operations Technician jobs
+    • li: Senior Desktop Engineer jobs14,577 open jobs
+    • h3: Senior Desktop Engineer jobs
+    • li: Senior Technical Support Engineer jobs7,867 open jobs
+    • h3: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs1,471 open jobs
+    • h3: Page Designer jobs
+    • li: Lead Application Architect jobs47,074 open jobs
+    • h3: Lead Application Architect jobs
+    • li: Product Application Specialist jobs16,162 open jobs
+    • h3: Product Application Specialist jobs
+    • li: Carrier Account Manager jobs3,787 open jobs
+    • h3: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs908 open jobs
+    • h3: Unix Support Engineer jobs
+    • li: Senior Associate Engineer jobs717 open jobs
+    • h3: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs1,191 open jobs
+    • h3: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs40,556 open jobs
+    • h3: Principal Product Engineer jobs
+    • li: Technology Innovation Manager jobs12,177 open jobs
+    • h3: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs6,042 open jobs
+    • h3: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs705 open jobs
+    • h3: SQL Server Consultant jobs
+    • li: Client Engineer jobs147,216 open jobs
+    • h3: Client Engineer jobs
+    • li: E-learning Developer jobs1,476 open jobs
+    • h3: E-learning Developer jobs
+
+[Div 149]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Assistant Network Engineer jobs862 open jobsSenior Information Architect jobs1,022 open jobsInfantry Soldier jobs15,460 open jobsWedding Consultant jobs28 open jobsPlant Process Engineer jobs10,102 open jobsMiddleware Specialist jobs219,035 open jobsOperations Management Consultant jobs30,980 open jobsChildcare Teacher jobs6,942 open jobsSenior Data Warehouse Engineer jobs10,085 open jobsNetwork Operations Technician jobs10,728 open jobsSenior Desktop Engineer jobs14,577 open jobsSenior Technical Support Engineer jobs7,867 open jobsPage Designer jobs1,471 open jobsLead Application Architect jobs47,074 open jobsProduct Application Specialist jobs16,162 open jobsCarrier Account Manager jobs3,787 open jobsUnix Support Engineer jobs908 open jobsSenior Associate Engineer jobs717 open jobsContract Technical Writer jobs1,191 open jobsPrincipal Product Engineer jobs40,556 open jobsTechnology Innovation Manager jobs12,177 open jobsLayout Design Engineer jobs6,042 open jobsSQL Server Consultant jobs705 open jobsClient Engineer jobs147,216 open jobsE-learning Developer jobs1,476 open jobs
+    • li: Assistant Network Engineer jobs862 open jobs
+    • h3: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs1,022 open jobs
+    • h3: Senior Information Architect jobs
+    • li: Infantry Soldier jobs15,460 open jobs
+    • h3: Infantry Soldier jobs
+    • li: Wedding Consultant jobs28 open jobs
+    • h3: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs10,102 open jobs
+    • h3: Plant Process Engineer jobs
+    • li: Middleware Specialist jobs219,035 open jobs
+    • h3: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs30,980 open jobs
+    • h3: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs6,942 open jobs
+    • h3: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs10,085 open jobs
+    • h3: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs10,728 open jobs
+    • h3: Network Operations Technician jobs
+    • li: Senior Desktop Engineer jobs14,577 open jobs
+    • h3: Senior Desktop Engineer jobs
+    • li: Senior Technical Support Engineer jobs7,867 open jobs
+    • h3: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs1,471 open jobs
+    • h3: Page Designer jobs
+    • li: Lead Application Architect jobs47,074 open jobs
+    • h3: Lead Application Architect jobs
+    • li: Product Application Specialist jobs16,162 open jobs
+    • h3: Product Application Specialist jobs
+    • li: Carrier Account Manager jobs3,787 open jobs
+    • h3: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs908 open jobs
+    • h3: Unix Support Engineer jobs
+    • li: Senior Associate Engineer jobs717 open jobs
+    • h3: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs1,191 open jobs
+    • h3: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs40,556 open jobs
+    • h3: Principal Product Engineer jobs
+    • li: Technology Innovation Manager jobs12,177 open jobs
+    • h3: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs6,042 open jobs
+    • h3: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs705 open jobs
+    • h3: SQL Server Consultant jobs
+    • li: Client Engineer jobs147,216 open jobs
+    • h3: Client Engineer jobs
+    • li: E-learning Developer jobs1,476 open jobs
+    • h3: E-learning Developer jobs
+
+[Div 150]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Assistant Network Engineer jobs
+
+[Div 151]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 152]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Information Architect jobs
+
+[Div 153]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 154]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Infantry Soldier jobs
+
+[Div 155]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 156]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Wedding Consultant jobs
+
+[Div 157]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 158]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Plant Process Engineer jobs
+
+[Div 159]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 160]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Middleware Specialist jobs
+
+[Div 161]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 162]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Operations Management Consultant jobs
+
+[Div 163]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 164]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Childcare Teacher jobs
+
+[Div 165]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 166]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Data Warehouse Engineer jobs
+
+[Div 167]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 168]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Network Operations Technician jobs
+
+[Div 169]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 170]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Desktop Engineer jobs
+
+[Div 171]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 172]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Technical Support Engineer jobs
+
+[Div 173]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 174]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Page Designer jobs
+
+[Div 175]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 176]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Lead Application Architect jobs
+
+[Div 177]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 178]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Product Application Specialist jobs
+
+[Div 179]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 180]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Carrier Account Manager jobs
+
+[Div 181]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 182]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Unix Support Engineer jobs
+
+[Div 183]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 184]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior Associate Engineer jobs
+
+[Div 185]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 186]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Contract Technical Writer jobs
+
+[Div 187]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 188]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Principal Product Engineer jobs
+
+[Div 189]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 190]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Technology Innovation Manager jobs
+
+[Div 191]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 192]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Layout Design Engineer jobs
+
+[Div 193]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 194]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: SQL Server Consultant jobs
+
+[Div 195]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 196]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Client Engineer jobs
+
+[Div 197]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 198]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: E-learning Developer jobs
+
+[Div 199]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 200]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Explore collaborative articles
+    • p: We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+[Div 201]
+  ➤ class: ['flex', 'flex-row']
+  ➤ id: None
+  ➤ child tags: h2, img
+    • h2: Explore collaborative articles
+
+[Div 202]
+  ➤ class: ['pre-footer']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobsSenior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobsClient Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobsComputer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobsSenior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobsClient Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobsComputer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobs
+    • li: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs
+    • li: Infantry Soldier jobs
+    • li: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs
+    • li: Oakhurst Dairy jobs
+    • li: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs
+    • li: FSA jobs
+    • li: Landmark Recovery jobs
+    • li: County of Marin jobs
+    • li: Senior Desktop Engineer jobs
+    • ul: Senior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobs
+    • li: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs
+    • li: Lead Application Architect jobs
+    • li: Product Application Specialist jobs
+    • li: Morrison Industries jobs
+    • li: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs
+    • li: Copa Health jobs
+    • li: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs
+    • li: HCA Houston Healthcare jobs
+    • li: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs
+    • ul: Client Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobs
+    • li: Client Engineer jobs
+    • li: E-learning Developer jobs
+    • li: Writing Consultant jobs
+    • li: Senior Technical Product Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Senior Medical Technologist jobs
+    • li: Cynet Health jobs
+    • li: Security Compliance Manager jobs
+    • li: Solutions Sales Executive jobs
+    • li: Information System Security Manager jobs
+    • li: Reporting Consultant jobs
+    • li: Treyarch jobs
+    • li: Imaginuity jobs
+    • li: Staff Quality Engineer jobs
+    • li: Middleware Administrator jobs
+    • ul: Computer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Computer Packages Inc. - CPI jobs
+    • li: Network Security Administrator jobs
+    • li: State of Washington jobs
+    • li: Southwest Gas Corporation jobs
+    • li: Web Content Manager jobs
+    • li: Roper St. Francis Healthcare jobs
+    • li: KIPP DC jobs
+    • li: Texas Department of State Health Services jobs
+    • li: Knowledge Management Analyst jobs
+    • li: Management Recruiter jobs
+    • li: Acme Markets jobs
+    • li: Oracle Financial Consultant jobs
+    • li: Flexe jobs
+    • li: Sharepoint Specialist jobs
+    • li: Northern Arizona University jobs
+
+[Div 203]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobsSenior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobsClient Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobsComputer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobsSenior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobsClient Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobsComputer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobs
+    • li: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs
+    • li: Infantry Soldier jobs
+    • li: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs
+    • li: Oakhurst Dairy jobs
+    • li: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs
+    • li: FSA jobs
+    • li: Landmark Recovery jobs
+    • li: County of Marin jobs
+    • li: Senior Desktop Engineer jobs
+    • ul: Senior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobs
+    • li: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs
+    • li: Lead Application Architect jobs
+    • li: Product Application Specialist jobs
+    • li: Morrison Industries jobs
+    • li: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs
+    • li: Copa Health jobs
+    • li: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs
+    • li: HCA Houston Healthcare jobs
+    • li: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs
+    • ul: Client Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobs
+    • li: Client Engineer jobs
+    • li: E-learning Developer jobs
+    • li: Writing Consultant jobs
+    • li: Senior Technical Product Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Senior Medical Technologist jobs
+    • li: Cynet Health jobs
+    • li: Security Compliance Manager jobs
+    • li: Solutions Sales Executive jobs
+    • li: Information System Security Manager jobs
+    • li: Reporting Consultant jobs
+    • li: Treyarch jobs
+    • li: Imaginuity jobs
+    • li: Staff Quality Engineer jobs
+    • li: Middleware Administrator jobs
+    • ul: Computer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Computer Packages Inc. - CPI jobs
+    • li: Network Security Administrator jobs
+    • li: State of Washington jobs
+    • li: Southwest Gas Corporation jobs
+    • li: Web Content Manager jobs
+    • li: Roper St. Francis Healthcare jobs
+    • li: KIPP DC jobs
+    • li: Texas Department of State Health Services jobs
+    • li: Knowledge Management Analyst jobs
+    • li: Management Recruiter jobs
+    • li: Acme Markets jobs
+    • li: Oracle Financial Consultant jobs
+    • li: Flexe jobs
+    • li: Sharepoint Specialist jobs
+    • li: Northern Arizona University jobs
+
+[Div 204]
+  ➤ class: ['max-w-screen-content-max-w', 'w-full', 'flex', 'justify-between', 'my-0', 'mx-auto', 'mamabear:px-3', 'babybear:px-2', 'babybear:flex-col']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobs
+    • li: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs
+    • li: Infantry Soldier jobs
+    • li: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs
+    • li: Oakhurst Dairy jobs
+    • li: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs
+    • li: FSA jobs
+    • li: Landmark Recovery jobs
+    • li: County of Marin jobs
+    • li: Senior Desktop Engineer jobs
+    • ul: Senior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobs
+    • li: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs
+    • li: Lead Application Architect jobs
+    • li: Product Application Specialist jobs
+    • li: Morrison Industries jobs
+    • li: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs
+    • li: Copa Health jobs
+    • li: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs
+    • li: HCA Houston Healthcare jobs
+    • li: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs
+    • ul: Client Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobs
+    • li: Client Engineer jobs
+    • li: E-learning Developer jobs
+    • li: Writing Consultant jobs
+    • li: Senior Technical Product Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Senior Medical Technologist jobs
+    • li: Cynet Health jobs
+    • li: Security Compliance Manager jobs
+    • li: Solutions Sales Executive jobs
+    • li: Information System Security Manager jobs
+    • li: Reporting Consultant jobs
+    • li: Treyarch jobs
+    • li: Imaginuity jobs
+    • li: Staff Quality Engineer jobs
+    • li: Middleware Administrator jobs
+    • ul: Computer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Computer Packages Inc. - CPI jobs
+    • li: Network Security Administrator jobs
+    • li: State of Washington jobs
+    • li: Southwest Gas Corporation jobs
+    • li: Web Content Manager jobs
+    • li: Roper St. Francis Healthcare jobs
+    • li: KIPP DC jobs
+    • li: Texas Department of State Health Services jobs
+    • li: Knowledge Management Analyst jobs
+    • li: Management Recruiter jobs
+    • li: Acme Markets jobs
+    • li: Oracle Financial Consultant jobs
+    • li: Flexe jobs
+    • li: Sharepoint Specialist jobs
+    • li: Northern Arizona University jobs
+
+[Div 205]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Assistant Network Engineer jobsSenior Information Architect jobsInfantry Soldier jobsWedding Consultant jobsPlant Process Engineer jobsOakhurst Dairy jobsMiddleware Specialist jobsOperations Management Consultant jobsChildcare Teacher jobsSenior Data Warehouse Engineer jobsNetwork Operations Technician jobsFSA jobsLandmark Recovery jobsCounty of Marin jobsSenior Desktop Engineer jobs
+    • li: Assistant Network Engineer jobs
+    • li: Senior Information Architect jobs
+    • li: Infantry Soldier jobs
+    • li: Wedding Consultant jobs
+    • li: Plant Process Engineer jobs
+    • li: Oakhurst Dairy jobs
+    • li: Middleware Specialist jobs
+    • li: Operations Management Consultant jobs
+    • li: Childcare Teacher jobs
+    • li: Senior Data Warehouse Engineer jobs
+    • li: Network Operations Technician jobs
+    • li: FSA jobs
+    • li: Landmark Recovery jobs
+    • li: County of Marin jobs
+    • li: Senior Desktop Engineer jobs
+
+[Div 206]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Senior Technical Support Engineer jobsPage Designer jobsLead Application Architect jobsProduct Application Specialist jobsMorrison Industries jobsCarrier Account Manager jobsUnix Support Engineer jobsCopa Health jobsSenior Associate Engineer jobsContract Technical Writer jobsPrincipal Product Engineer jobsHCA Houston Healthcare jobsTechnology Innovation Manager jobsLayout Design Engineer jobsSQL Server Consultant jobs
+    • li: Senior Technical Support Engineer jobs
+    • li: Page Designer jobs
+    • li: Lead Application Architect jobs
+    • li: Product Application Specialist jobs
+    • li: Morrison Industries jobs
+    • li: Carrier Account Manager jobs
+    • li: Unix Support Engineer jobs
+    • li: Copa Health jobs
+    • li: Senior Associate Engineer jobs
+    • li: Contract Technical Writer jobs
+    • li: Principal Product Engineer jobs
+    • li: HCA Houston Healthcare jobs
+    • li: Technology Innovation Manager jobs
+    • li: Layout Design Engineer jobs
+    • li: SQL Server Consultant jobs
+
+[Div 207]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Client Engineer jobsE-learning Developer jobsWriting Consultant jobsSenior Technical Product Manager jobsBusiness Intelligence Administrator jobsSenior Medical Technologist jobsCynet Health jobsSecurity Compliance Manager jobsSolutions Sales Executive jobsInformation System Security Manager jobsReporting Consultant jobsTreyarch jobsImaginuity jobsStaff Quality Engineer jobsMiddleware Administrator jobs
+    • li: Client Engineer jobs
+    • li: E-learning Developer jobs
+    • li: Writing Consultant jobs
+    • li: Senior Technical Product Manager jobs
+    • li: Business Intelligence Administrator jobs
+    • li: Senior Medical Technologist jobs
+    • li: Cynet Health jobs
+    • li: Security Compliance Manager jobs
+    • li: Solutions Sales Executive jobs
+    • li: Information System Security Manager jobs
+    • li: Reporting Consultant jobs
+    • li: Treyarch jobs
+    • li: Imaginuity jobs
+    • li: Staff Quality Engineer jobs
+    • li: Middleware Administrator jobs
+
+[Div 208]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Computer Packages Inc. - CPI jobsNetwork Security Administrator jobsState of Washington jobsSouthwest Gas Corporation jobsWeb Content Manager jobsRoper St. Francis Healthcare jobsKIPP DC jobsTexas Department of State Health Services jobsKnowledge Management Analyst jobsManagement Recruiter jobsAcme Markets jobsOracle Financial Consultant jobsFlexe jobsSharepoint Specialist jobsNorthern Arizona University jobs
+    • li: Computer Packages Inc. - CPI jobs
+    • li: Network Security Administrator jobs
+    • li: State of Washington jobs
+    • li: Southwest Gas Corporation jobs
+    • li: Web Content Manager jobs
+    • li: Roper St. Francis Healthcare jobs
+    • li: KIPP DC jobs
+    • li: Texas Department of State Health Services jobs
+    • li: Knowledge Management Analyst jobs
+    • li: Management Recruiter jobs
+    • li: Acme Markets jobs
+    • li: Oracle Financial Consultant jobs
+    • li: Flexe jobs
+    • li: Sharepoint Specialist jobs
+    • li: Northern Arizona University jobs
+
+[Div 209]
+  ➤ class: ['collapsible-dropdown', 'collapsible-dropdown--footer', 'collapsible-dropdown--up', 'flex', 'items-center', 'relative', 'hyphens-auto', 'language-selector', 'z-2']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 210]
+  ➤ class: ['guest-upsells']
+  ➤ id: None
+  ➤ child tags: div, script, form
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 211]
+  ➤ class: ['google-one-tap__module', 'hidden', 'fixed', 'flex', 'flex-col', 'items-center', 'top-[20px]', 'right-[20px]', 'z-[9999]']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 212]
+  ➤ class: ['google-auth__tnc-container', 'hidden', 'relative', 'top-2', 'bg-color-background-container-tint', 'pl-2', 'pr-1', 'pt-2', 'pb-3', 'w-[375px]', 'rounded-md', 'shadow-2xl']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 213]
+  ➤ class: None
+  ➤ id: google-one-tap__container
+  ➤ child tags: 
+
+[Div 214]
+  ➤ class: ['loader', 'loader--full-screen']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 215]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 216]
+  ➤ class: ['contextual-sign-in-modal', 'base-contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 217]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 218]
+  ➤ class: ['toasts', 'fixed', 'z-8', 'babybear:right-4', 'mamabear:right-4', 'papabear:min-h-[96px]', 'invisible', 'top:auto', 'bottom-4', 'left-4', 'papabear:w-[400px]', 'toasts--bottom']
+  ➤ id: toasts
+  ➤ child tags: template
+
+[Div 219]
+  ➤ class: ['toast', 'container-raised', 'flex', 'toast--bottom', 'transition', 'ease-accelerate', 'duration-xxslow']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 220]
+  ➤ class: ['toast__message', 'flex', 'flex-1', 'babybear:items-center', 'mamabear:items-center', 'papabear:items-start', 'py-2', 'px-1.5']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 221]
+  ➤ class: ['toast__message-content-container']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 222]
+  ➤ class: ['top-level-modal-container']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jobs via Dice
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 223]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: base-contextual-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jobs via Dice
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 224]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4', 'modal__overlay--visible']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to see who you already know at Jobs via Dice
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 225]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at Jobs via Dice
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 226]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to see who you already know at Jobs via Dice
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 227]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 228]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 229]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 230]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 231]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 232]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 233]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 234]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 235]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: base-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 236]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 237]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 238]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 239]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 240]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 241]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 242]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 243]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 244]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 245]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 246]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 247]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 248]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 249]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 250]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 251]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 252]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 253]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 254]
+  ➤ class: None
+  ➤ id: batBeacon937856385478
+  ➤ child tags: img
+
+
+🧾 Form Fields:
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-keywords', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-location', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'base-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'base-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

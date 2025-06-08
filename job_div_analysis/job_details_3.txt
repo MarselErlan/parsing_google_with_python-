@@ -1,0 +1,1361 @@
+URL: https://jobs.lever.co/mistral
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'list']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'list-page']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 7]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 8]
+  ➤ class: ['filter-bar']
+  ➤ id: None
+  ➤ child tags: div, noscript
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 9]
+  ➤ class: ['filter-button-wrapper', 'filter-button-wrapper-margin-right']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+
+[Div 10]
+  ➤ class: ['filter-button', 'filter-button-mlp']
+  ➤ id: None
+  ➤ child tags: svg
+
+[Div 11]
+  ➤ class: ['filter-popup']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: AllOn-siteHybridRemote
+    • li: All
+    • li: On-site
+    • li: Hybrid
+    • li: Remote
+
+[Div 12]
+  ➤ class: ['filter-button-wrapper', 'filter-button-wrapper-margin-right']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+
+[Div 13]
+  ➤ class: ['filter-button', 'filter-button-mlp']
+  ➤ id: None
+  ➤ child tags: svg
+
+[Div 14]
+  ➤ class: ['filter-popup']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: AllBarcelona/MadridBerlin/Munich/FrankfurtLondonMarseillePalo AltoParisSingapore
+    • li: All
+    • li: Barcelona/Madrid
+    • li: Berlin/Munich/Frankfurt
+    • li: London
+    • li: Marseille
+    • li: Palo Alto
+    • li: Paris
+    • li: Singapore
+
+[Div 15]
+  ➤ class: ['filter-button-wrapper', 'filter-button-wrapper-margin-right']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+
+[Div 16]
+  ➤ class: ['filter-button', 'filter-button-mlp']
+  ➤ id: None
+  ➤ child tags: svg
+
+[Div 17]
+  ➤ class: ['filter-popup']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: AllBusinessCorporateEngineering & InfraMarketingProductResearchSolutions
+    • li: All
+    • li: Business
+    • li: Corporate
+    • li: Engineering & Infra
+    • li: Marketing
+    • li: Product
+    • li: Research
+    • li: Solutions
+
+[Div 18]
+  ➤ class: ['filter-button-wrapper', 'filter-button-wrapper-margin-right']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 19]
+  ➤ class: ['filter-button', 'filter-button-mlp']
+  ➤ id: None
+  ➤ child tags: svg
+
+[Div 20]
+  ➤ class: ['filter-popup']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: AllFixed termFull-timeFull-time / freelanceUncategorized
+    • li: All
+    • li: Fixed term
+    • li: Full-time
+    • li: Full-time / freelance
+    • li: Uncategorized
+
+[Div 21]
+  ➤ class: ['postings-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 22]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 23]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 24]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 25]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 26]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 27]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 28]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 29]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 30]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 31]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 32]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 33]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 34]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 35]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 36]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 37]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 38]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 39]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 40]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 41]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 42]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 43]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 44]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 45]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 46]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 47]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 48]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 49]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 50]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 51]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 52]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 53]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 54]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 55]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 56]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 57]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 58]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 59]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 60]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 61]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 62]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 63]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 64]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 65]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 66]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 67]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 68]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 69]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 70]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 71]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 72]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 73]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 74]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 75]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 76]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 77]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 78]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 79]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 80]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 81]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 82]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 83]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 84]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 85]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 86]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 87]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 88]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 89]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 90]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 91]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 92]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 93]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 94]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 95]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 96]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 97]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 98]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 99]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 100]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 101]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 102]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 103]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 104]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 105]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 106]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 107]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 108]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 109]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 110]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 111]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 112]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 113]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 114]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 115]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 116]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 117]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 118]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 119]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 120]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 121]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 122]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 123]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 124]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 125]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 126]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 127]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 128]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 129]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 130]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 131]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 132]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 133]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 134]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 135]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 136]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 137]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 138]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 139]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 140]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 141]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 142]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 143]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 144]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 145]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 146]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 147]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 148]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 149]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 150]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 151]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 152]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 153]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 154]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 155]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 156]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 157]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 158]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 159]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 160]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 161]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 162]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 163]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 164]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 165]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 166]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 167]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 168]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 169]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 170]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 171]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 172]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 173]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 174]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 175]
+  ➤ class: ['postings-group']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 176]
+  ➤ class: ['posting-category-title', 'large-category-label']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 177]
+  ➤ class: ['horizontal-line']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 178]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 179]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 180]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 181]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 182]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 183]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 184]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 185]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 186]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 187]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 188]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 189]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 190]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 191]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 192]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 193]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 194]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 195]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 196]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 197]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 198]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 199]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 200]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 201]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 202]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 203]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 204]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 205]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 206]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 207]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 208]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 209]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 210]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 211]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 212]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 213]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 214]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 215]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 216]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 217]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 218]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 219]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 220]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 221]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 222]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 223]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 224]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 225]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 226]
+  ➤ class: ['posting']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 227]
+  ➤ class: ['posting-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 228]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 229]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Mistral AI Home Page
+
+[Div 230]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Mistral AI Home Page
+
+
+🧾 Form Fields:

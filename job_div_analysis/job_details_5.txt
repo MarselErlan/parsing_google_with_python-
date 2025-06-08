@@ -1,0 +1,175 @@
+URL: https://boards.greenhouse.io/outschool/jobs/4436338006
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['index--content']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Current openings at Outschool
+    • p: Outschool’s mission is to inspire kids to love learning. We achieve this by linking learning to kids’ interests, connecting them with other classmates who share their passions, and giving them the autonomy to pick their own paths. Our small group classes meet over live video chat with teachers who celebrate their unique strengths and empower all learners to develop confidence and a strong sense of self.
+    • h2: 2 jobs
+    • p: Operations
+    • h3: Supply
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+    • p: Product & Engineering
+    • h3: Engineering
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 3]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['index--header']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Outschool’s mission is to inspire kids to love learning. We achieve this by linking learning to kids’ interests, connecting them with other classmates who share their passions, and giving them the autonomy to pick their own paths. Our small group classes meet over live video chat with teachers who celebrate their unique strengths and empower all learners to develop confidence and a strong sense of self.
+
+[Div 5]
+  ➤ class: ['index--description']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Outschool’s mission is to inspire kids to love learning. We achieve this by linking learning to kids’ interests, connecting them with other classmates who share their passions, and giving them the autonomy to pick their own paths. Our small group classes meet over live video chat with teachers who celebrate their unique strengths and empower all learners to develop confidence and a strong sense of self.
+
+[Div 6]
+  ➤ class: ['body']
+  ➤ id: None
+  ➤ child tags: span
+    • p: Outschool’s mission is to inspire kids to love learning. We achieve this by linking learning to kids’ interests, connecting them with other classmates who share their passions, and giving them the autonomy to pick their own paths. Our small group classes meet over live video chat with teachers who celebrate their unique strengths and empower all learners to develop confidence and a strong sense of self.
+
+[Div 7]
+  ➤ class: ['index__main']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: 2 jobs
+    • p: Operations
+    • h3: Supply
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+    • p: Product & Engineering
+    • h3: Engineering
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 8]
+  ➤ class: ['filters']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 9]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 11]
+  ➤ class: ['padding']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: 2 jobs
+    • p: Operations
+    • h3: Supply
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+    • p: Product & Engineering
+    • h3: Engineering
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 12]
+  ➤ class: ['job-posts']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Operations
+    • h3: Supply
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+    • p: Product & Engineering
+    • h3: Engineering
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 13]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • p: Operations
+    • h3: Supply
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+
+[Div 14]
+  ➤ class: ['job-posts--department-path']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Operations
+
+[Div 15]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Learning Experience LeadNew
+    • p: Remote - U.S. & Canada
+
+[Div 16]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • p: Product & Engineering
+    • h3: Engineering
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 17]
+  ➤ class: ['job-posts--department-path']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Product & Engineering
+
+[Div 18]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Experienced Software Engineer
+    • p: Remote - U.S. & Canada
+
+[Div 19]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 20]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+
+🧾 Form Fields:
+{'Label': 'Search', 'Type': 'text', 'ID': 'keyword-filter', 'Required': 'false', 'Autocomplete': 'N/A'}

@@ -1,0 +1,356 @@
+URL: https://jobs.lever.co/palantir/ff1029bd-bb6d-4d78-a03e-5f9744d0b798
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['cc-revoke', 'cc-bottom', 'cc-animate']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['cc-window', 'cc-banner', 'cc-type-opt-in', 'cc-theme-block', 'cc-bottom']
+  ➤ id: None
+  ➤ child tags: div
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.Palantir Cookie Policy
+
+[Div 3]
+  ➤ class: ['momentum-body']
+  ➤ id: None
+  ➤ child tags: div
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.Palantir Cookie Policy
+
+[Div 4]
+  ➤ class: ['message', 'message-inverse', 'flex-column']
+  ➤ id: None
+  ➤ child tags: div, p, h4
+    • p: This website uses cookies to improve your web experience. By clickingAccept, you agree to the use of cookies.Palantir Cookie Policy
+
+[Div 5]
+  ➤ class: ['icon']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['message-buttons', 'cc-desktop']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 7]
+  ➤ class: ['self-end', 'cc-mobile', 'm1']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 8]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 9]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 11]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Forward Deployed AI Engineer
+    • h3: What We Value
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • li: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+    • li: Solving real business problems, not academic benchmarks.
+    • li: Ability to collaborate efficiently in teams of technical and non-technical individuals.
+    • li: Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • h3: What We Require
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • li: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.
+    • li: Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).
+    • li: Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+    • li: Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+    • li: Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+
+[Div 12]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Forward Deployed AI Engineer
+    • h3: What We Value
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • li: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+    • li: Solving real business problems, not academic benchmarks.
+    • li: Ability to collaborate efficiently in teams of technical and non-technical individuals.
+    • li: Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • h3: What We Require
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • li: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.
+    • li: Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).
+    • li: Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+    • li: Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+    • li: Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+
+[Div 13]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Forward Deployed AI Engineer
+
+[Div 14]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Forward Deployed AI Engineer
+
+[Div 15]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: Forward Deployed AI Engineer
+
+[Div 16]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 18]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 19]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 20]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 22]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What We Value
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • li: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+    • li: Solving real business problems, not academic benchmarks.
+    • li: Ability to collaborate efficiently in teams of technical and non-technical individuals.
+    • li: Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • h3: What We Require
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • li: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.
+    • li: Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).
+    • li: Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+    • li: Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+    • li: Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+
+[Div 23]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 28]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 30]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 33]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 36]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 37]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 38]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 39]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What We Value
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • li: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+    • li: Solving real business problems, not academic benchmarks.
+    • li: Ability to collaborate efficiently in teams of technical and non-technical individuals.
+    • li: Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+
+[Div 40]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What We Value
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • ul: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.Solving real business problems, not academic benchmarks.Ability to collaborate efficiently in teams of technical and non-technical individuals.Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+    • li: Engineering mindset, focused on delivering production solutions with Gen AI, data processing pipelines, and advanced analytics tools.
+    • li: Solving real business problems, not academic benchmarks.
+    • li: Ability to collaborate efficiently in teams of technical and non-technical individuals.
+    • li: Comfort working in a dynamic environment with evolving objectives and direct iteration with users.
+
+[Div 41]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: What We Require
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • li: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.
+    • li: Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).
+    • li: Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+    • li: Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+    • li: Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+
+[Div 42]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: What We Require
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • ul: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+    • li: Past experience building solutions with LLMs and a deep understanding of overall Gen AI landscape.
+    • li: Strong foundation in Machine Learning basics (Evaluation, Training, Problem Decomposition).
+    • li: Strong engineering background. Preferred fields include but are not limited to Computer Science, Mathematics, Software Engineering, Physics, and Machine Learning.
+    • li: Strong coder with demonstrated proficiency in programming languages such as Python, Java, C++, TypeScript/JavaScript, or similar.
+    • li: Ability and interest in travelling up to 25%, as needed to client sites, but flexible based on personal preferences.
+
+[Div 43]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 44]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: b
+
+[Div 45]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 46]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 47]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 48]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 49]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 50]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: i, a
+
+[Div 51]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 52]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Palantir Technologies Home Page
+
+[Div 53]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Palantir Technologies Home Page
+
+
+🧾 Form Fields:

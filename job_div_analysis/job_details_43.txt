@@ -1,0 +1,335 @@
+URL: https://boards.greenhouse.io/myfitnesspal/jobs/6662784
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['index--content']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Current openings at MyFitnessPal
+    • h3: MyFitnessPal empowers members to understand their habits & build new, healthier ones.
+    • p: A database of 14 million foods, game-changing logging tools, custom nutrition analysis, expert guidance, and a supportive online community: Just a few (of many) reasons over 200 million people have leaned on MyFitnessPal to set, track, and conquer their goals.
+    • h3: We’re the #1 Diet & Nutrition app, but we never stop evolving to help our members meet their goals.
+    • p: And that’s where you come in! We want your big and small ideas, self-motivation, and passion for changing lives. Together, we’ll bring our members the most intuitive features and informative content to support every step of their journey.
+    • h2: 9 jobs
+    • h3: Business Intelligence
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+    • h3: Product Engineering
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+    • h3: Marketing
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 3]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['index--header']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: MyFitnessPal empowers members to understand their habits & build new, healthier ones.
+    • p: A database of 14 million foods, game-changing logging tools, custom nutrition analysis, expert guidance, and a supportive online community: Just a few (of many) reasons over 200 million people have leaned on MyFitnessPal to set, track, and conquer their goals.
+    • h3: We’re the #1 Diet & Nutrition app, but we never stop evolving to help our members meet their goals.
+    • p: And that’s where you come in! We want your big and small ideas, self-motivation, and passion for changing lives. Together, we’ll bring our members the most intuitive features and informative content to support every step of their journey.
+
+[Div 5]
+  ➤ class: ['index--description']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: MyFitnessPal empowers members to understand their habits & build new, healthier ones.
+    • p: A database of 14 million foods, game-changing logging tools, custom nutrition analysis, expert guidance, and a supportive online community: Just a few (of many) reasons over 200 million people have leaned on MyFitnessPal to set, track, and conquer their goals.
+    • h3: We’re the #1 Diet & Nutrition app, but we never stop evolving to help our members meet their goals.
+    • p: And that’s where you come in! We want your big and small ideas, self-motivation, and passion for changing lives. Together, we’ll bring our members the most intuitive features and informative content to support every step of their journey.
+
+[Div 6]
+  ➤ class: ['body']
+  ➤ id: None
+  ➤ child tags: span
+    • h3: MyFitnessPal empowers members to understand their habits & build new, healthier ones.
+    • p: A database of 14 million foods, game-changing logging tools, custom nutrition analysis, expert guidance, and a supportive online community: Just a few (of many) reasons over 200 million people have leaned on MyFitnessPal to set, track, and conquer their goals.
+    • h3: We’re the #1 Diet & Nutrition app, but we never stop evolving to help our members meet their goals.
+    • p: And that’s where you come in! We want your big and small ideas, self-motivation, and passion for changing lives. Together, we’ll bring our members the most intuitive features and informative content to support every step of their journey.
+
+[Div 7]
+  ➤ class: None
+  ➤ id: board_header
+  ➤ child tags: 
+
+[Div 8]
+  ➤ class: ['board_cta']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 9]
+  ➤ class: None
+  ➤ id: twocol
+  ➤ child tags: h3, p
+    • h3: MyFitnessPal empowers members to understand their habits & build new, healthier ones.
+    • p: A database of 14 million foods, game-changing logging tools, custom nutrition analysis, expert guidance, and a supportive online community: Just a few (of many) reasons over 200 million people have leaned on MyFitnessPal to set, track, and conquer their goals.
+    • h3: We’re the #1 Diet & Nutrition app, but we never stop evolving to help our members meet their goals.
+    • p: And that’s where you come in! We want your big and small ideas, self-motivation, and passion for changing lives. Together, we’ll bring our members the most intuitive features and informative content to support every step of their journey.
+
+[Div 10]
+  ➤ class: ['index__main']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: 9 jobs
+    • h3: Business Intelligence
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+    • h3: Product Engineering
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+    • h3: Marketing
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 11]
+  ➤ class: ['filters']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 12]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 13]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 14]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 15]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 16]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 19]
+  ➤ class: ['select__value-container', 'select__value-container--is-multi', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 20]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-department-filter-placeholder
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 22]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 23]
+  ➤ class: ['padding']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: 9 jobs
+    • h3: Business Intelligence
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+    • h3: Product Engineering
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+    • h3: Marketing
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 24]
+  ➤ class: ['job-posts']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Business Intelligence
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+    • h3: Product Engineering
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+    • h3: Marketing
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 25]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Business Intelligence
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+
+[Div 26]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Product Analyst
+    • p: Remote - US
+
+[Div 27]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Product Engineering
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+
+[Div 28]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Manager, Engineering - Ads
+    • p: Remote - US
+    • p: Software Engineer III, Android - Partnerships
+    • p: Remote - US
+    • p: Software Engineer III, iOS - AdsNew
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Meal Planning
+    • p: Remote - US
+    • p: Software Engineer III, iOS - Partnerships
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS
+    • p: Remote - US
+    • p: Staff Software Engineer, iOS - AdsNew
+    • p: Remote - US
+
+[Div 29]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Marketing
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 30]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: B2B Marketing Lead
+    • p: Remote - US
+
+[Div 31]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 32]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+
+🧾 Form Fields:
+{'Label': 'Search', 'Type': 'text', 'ID': 'keyword-filter', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Department', 'Type': 'text', 'ID': 'department-filter', 'Required': 'false', 'Autocomplete': 'off'}

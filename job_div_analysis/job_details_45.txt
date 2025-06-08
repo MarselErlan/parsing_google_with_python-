@@ -1,0 +1,116 @@
+URL: https://boards.greenhouse.io/make/jobs/5920853003
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['main-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: www.make.com
+    • p: Verify you are human by completing the action below.
+
+[Div 2]
+  ➤ class: ['main-content']
+  ➤ id: None
+  ➤ child tags: div, noscript, p, h1
+    • h1: www.make.com
+    • p: Verify you are human by completing the action below.
+
+[Div 3]
+  ➤ class: None
+  ➤ id: eIfwt6
+  ➤ child tags: div
+
+[Div 4]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 5]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 6]
+  ➤ class: ['spacer', 'loading-verifying']
+  ➤ id: wQZu4
+  ➤ child tags: div
+
+[Div 7]
+  ➤ class: ['lds-ring']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 8]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 9]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 10]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['core-msg', 'spacer', 'spacer-top']
+  ➤ id: wBCu6
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: None
+  ➤ id: GEdZ0
+  ➤ child tags: div
+
+[Div 14]
+  ➤ class: ['h2']
+  ➤ id: challenge-success-text
+  ➤ child tags: 
+
+[Div 15]
+  ➤ class: ['core-msg', 'spacer']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 16]
+  ➤ class: ['h2']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 17]
+  ➤ class: ['footer']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['footer-inner']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 19]
+  ➤ class: ['clearfix', 'diagnostic-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 20]
+  ➤ class: ['ray-id']
+  ➤ id: None
+  ➤ child tags: code
+
+[Div 21]
+  ➤ class: ['text-center']
+  ➤ id: footer-text
+  ➤ child tags: a
+
+
+🧾 Form Fields:
+{'Label': 'N/A', 'Type': 'hidden', 'ID': 'cf-chl-widget-iwqug_response', 'Required': 'false', 'Autocomplete': 'N/A'}

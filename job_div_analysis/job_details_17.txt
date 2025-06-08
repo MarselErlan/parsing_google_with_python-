@@ -1,0 +1,543 @@
+URL: https://job-boards.greenhouse.io/ketryx/jobs/4611245008
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: div
+    • p: The job you are looking for is no longer open.
+
+[Div 2]
+  ➤ class: ['fade-in']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The job you are looking for is no longer open.
+
+[Div 3]
+  ➤ class: ['flash-contents', 'flash-contents--extra-light-red']
+  ➤ id: None
+  ➤ child tags: span, p
+    • p: The job you are looking for is no longer open.
+
+[Div 4]
+  ➤ class: ['index--content']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Current openings at Ketryx
+    • p: Create a Job Alert
+    • p: Level-up your career by having opportunities at Ketryx sent directly to your inbox.
+    • h2: 19 jobs
+    • h3: People Operations
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+    • h3: Client Operations
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+    • h3: Engineering
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+    • h3: Marketing
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+    • h3: Product
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+    • h3: Sales
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 5]
+  ➤ class: ['index--header', 'index--header__no-description']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['job-alert']
+  ➤ id: None
+  ➤ child tags: div, svg
+    • p: Create a Job Alert
+    • p: Level-up your career by having opportunities at Ketryx sent directly to your inbox.
+
+[Div 7]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Create a Job Alert
+    • p: Level-up your career by having opportunities at Ketryx sent directly to your inbox.
+
+[Div 8]
+  ➤ class: ['index__main']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: 19 jobs
+    • h3: People Operations
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+    • h3: Client Operations
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+    • h3: Engineering
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+    • h3: Marketing
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+    • h3: Product
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+    • h3: Sales
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 9]
+  ➤ class: ['filters']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 11]
+  ➤ class: ['input-wrapper']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 12]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 13]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 14]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 15]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 16]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: ['select__value-container', 'select__value-container--is-multi', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 18]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-department-filter-placeholder
+  ➤ child tags: 
+
+[Div 19]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 20]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 21]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 22]
+  ➤ class: ['select__container']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 23]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 24]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 25]
+  ➤ class: ['select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 26]
+  ➤ class: ['select__value-container', 'select__value-container--is-multi', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 27]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-office-filter-placeholder
+  ➤ child tags: 
+
+[Div 28]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 29]
+  ➤ class: ['select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 30]
+  ➤ class: ['padding']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: 19 jobs
+    • h3: People Operations
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+    • h3: Client Operations
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+    • h3: Engineering
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+    • h3: Marketing
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+    • h3: Product
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+    • h3: Sales
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 31]
+  ➤ class: ['job-posts']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: People Operations
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+    • h3: Client Operations
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+    • h3: Engineering
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+    • h3: Marketing
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+    • h3: Product
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+    • h3: Sales
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 32]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: People Operations
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+
+[Div 33]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Learning & Development Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Manager
+    • p: Boston, Massachusetts, United States
+    • p: Talent Acquisition Specialist
+    • p: Remote - US
+
+[Div 34]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Client Operations
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+
+[Div 35]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: AI, Digital, and Cyber Compliance
+    • p: Remote - US
+    • p: Client Operations Associate
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Director
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations Manager
+    • p: Boston, Massachusetts, United States
+    • p: Client Operations ManagerNew
+    • p: Vienna, Vienna, Austria
+
+[Div 36]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Engineering
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+
+[Div 37]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Full Stack Software Engineer
+    • p: Remote - EU; Vienna, Austria
+    • p: Software Quality Engineer
+    • p: Vienna, Austria
+
+[Div 38]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Marketing
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+
+[Div 39]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Head of Communications
+    • p: Boston, Massachusetts, United States
+
+[Div 40]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Product
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+
+[Div 41]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Product Manager
+    • p: Boston, Massachusetts, United States
+    • p: Technical Product Marketing ManagerNew
+    • p: Boston, Massachusetts, United States
+
+[Div 42]
+  ➤ class: ['job-posts--table--department']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Sales
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 43]
+  ➤ class: ['job-posts--table']
+  ➤ id: None
+  ➤ child tags: table
+    • p: Job
+    • p: Business Development Representative
+    • p: Boston, Massachusetts, United States
+    • p: Business Development Representative Manager
+    • p: Boston, Massachusetts, United States
+    • p: Enterprise Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Lead Solutions Engineer
+    • p: Boston, Massachusetts, United States
+    • p: Mid-Market Account Executive
+    • p: Boston, Massachusetts, United States
+    • p: Solutions Engineer
+    • p: Boston, Massachusetts, United States
+
+[Div 44]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 45]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+
+🧾 Form Fields:
+{'Label': 'Search', 'Type': 'text', 'ID': 'keyword-filter', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Department', 'Type': 'text', 'ID': 'department-filter', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Office', 'Type': 'text', 'ID': 'office-filter', 'Required': 'false', 'Autocomplete': 'off'}

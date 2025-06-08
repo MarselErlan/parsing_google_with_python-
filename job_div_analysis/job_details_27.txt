@@ -1,0 +1,398 @@
+URL: https://jobs.lever.co/wandb/173352f8-4c9a-473c-934d-01f8454d03b2
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['page', 'show']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 2]
+  ➤ class: ['main-header', 'page-full-width', 'section-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 3]
+  ➤ class: ['main-header-content', 'page-centered', 'narrow-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 4]
+  ➤ class: ['content-wrapper', 'posting-page']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer - India (Remote)
+    • h3: Responsibilities:
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • li: This role will see a balance of 70% working in code and 30% working with the community and events in the India market
+    • li: Contribute to the development and maintenance of our open-source Weave integrations.
+    • li: Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.
+    • li: Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.
+    • li: Collaborate closely with our Product team, providing feedback and testing new Weave features.
+    • li: Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.
+    • li: Help build out an ambassadors program in India to help us grow Weave with community support.
+    • li: Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • h3: Requirements:
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • li: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.
+    • li: 4-7+ years of industry experience
+    • li: Track record of open-source contributions.
+    • li: Track record of building GenAI applications.
+    • li: Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.
+    • li: Experience working in a developer tools company
+    • li: Experience planning and orchestrating events within the AI community
+    • h3: Strong Plus:
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • li: Track record of organizing AI events or speaking at AI events.
+    • li: Planned and orchestrated 3+ events within the AI community in the last 12 months
+    • li: Strong know-how of Python and familiarity with ML stack and frameworks.
+    • h3: Our Benefits:
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • li: 🏝️ Flexible time off
+    • li: 🩺 Medical, Dental, and Vision for employees and Family Coverage
+    • li: 🏠 Remote first culture with in-office flexibility in San Francisco
+    • li: 💵 Home office budget with a new high-powered laptop
+    • li: 🥇 Truly competitive salary and equity
+    • li: 🚼 12 weeks of Parental leave (U.S. specific)
+    • li: 📈 401(k) (U.S. specific)
+    • li: Supplemental benefits may be available depending on your location
+    • li: Explore benefits bycountry
+
+[Div 5]
+  ➤ class: ['content']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer - India (Remote)
+    • h3: Responsibilities:
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • li: This role will see a balance of 70% working in code and 30% working with the community and events in the India market
+    • li: Contribute to the development and maintenance of our open-source Weave integrations.
+    • li: Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.
+    • li: Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.
+    • li: Collaborate closely with our Product team, providing feedback and testing new Weave features.
+    • li: Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.
+    • li: Help build out an ambassadors program in India to help us grow Weave with community support.
+    • li: Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • h3: Requirements:
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • li: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.
+    • li: 4-7+ years of industry experience
+    • li: Track record of open-source contributions.
+    • li: Track record of building GenAI applications.
+    • li: Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.
+    • li: Experience working in a developer tools company
+    • li: Experience planning and orchestrating events within the AI community
+    • h3: Strong Plus:
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • li: Track record of organizing AI events or speaking at AI events.
+    • li: Planned and orchestrated 3+ events within the AI community in the last 12 months
+    • li: Strong know-how of Python and familiarity with ML stack and frameworks.
+    • h3: Our Benefits:
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • li: 🏝️ Flexible time off
+    • li: 🩺 Medical, Dental, and Vision for employees and Family Coverage
+    • li: 🏠 Remote first culture with in-office flexibility in San Francisco
+    • li: 💵 Home office budget with a new high-powered laptop
+    • li: 🥇 Truly competitive salary and equity
+    • li: 🚼 12 weeks of Parental leave (U.S. specific)
+    • li: 📈 401(k) (U.S. specific)
+    • li: Supplemental benefits may be available depending on your location
+    • li: Explore benefits bycountry
+
+[Div 6]
+  ➤ class: ['section-wrapper', 'accent-section', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer - India (Remote)
+
+[Div 7]
+  ➤ class: ['section', 'page-centered', 'posting-header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: AI Engineer - India (Remote)
+
+[Div 8]
+  ➤ class: ['posting-headline']
+  ➤ id: None
+  ➤ child tags: div, h2
+    • h2: AI Engineer - India (Remote)
+
+[Div 9]
+  ➤ class: ['posting-categories']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 10]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'width-full', 'capitalize-labels', 'location']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: ['sort-by-team', 'posting-category', 'medium-category-label', 'capitalize-labels', 'department']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 12]
+  ➤ class: ['sort-by-commitment', 'posting-category', 'medium-category-label', 'capitalize-labels', 'commitment']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 13]
+  ➤ class: ['sort-by-time', 'posting-category', 'medium-category-label', 'capitalize-labels', 'workplaceTypes']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 14]
+  ➤ class: ['postings-btn-wrapper']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 15]
+  ➤ class: ['section-wrapper', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Responsibilities:
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • li: This role will see a balance of 70% working in code and 30% working with the community and events in the India market
+    • li: Contribute to the development and maintenance of our open-source Weave integrations.
+    • li: Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.
+    • li: Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.
+    • li: Collaborate closely with our Product team, providing feedback and testing new Weave features.
+    • li: Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.
+    • li: Help build out an ambassadors program in India to help us grow Weave with community support.
+    • li: Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • h3: Requirements:
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • li: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.
+    • li: 4-7+ years of industry experience
+    • li: Track record of open-source contributions.
+    • li: Track record of building GenAI applications.
+    • li: Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.
+    • li: Experience working in a developer tools company
+    • li: Experience planning and orchestrating events within the AI community
+    • h3: Strong Plus:
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • li: Track record of organizing AI events or speaking at AI events.
+    • li: Planned and orchestrated 3+ events within the AI community in the last 12 months
+    • li: Strong know-how of Python and familiarity with ML stack and frameworks.
+    • h3: Our Benefits:
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • li: 🏝️ Flexible time off
+    • li: 🩺 Medical, Dental, and Vision for employees and Family Coverage
+    • li: 🏠 Remote first culture with in-office flexibility in San Francisco
+    • li: 💵 Home office budget with a new high-powered laptop
+    • li: 🥇 Truly competitive salary and equity
+    • li: 🚼 12 weeks of Parental leave (U.S. specific)
+    • li: 📈 401(k) (U.S. specific)
+    • li: Supplemental benefits may be available depending on your location
+    • li: Explore benefits bycountry
+
+[Div 16]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 17]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 18]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 19]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 20]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 21]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 22]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 24]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Responsibilities:
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • li: This role will see a balance of 70% working in code and 30% working with the community and events in the India market
+    • li: Contribute to the development and maintenance of our open-source Weave integrations.
+    • li: Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.
+    • li: Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.
+    • li: Collaborate closely with our Product team, providing feedback and testing new Weave features.
+    • li: Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.
+    • li: Help build out an ambassadors program in India to help us grow Weave with community support.
+    • li: Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+
+[Div 25]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Responsibilities:
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • ul: This role will see a balance of 70% working in code and 30% working with the community and events in the India marketContribute to the development and maintenance of our open-source Weave integrations.Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.Collaborate closely with our Product team, providing feedback and testing new Weave features.Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.Help build out an ambassadors program in India to help us grow Weave with community support.Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+    • li: This role will see a balance of 70% working in code and 30% working with the community and events in the India market
+    • li: Contribute to the development and maintenance of our open-source Weave integrations.
+    • li: Develop both internal and external GenAI-powered tools to demonstrate the capabilities of Weave.
+    • li: Create compelling GenAI blog posts and code examples to highlight Weave’s potential to a global audience.
+    • li: Collaborate closely with our Product team, providing feedback and testing new Weave features.
+    • li: Actively engage with the developer community in India by organizing and attending GenAI-focused events and hackathons.
+    • li: Help build out an ambassadors program in India to help us grow Weave with community support.
+    • li: Engage with the developers where they live online (X, LinkedIn, Discord, etc.)
+
+[Div 26]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Requirements:
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • li: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.
+    • li: 4-7+ years of industry experience
+    • li: Track record of open-source contributions.
+    • li: Track record of building GenAI applications.
+    • li: Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.
+    • li: Experience working in a developer tools company
+    • li: Experience planning and orchestrating events within the AI community
+
+[Div 27]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Requirements:
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • ul: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.4-7+ years of industry experienceTrack record of open-source contributions.Track record of building GenAI applications.Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.Experience working in a developer tools companyExperience planning and orchestrating events within the AI community
+    • li: Based in India. This role will build the awareness of W&B in the booming India market while partnering with internal teams globally.
+    • li: 4-7+ years of industry experience
+    • li: Track record of open-source contributions.
+    • li: Track record of building GenAI applications.
+    • li: Experience pre-training / fine-tuning LLMs at the 1b+ scale or training / fine-tuning multi-modal models like stable diffusion etc.
+    • li: Experience working in a developer tools company
+    • li: Experience planning and orchestrating events within the AI community
+
+[Div 28]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Strong Plus:
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • li: Track record of organizing AI events or speaking at AI events.
+    • li: Planned and orchestrated 3+ events within the AI community in the last 12 months
+    • li: Strong know-how of Python and familiarity with ML stack and frameworks.
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Strong Plus:
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • ul: Track record of organizing AI events or speaking at AI events.Planned and orchestrated 3+ events within the AI community in the last 12 monthsStrong know-how of Python and familiarity with ML stack and frameworks.
+    • li: Track record of organizing AI events or speaking at AI events.
+    • li: Planned and orchestrated 3+ events within the AI community in the last 12 months
+    • li: Strong know-how of Python and familiarity with ML stack and frameworks.
+
+[Div 30]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+    • h3: Our Benefits:
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • li: 🏝️ Flexible time off
+    • li: 🩺 Medical, Dental, and Vision for employees and Family Coverage
+    • li: 🏠 Remote first culture with in-office flexibility in San Francisco
+    • li: 💵 Home office budget with a new high-powered laptop
+    • li: 🥇 Truly competitive salary and equity
+    • li: 🚼 12 weeks of Parental leave (U.S. specific)
+    • li: 📈 401(k) (U.S. specific)
+    • li: Supplemental benefits may be available depending on your location
+    • li: Explore benefits bycountry
+
+[Div 31]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: ul, h3
+    • h3: Our Benefits:
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • ul: 🏝️ Flexible time off🩺 Medical, Dental, and Vision for employees and Family Coverage🏠 Remote first culture with in-office flexibility in San Francisco💵 Home office budget with a new high-powered laptop🥇 Truly competitive salary and equity🚼 12 weeks of Parental leave (U.S. specific)📈 401(k) (U.S. specific)Supplemental benefits may be available depending on your locationExplore benefits bycountry
+    • li: 🏝️ Flexible time off
+    • li: 🩺 Medical, Dental, and Vision for employees and Family Coverage
+    • li: 🏠 Remote first culture with in-office flexibility in San Francisco
+    • li: 💵 Home office budget with a new high-powered laptop
+    • li: 🥇 Truly competitive salary and equity
+    • li: 🚼 12 weeks of Parental leave (U.S. specific)
+    • li: 📈 401(k) (U.S. specific)
+    • li: Supplemental benefits may be available depending on your location
+    • li: Explore benefits bycountry
+
+[Div 32]
+  ➤ class: ['section', 'page-centered']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 33]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 34]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: br
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 36]
+  ➤ class: ['section', 'page-centered', 'last-section-apply']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 37]
+  ➤ class: ['main-footer', 'page-full-width']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Weights & Biases Home Page
+
+[Div 38]
+  ➤ class: ['main-footer-text', 'page-centered']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Weights & Biases Home Page
+
+
+🧾 Form Fields:

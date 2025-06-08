@@ -1,0 +1,27 @@
+URL: https://www.indeed.com/q-ai-engineer-online-internship-jobs.html
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['gnav-nav']
+  ➤ id: None
+  ➤ child tags: ul, a
+    • ul: Find jobsCompany reviewsFind salaries
+    • li: Find jobs
+    • li: Company reviews
+    • li: Find salaries
+
+[Div 2]
+  ➤ class: ['gnav-links']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Upload your resumeSign inEmployers / Post JobFind jobsCompany reviewsFind salaries
+    • li: Upload your resume
+    • li: Sign in
+    • li: Employers / Post Job
+    • li: Find jobs
+    • li: Company reviews
+    • li: Find salaries
+
+
+🧾 Form Fields:

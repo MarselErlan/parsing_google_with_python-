@@ -1,0 +1,1152 @@
+URL: https://job-boards.greenhouse.io/speechify/jobs/4510121004
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['banner-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 2]
+  ➤ class: None
+  ➤ id: react-portal-mount-point
+  ➤ child tags: 
+
+[Div 3]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • h1: Applied AI Engineer & Researcher
+    • p: The mission of Speechify is to make sure that reading is never a barrier to learning.
+    • p: Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+    • p: Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+    • p: This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • ul: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generationWork on building the most human sounding AI speech model in the world
+    • li: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generation
+    • li: Work on building the most human sounding AI speech model in the world
+    • ul: Experience with research and development in NLP or TTS or CV with a focus on image generation.Experience in MLPreferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience with research and development in NLP or TTS or CV with a focus on image generation.
+    • li: Experience in ML
+    • li: Preferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • ul: Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience deploying NLP or TTS models to production at a large scale
+    • li: Experience managing engineers and growing a research & development team
+    • li: Experience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • p: What We Offer
+    • ul: A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • li: A fast-growing environment where you can help shape the culture
+    • li: An entrepreneurial crew that supports risk, intuition, and hustle
+    • li: A hands-off approach so you can focus and do your best work
+    • li: The opportunity to make an impact in a transformative industry
+    • li: A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • p: Think you’re a good fit for this job?
+    • p: Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+    • p: Not looking but know someone who would make a great fit?
+    • p: Refer them!
+    • p: Speechify is committed to a diverse and inclusive workplace.
+    • p: Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 4]
+  ➤ class: ['image-container']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 5]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: Applied AI Engineer & Researcher
+    • p: The mission of Speechify is to make sure that reading is never a barrier to learning.
+    • p: Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+    • p: Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+    • p: This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • ul: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generationWork on building the most human sounding AI speech model in the world
+    • li: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generation
+    • li: Work on building the most human sounding AI speech model in the world
+    • ul: Experience with research and development in NLP or TTS or CV with a focus on image generation.Experience in MLPreferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience with research and development in NLP or TTS or CV with a focus on image generation.
+    • li: Experience in ML
+    • li: Preferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • ul: Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience deploying NLP or TTS models to production at a large scale
+    • li: Experience managing engineers and growing a research & development team
+    • li: Experience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • p: What We Offer
+    • ul: A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • li: A fast-growing environment where you can help shape the culture
+    • li: An entrepreneurial crew that supports risk, intuition, and hustle
+    • li: A hands-off approach so you can focus and do your best work
+    • li: The opportunity to make an impact in a transformative industry
+    • li: A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • p: Think you’re a good fit for this job?
+    • p: Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+    • p: Not looking but know someone who would make a great fit?
+    • p: Refer them!
+    • p: Speechify is committed to a diverse and inclusive workplace.
+    • p: Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+[Div 6]
+  ➤ class: ['job__tags']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 7]
+  ➤ class: ['job__header']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h1: Applied AI Engineer & Researcher
+
+[Div 8]
+  ➤ class: ['job__title']
+  ➤ id: None
+  ➤ child tags: div, h1
+    • h1: Applied AI Engineer & Researcher
+
+[Div 9]
+  ➤ class: ['job__location']
+  ➤ id: None
+  ➤ child tags: div, svg
+
+[Div 10]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 11]
+  ➤ class: ['job__description', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The mission of Speechify is to make sure that reading is never a barrier to learning.
+    • p: Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+    • p: Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+    • p: This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • ul: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generationWork on building the most human sounding AI speech model in the world
+    • li: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generation
+    • li: Work on building the most human sounding AI speech model in the world
+    • ul: Experience with research and development in NLP or TTS or CV with a focus on image generation.Experience in MLPreferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience with research and development in NLP or TTS or CV with a focus on image generation.
+    • li: Experience in ML
+    • li: Preferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • ul: Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience deploying NLP or TTS models to production at a large scale
+    • li: Experience managing engineers and growing a research & development team
+    • li: Experience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • p: What We Offer
+    • ul: A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • li: A fast-growing environment where you can help shape the culture
+    • li: An entrepreneurial crew that supports risk, intuition, and hustle
+    • li: A hands-off approach so you can focus and do your best work
+    • li: The opportunity to make an impact in a transformative industry
+    • li: A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • p: Think you’re a good fit for this job?
+    • p: Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+    • p: Not looking but know someone who would make a great fit?
+    • p: Refer them!
+    • p: Speechify is committed to a diverse and inclusive workplace.
+    • p: Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+[Div 12]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, p, ul
+    • p: The mission of Speechify is to make sure that reading is never a barrier to learning.
+    • p: Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+    • p: Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+    • p: This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+    • p: We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+    • p: Our interview process involves several technical interviews and we aim to complete them within 1 week.
+    • ul: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generationWork on building the most human sounding AI speech model in the world
+    • li: Researching and implementing state-of-the-art in NLP and TTS or CV with a focus on image generation
+    • li: Work on building the most human sounding AI speech model in the world
+    • ul: Experience with research and development in NLP or TTS or CV with a focus on image generation.Experience in MLPreferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience with research and development in NLP or TTS or CV with a focus on image generation.
+    • li: Experience in ML
+    • li: Preferred:Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • ul: Experience deploying NLP or TTS models to production at a large scaleExperience managing engineers and growing a research & development teamExperience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • li: Experience deploying NLP or TTS models to production at a large scale
+    • li: Experience managing engineers and growing a research & development team
+    • li: Experience programming in Python: Tensorflow and PyTorch frameworks specifically.
+    • p: What We Offer
+    • ul: A fast-growing environment where you can help shape the cultureAn entrepreneurial crew that supports risk, intuition, and hustleA hands-off approach so you can focus and do your best workThe opportunity to make an impact in a transformative industryA competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • li: A fast-growing environment where you can help shape the culture
+    • li: An entrepreneurial crew that supports risk, intuition, and hustle
+    • li: A hands-off approach so you can focus and do your best work
+    • li: The opportunity to make an impact in a transformative industry
+    • li: A competitive salary, a collegiate atmosphere, and a commitment to building a great asynchronous culture
+    • p: Think you’re a good fit for this job?
+    • p: Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+    • p: Not looking but know someone who would make a great fit?
+    • p: Refer them!
+    • p: Speechify is committed to a diverse and inclusive workplace.
+    • p: Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+[Div 13]
+  ➤ class: ['p-rich_text_section']
+  ➤ id: None
+  ➤ child tags: strong
+
+[Div 14]
+  ➤ class: ['p-rich_text_section']
+  ➤ id: None
+  ➤ child tags: strong
+
+[Div 15]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 16]
+  ➤ class: ['application--container']
+  ➤ id: None
+  ➤ child tags: div, form
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 17]
+  ➤ class: ['application--header']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 18]
+  ➤ class: ['application--header--text']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Apply for this job
+    • p: *
+    • p: indicates a required field
+
+[Div 19]
+  ➤ class: ['application--header--title']
+  ➤ id: None
+  ➤ child tags: h2
+    • h2: Apply for this job
+
+[Div 20]
+  ➤ class: ['application--header--required']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: *
+    • p: indicates a required field
+
+[Div 21]
+  ➤ class: ['application--header--required--asterisk']
+  ➤ id: None
+  ➤ child tags: p
+    • p: *
+
+[Div 22]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 23]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 24]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 25]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 26]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 27]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 28]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 29]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 30]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 31]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 32]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 33]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 34]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 36]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 37]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-resume
+  ➤ child tags: span
+
+[Div 38]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 39]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 40]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 41]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 42]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 43]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 44]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 45]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 46]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 47]
+  ➤ class: ['file-upload']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 48]
+  ➤ class: ['label', 'upload-label']
+  ➤ id: upload-label-cover_letter
+  ➤ child tags: 
+
+[Div 49]
+  ➤ class: ['file-upload__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 50]
+  ➤ class: ['button-container']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Accepted file types: pdf, doc, docx, txt, rtf
+
+[Div 51]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 52]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button, input
+
+[Div 53]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 54]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 55]
+  ➤ class: ['secondary-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 56]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 57]
+  ➤ class: ['application--questions']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 58]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 59]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 60]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 61]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 62]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 63]
+  ➤ class: ['input-wrapper', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, input
+
+[Div 64]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 65]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 66]
+  ➤ class: ['input-wrapper', 'input-wrapper__multi-line', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, textarea
+
+[Div 67]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 68]
+  ➤ class: ['text-input-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 69]
+  ➤ class: ['input-wrapper', 'input-wrapper__multi-line', 'input-wrapper--outside-label']
+  ➤ id: None
+  ➤ child tags: label, textarea
+
+[Div 70]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 71]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 72]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 73]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 74]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 75]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 76]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 77]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_10131687004-placeholder
+  ➤ child tags: 
+
+[Div 78]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 79]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 80]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 81]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 82]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 83]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 84]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 85]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 86]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 87]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_10131688004-placeholder
+  ➤ child tags: 
+
+[Div 88]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 89]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 90]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 91]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 92]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 93]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div, input
+
+[Div 94]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 95]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 96]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 97]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-question_10131689004-placeholder
+  ➤ child tags: 
+
+[Div 98]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 99]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 100]
+  ➤ class: ['eeoc__container', 'body']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 101]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 102]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: h2, p
+    • h2: Voluntary Self-Identification
+    • p: For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+    • p: As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+
+[Div 103]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 104]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 105]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 106]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 107]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 108]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 109]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 110]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-gender-placeholder
+  ➤ child tags: 
+
+[Div 111]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 112]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 113]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div, a
+
+[Div 114]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 115]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 116]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 117]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 118]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 119]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 120]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-hispanic_ethnicity-placeholder
+  ➤ child tags: 
+
+[Div 121]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 122]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 123]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+    • p: A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+    • p: A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+    • p: An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+    • p: An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+
+[Div 124]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 125]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 126]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 127]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 128]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 129]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 130]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 131]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-veteran_status-placeholder
+  ➤ child tags: 
+
+[Div 132]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 133]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 134]
+  ➤ class: ['divider']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 135]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, ul, p, br, strong, h2
+    • h2: Voluntary Self-Identification of Disability
+    • p: We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+    • p: Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+    • p: A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+    • ul: Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+    • li: Alcohol or other substance use disorder (not currently using drugs illegally)
+    • li: Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+    • li: Blind or low vision
+    • li: Cancer (past or present)
+    • li: Cardiovascular or heart disease
+    • li: Celiac disease
+    • li: Cerebral palsy
+    • li: Deaf or serious difficulty hearing
+    • li: Diabetes
+    • li: Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+    • li: Epilepsy or other seizure disorder
+    • li: Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+    • li: Intellectual or developmental disability
+    • li: Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+    • li: Missing limbs or partially missing limbs
+    • li: Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+    • li: Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+    • li: Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+    • li: Partial or complete paralysis (any cause)
+    • li: Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+    • li: Short stature (dwarfism)
+    • li: Traumatic brain injury
+
+[Div 136]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 137]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 138]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 139]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 140]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 141]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 142]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 143]
+  ➤ class: ['eeoc__question__wrapper']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 144]
+  ➤ class: ['select']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 145]
+  ➤ class: ['select__container', 'select__container--outside-label']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 146]
+  ➤ class: ['select-shell', 'remix-css-b62m3t-container']
+  ➤ id: None
+  ➤ child tags: span, div
+
+[Div 147]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 148]
+  ➤ class: ['select__control--outside-label', 'select__control', 'remix-css-13cymwt-control']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 149]
+  ➤ class: ['select__value-container', 'remix-css-hlgwow']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 150]
+  ➤ class: ['select__placeholder', 'remix-css-1jqq78o-placeholder']
+  ➤ id: react-select-disability_status-placeholder
+  ➤ child tags: 
+
+[Div 151]
+  ➤ class: ['select__input-container', 'remix-css-19bb58m']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 152]
+  ➤ class: ['select__indicators--outside-label', 'select__indicators', 'remix-css-1wy0on6']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 153]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: p
+    • p: PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+
+[Div 154]
+  ➤ class: ['application--submit']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 155]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Powered by
+
+[Div 156]
+  ➤ class: ['footer-row']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Read ourPrivacy Policy
+
+[Div 157]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 158]
+  ➤ class: ['grecaptcha-badge']
+  ➤ id: None
+  ➤ child tags: div, textarea
+
+[Div 159]
+  ➤ class: ['grecaptcha-logo']
+  ➤ id: None
+  ➤ child tags: iframe
+
+[Div 160]
+  ➤ class: ['grecaptcha-error']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'First Name*', 'Type': 'text', 'ID': 'first_name', 'Required': 'true', 'Autocomplete': 'given-name'}
+{'Label': 'Last Name*', 'Type': 'text', 'ID': 'last_name', 'Required': 'true', 'Autocomplete': 'family-name'}
+{'Label': 'Email*', 'Type': 'text', 'ID': 'email', 'Required': 'true', 'Autocomplete': 'email'}
+{'Label': 'Phone', 'Type': 'text', 'ID': 'phone', 'Required': 'false', 'Autocomplete': 'tel'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'resume', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Attach', 'Type': 'file', 'ID': 'cover_letter', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'LinkedIn Profile', 'Type': 'text', 'ID': 'question_10131681004', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'How did you hear about this opportunity?*', 'Type': 'text', 'ID': 'question_10131683004', 'Required': 'true', 'Autocomplete': 'N/A'}
+{'Label': 'How old were you when you started coding?*', 'Type': 'text', 'ID': 'question_10131687004', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'How long have you been coding?*', 'Type': 'text', 'ID': 'question_10131688004', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Where are you located?*', 'Type': 'text', 'ID': 'question_10131689004', 'Required': 'true', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Gender', 'Type': 'text', 'ID': 'gender', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Are you Hispanic/Latino?', 'Type': 'text', 'ID': 'hispanic_ethnicity', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Veteran Status', 'Type': 'text', 'ID': 'veteran_status', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Disability Status', 'Type': 'text', 'ID': 'disability_status', 'Required': 'false', 'Autocomplete': 'off'}

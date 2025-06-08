@@ -1,0 +1,1722 @@
+URL: https://boards.greenhouse.io/beekeeper/jobs/6629355
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['cc-revoke', 'cc-bottom', 'cc-left', 'cc-animate', 'cc-color-override--769624145']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['cc-window', 'cc-floating', 'cc-type-opt-out', 'cc-theme-block', 'cc-bottom', 'cc-left', 'cc-color-override--769624145']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Cookies make the internet better. That's why we use them to improve your experience on our site. By continuing to browse the website, you agree to our use of cookies as set out in this policy. If you don't like cookies in your browser, that's ok too!
+
+[Div 3]
+  ➤ class: ['cc-message-container']
+  ➤ id: None
+  ➤ child tags: span
+    • p: Cookies make the internet better. That's why we use them to improve your experience on our site. By continuing to browse the website, you agree to our use of cookies as set out in this policy. If you don't like cookies in your browser, that's ok too!
+
+[Div 4]
+  ➤ class: ['cc-compliance', 'cc-highlight', 'cc-regular']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 5]
+  ➤ class: ['cmp-loader']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 6]
+  ➤ class: ['go3670563033']
+  ➤ id: hs-web-interactives-top-push-anchor
+  ➤ child tags: 
+
+[Div 7]
+  ➤ class: ['wp-site-blocks']
+  ➤ id: None
+  ➤ child tags: footer, header, main
+    • ul: English
+    • li: English
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+    • ul: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantlyProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforceSolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technologyPricingResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategyAboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview seriesSearchSchedule a demoHelp centerTry it freeLogin
+    • li: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: ProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • ul: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn more
+    • li: IntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: Integrating training & communications for a frontline workforce
+    • ul: Integrating training & communications for a frontline workforce
+    • li: Integrating training & communications for a frontline workforce
+    • p: Integrating training & communications for a frontline workforce
+    • li: SolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: Human ResourcesITInternal communicationsOperations and safety
+    • li: Human Resources
+    • li: IT
+    • li: Internal communications
+    • li: Operations and safety
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Pricing
+    • li: ResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Success storieseBooksWebinars
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • ul: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn more
+    • li: Customer resourcesBeekeeper help centerAdmin help
+    • ul: Beekeeper help centerAdmin help
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: The frontline workforce report: Turning findings into strategy
+    • ul: The frontline workforce report: Turning findings into strategy
+    • li: The frontline workforce report: Turning findings into strategy
+    • p: The frontline workforce report: Turning findings into strategy
+    • li: AboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn more
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: NewsroomEventsAwardsContact us
+    • ul: NewsroomEventsAwardsContact us
+    • li: Newsroom
+    • li: Events
+    • li: Awards
+    • li: Contact us
+    • li: People, process, then HR tech | Interview series
+    • ul: People, process, then HR tech | Interview series
+    • li: People, process, then HR tech | Interview series
+    • p: People, process, then HR tech | Interview series
+    • li: Search
+    • li: Schedule a demo
+    • li: Help center
+    • li: Try it free
+    • li: Login
+    • p: We will never ask for the exchange of money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior individuals at Beekeeper. If in doubt, please ignore the message.IMPORTANT NOTICE FOR CANDIDATES: At Beekeeper, our team’s safety always comes first, and we equally care for the safety of our candidates. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, whether the recruitment is made directly by us or through a third-party agency, you’ll never be required to pay any fees or disclose personal financial details. We strongly urge that you do not disclose personal or financial details to anyone you do not know and trust.
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 8]
+  ➤ class: ['e-div', 'e-div-47456649efb4b790a41931bd97ffa969c3ef49e0', 'e-div--header-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: English
+    • li: English
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+    • ul: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantlyProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforceSolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technologyPricingResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategyAboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview seriesSearchSchedule a demoHelp centerTry it freeLogin
+    • li: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: ProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • ul: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn more
+    • li: IntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: Integrating training & communications for a frontline workforce
+    • ul: Integrating training & communications for a frontline workforce
+    • li: Integrating training & communications for a frontline workforce
+    • p: Integrating training & communications for a frontline workforce
+    • li: SolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: Human ResourcesITInternal communicationsOperations and safety
+    • li: Human Resources
+    • li: IT
+    • li: Internal communications
+    • li: Operations and safety
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Pricing
+    • li: ResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Success storieseBooksWebinars
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • ul: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn more
+    • li: Customer resourcesBeekeeper help centerAdmin help
+    • ul: Beekeeper help centerAdmin help
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: The frontline workforce report: Turning findings into strategy
+    • ul: The frontline workforce report: Turning findings into strategy
+    • li: The frontline workforce report: Turning findings into strategy
+    • p: The frontline workforce report: Turning findings into strategy
+    • li: AboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn more
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: NewsroomEventsAwardsContact us
+    • ul: NewsroomEventsAwardsContact us
+    • li: Newsroom
+    • li: Events
+    • li: Awards
+    • li: Contact us
+    • li: People, process, then HR tech | Interview series
+    • ul: People, process, then HR tech | Interview series
+    • li: People, process, then HR tech | Interview series
+    • p: People, process, then HR tech | Interview series
+    • li: Search
+    • li: Schedule a demo
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 9]
+  ➤ class: ['e-div', 'e-div-2ffd6a072ea7954c69df8f05a99c59bdfdec9b4d', 'e-div--header-top-menu']
+  ➤ id: None
+  ➤ child tags: div, nav
+    • ul: English
+    • li: English
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 10]
+  ➤ class: ['wpml-ls-statics-shortcode_actions', 'wpml-ls', 'wpml-ls-legacy-dropdown', 'js-wpml-ls-legacy-dropdown']
+  ➤ id: None
+  ➤ child tags: ul, p
+    • ul: English
+    • li: English
+
+[Div 11]
+  ➤ class: ['wp-block-navigation__responsive-container']
+  ➤ id: modal-1
+  ➤ child tags: div
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 12]
+  ➤ class: ['wp-block-navigation__responsive-close']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 13]
+  ➤ class: ['wp-block-navigation__responsive-dialog']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 14]
+  ➤ class: ['wp-block-navigation__responsive-container-content']
+  ➤ id: modal-1-content
+  ➤ child tags: ul
+    • ul: Help centerTry it freeLogin
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 15]
+  ➤ class: ['e-div', 'e-div-754d9b53a69a61d9385ca8a0fec8fb45149fe011', 'e-div--header-main-menu']
+  ➤ id: None
+  ➤ child tags: div, a
+    • ul: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantlyProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforceSolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technologyPricingResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategyAboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview seriesSearchSchedule a demoHelp centerTry it freeLogin
+    • li: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: ProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • ul: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn more
+    • li: IntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: Integrating training & communications for a frontline workforce
+    • ul: Integrating training & communications for a frontline workforce
+    • li: Integrating training & communications for a frontline workforce
+    • p: Integrating training & communications for a frontline workforce
+    • li: SolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: Human ResourcesITInternal communicationsOperations and safety
+    • li: Human Resources
+    • li: IT
+    • li: Internal communications
+    • li: Operations and safety
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Pricing
+    • li: ResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Success storieseBooksWebinars
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • ul: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn more
+    • li: Customer resourcesBeekeeper help centerAdmin help
+    • ul: Beekeeper help centerAdmin help
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: The frontline workforce report: Turning findings into strategy
+    • ul: The frontline workforce report: Turning findings into strategy
+    • li: The frontline workforce report: Turning findings into strategy
+    • p: The frontline workforce report: Turning findings into strategy
+    • li: AboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn more
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: NewsroomEventsAwardsContact us
+    • ul: NewsroomEventsAwardsContact us
+    • li: Newsroom
+    • li: Events
+    • li: Awards
+    • li: Contact us
+    • li: People, process, then HR tech | Interview series
+    • ul: People, process, then HR tech | Interview series
+    • li: People, process, then HR tech | Interview series
+    • p: People, process, then HR tech | Interview series
+    • li: Search
+    • li: Schedule a demo
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 16]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 17]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 18]
+  ➤ class: ['mega-menu-wrap']
+  ➤ id: mega-menu-wrap-primary_menu
+  ➤ child tags: div, ul
+    • ul: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantlyProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforceSolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technologyPricingResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategyAboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview seriesSearchSchedule a demoHelp centerTry it freeLogin
+    • li: Why choose BeekeeperWhy choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn moreServing up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • ul: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Why choose BeekeeperSee why Beekeeper is the trusted choice for enhancing the deskless worker experience.Learn more
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • ul: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+    • li: ProductsFrontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAISecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn moreIntegrating training & communications for a frontline workforce
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • li: Frontline Success PlatformEverything your frontline needs — right at their fingertips, built for the way they work.Learn moreCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • ul: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn moreIntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplaceTake a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: SecurityBeekeeper data security measures prioritize privacy, compliance, and reliability.Learn more
+    • li: IntegrationsConnect your workplace tools with Beekeeper integrations.Learn moreMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tourTake a self-guided video tour of the Beekeeper platform.Learn more
+    • li: Integrating training & communications for a frontline workforce
+    • ul: Integrating training & communications for a frontline workforce
+    • li: Integrating training & communications for a frontline workforce
+    • p: Integrating training & communications for a frontline workforce
+    • li: SolutionsCapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcareDepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safetyReach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: CapabilitiesBeekeeper brings essential capabilities together — from communication to compliance — empowering every aspect of frontline success.Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • li: IndustryBeekeeper is designed to meet the unique needs of frontline industries, streamlining workflows and driving success from the ground up.HospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • li: DepartmentBeekeeper connects frontline teams across every department, ensuring seamless collaboration and efficiency.Human ResourcesITInternal communicationsOperations and safety
+    • ul: Human ResourcesITInternal communicationsOperations and safety
+    • li: Human Resources
+    • li: IT
+    • li: Internal communications
+    • li: Operations and safety
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • ul: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+    • li: Pricing
+    • li: ResourcesResource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinarsBlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin helpThe frontline workforce report: Turning findings into strategy
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • li: Resource centerExplore resources for actionable guides, templates, success stories, and more designed to support every step of your journey to frontline success.Learn moreSuccess storieseBooksWebinars
+    • ul: Success storieseBooksWebinars
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • ul: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn moreCustomer resourcesBeekeeper help centerAdmin help
+    • li: BlogDiscover daily insights about the digital transformation and the future of frontline work.Learn more
+    • li: Customer resourcesBeekeeper help centerAdmin help
+    • ul: Beekeeper help centerAdmin help
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: The frontline workforce report: Turning findings into strategy
+    • ul: The frontline workforce report: Turning findings into strategy
+    • li: The frontline workforce report: Turning findings into strategy
+    • p: The frontline workforce report: Turning findings into strategy
+    • li: AboutAbout BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareersNewsroomEventsAwardsContact usPeople, process, then HR tech | Interview series
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • ul: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn moreLeadershipMarketplace partnersConsultancy partnersCareers
+    • li: About BeekeeperBeekeeper’s mission, dedicated leadership, and commitment to driving frontline success.Learn more
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: NewsroomEventsAwardsContact us
+    • ul: NewsroomEventsAwardsContact us
+    • li: Newsroom
+    • li: Events
+    • li: Awards
+    • li: Contact us
+    • li: People, process, then HR tech | Interview series
+    • ul: People, process, then HR tech | Interview series
+    • li: People, process, then HR tech | Interview series
+    • p: People, process, then HR tech | Interview series
+    • li: Search
+    • li: Schedule a demo
+    • li: Help center
+    • li: Try it free
+    • li: Login
+
+[Div 19]
+  ➤ class: ['mega-menu-toggle']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 20]
+  ➤ class: ['mega-toggle-blocks-left']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 21]
+  ➤ class: ['mega-toggle-blocks-center']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 22]
+  ➤ class: ['mega-toggle-blocks-right']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 23]
+  ➤ class: ['mega-toggle-block', 'mega-menu-toggle-animated-block', 'mega-toggle-block-0']
+  ➤ id: mega-toggle-block-0
+  ➤ child tags: button
+
+[Div 24]
+  ➤ class: ['e-sgp', 'taxonomy-success-stories', 'e-sgp--dlt']
+  ➤ id: None
+  ➤ child tags: a
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+
+[Div 25]
+  ➤ class: ['e-sgp__inner']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+
+[Div 26]
+  ➤ class: ['e-div', 'e-sgp__media']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 27]
+  ➤ class: ['e-div', 'e-sgp__content']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Serving up connection: How the quick-service restaurant giant reaches 7,500 associates instantly
+
+[Div 28]
+  ➤ class: ['e-mtf', 'e-mtf--dlt', 'e-mtf--learn-more-label']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 29]
+  ➤ class: ['e-sgp', 'taxonomy-ebook', 'e-sgp--dlt']
+  ➤ id: None
+  ➤ child tags: a
+    • p: Integrating training & communications for a frontline workforce
+
+[Div 30]
+  ➤ class: ['e-sgp__inner']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Integrating training & communications for a frontline workforce
+
+[Div 31]
+  ➤ class: ['e-div', 'e-sgp__media']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 32]
+  ➤ class: ['e-div', 'e-sgp__content']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Integrating training & communications for a frontline workforce
+
+[Div 33]
+  ➤ class: ['e-mtf', 'e-mtf--dlt', 'e-mtf--learn-more-label']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 34]
+  ➤ class: ['e-sgp', 'taxonomy-ebook', 'e-sgp--dlt']
+  ➤ id: None
+  ➤ child tags: a
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+
+[Div 35]
+  ➤ class: ['e-sgp__inner']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+
+[Div 36]
+  ➤ class: ['e-div', 'e-sgp__media']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 37]
+  ➤ class: ['e-div', 'e-sgp__content']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: Reach your frontline workers: A buyer’s guide to frontline HR technology
+
+[Div 38]
+  ➤ class: ['e-mtf', 'e-mtf--dlt', 'e-mtf--learn-more-label']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 39]
+  ➤ class: ['e-sgp', 'taxonomy-buzz', 'e-sgp--dlt']
+  ➤ id: None
+  ➤ child tags: a
+    • p: The frontline workforce report: Turning findings into strategy
+
+[Div 40]
+  ➤ class: ['e-sgp__inner']
+  ➤ id: None
+  ➤ child tags: div
+    • p: The frontline workforce report: Turning findings into strategy
+
+[Div 41]
+  ➤ class: ['e-div', 'e-sgp__media']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 42]
+  ➤ class: ['e-div', 'e-sgp__content']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: The frontline workforce report: Turning findings into strategy
+
+[Div 43]
+  ➤ class: ['e-mtf', 'e-mtf--dlt', 'e-mtf--learn-more-label']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 44]
+  ➤ class: ['e-sgp', 'taxonomy-', 'e-sgp--dlt']
+  ➤ id: None
+  ➤ child tags: a
+    • p: People, process, then HR tech | Interview series
+
+[Div 45]
+  ➤ class: ['e-sgp__inner']
+  ➤ id: None
+  ➤ child tags: div
+    • p: People, process, then HR tech | Interview series
+
+[Div 46]
+  ➤ class: ['e-div', 'e-sgp__media']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 47]
+  ➤ class: ['e-div', 'e-sgp__content']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: People, process, then HR tech | Interview series
+
+[Div 48]
+  ➤ class: ['e-mtf', 'e-mtf--dlt', 'e-mtf--learn-more-label']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 49]
+  ➤ class: ['mega-search-wrap']
+  ➤ id: None
+  ➤ child tags: form
+
+[Div 50]
+  ➤ class: ['entry-content', 'wp-block-post-content', 'is-layout-constrained', 'wp-block-post-content-is-layout-constrained']
+  ➤ id: None
+  ➤ child tags: section
+    • p: We will never ask for the exchange of money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior individuals at Beekeeper. If in doubt, please ignore the message.IMPORTANT NOTICE FOR CANDIDATES: At Beekeeper, our team’s safety always comes first, and we equally care for the safety of our candidates. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, whether the recruitment is made directly by us or through a third-party agency, you’ll never be required to pay any fees or disclose personal financial details. We strongly urge that you do not disclose personal or financial details to anyone you do not know and trust.
+
+[Div 51]
+  ➤ class: ['container']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We will never ask for the exchange of money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior individuals at Beekeeper. If in doubt, please ignore the message.IMPORTANT NOTICE FOR CANDIDATES: At Beekeeper, our team’s safety always comes first, and we equally care for the safety of our candidates. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, whether the recruitment is made directly by us or through a third-party agency, you’ll never be required to pay any fees or disclose personal financial details. We strongly urge that you do not disclose personal or financial details to anyone you do not know and trust.
+
+[Div 52]
+  ➤ class: ['wp-block-b3rg-row', 'e-row', 'row']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 53]
+  ➤ class: ['wp-block-b3rg-column', 'e-col', 'e-col-3fd29a26ff70780ecd7ff03db8f4638045c8c9d8', 'col-sm-12']
+  ➤ id: None
+  ➤ child tags: div, script
+
+[Div 54]
+  ➤ class: None
+  ➤ id: grnhse_app
+  ➤ child tags: iframe
+
+[Div 55]
+  ➤ class: ['wp-block-columns', 'is-layout-flex', 'wp-container-core-columns-is-layout-28f84493', 'wp-block-columns-is-layout-flex']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We will never ask for the exchange of money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior individuals at Beekeeper. If in doubt, please ignore the message.IMPORTANT NOTICE FOR CANDIDATES: At Beekeeper, our team’s safety always comes first, and we equally care for the safety of our candidates. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, whether the recruitment is made directly by us or through a third-party agency, you’ll never be required to pay any fees or disclose personal financial details. We strongly urge that you do not disclose personal or financial details to anyone you do not know and trust.
+
+[Div 56]
+  ➤ class: ['wp-block-column', 'is-layout-flow', 'wp-block-column-is-layout-flow']
+  ➤ id: None
+  ➤ child tags: p
+    • p: We will never ask for the exchange of money or credit card details during the recruitment process. Please be aware of any suspicious email activity from people who could be pretending to be recruiters or senior individuals at Beekeeper. If in doubt, please ignore the message.IMPORTANT NOTICE FOR CANDIDATES: At Beekeeper, our team’s safety always comes first, and we equally care for the safety of our candidates. Recruitment fraud is a potential threat to job seekers, so please be aware that throughout our recruitment process, whether the recruitment is made directly by us or through a third-party agency, you’ll never be required to pay any fees or disclose personal financial details. We strongly urge that you do not disclose personal or financial details to anyone you do not know and trust.
+
+[Div 57]
+  ➤ class: ['e-div', 'e-div-0212cf723de8a25e5a7b073e5d2928fef728c8ce', 'e-div--footer']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 58]
+  ➤ class: ['e-div', 'e-div-9801b9c19e9173698d92f4409173c468845b2f5b', 'e-div--footer-container']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 59]
+  ➤ class: ['e-svg', 'e-svg--dlt', 'e-svg--background-animation']
+  ➤ id: None
+  ➤ child tags: object
+
+[Div 60]
+  ➤ class: ['e-div', 'e-div-c6a4ac5130e2191b7f9aa70d7962aec59ddf483f', 'e-div--footer-content-wrapper']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 61]
+  ➤ class: ['e-div', 'e-div-512b1b22d72f7274024ac41c3c4b91cef8613156', 'e-div--footer-top-content']
+  ➤ id: None
+  ➤ child tags: div
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+
+[Div 62]
+  ➤ class: ['e-div', 'e-div-8b11a6aca955dcdaebdd64189500378ba72a9fcc', 'e-div--footer-logo']
+  ➤ id: None
+  ➤ child tags: div, p, a
+    • p: We make frontline lives easier, work safer, and teams more connected so businesses can reach new heights.
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 63]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 64]
+  ➤ class: ['e-div', 'e-div-b19210072627af11328d4ec49cbeb40af1901c14', 'e-div--footer-social-icons']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 65]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 66]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 67]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 68]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 69]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 70]
+  ➤ class: ['e-img']
+  ➤ id: None
+  ➤ child tags: figure
+
+[Div 71]
+  ➤ class: ['e-div', 'e-div-f335dbe8c2f89d6d0f8b4e8a95370f9d98d93538', 'e-div--footer-form-wrapper']
+  ➤ id: None
+  ➤ child tags: div, script
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 72]
+  ➤ class: ['e-emf', 'e-emf--dlt', 'e-emf-7a91083c19401f34dec15a97c233a35283a963e1']
+  ➤ id: e-emf-7a91083c19401f34dec15a97c233a35283a963e1__form
+  ➤ child tags: form
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 73]
+  ➤ class: ['hs-richtext', 'hs-main-font-element']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 74]
+  ➤ class: ['hs_email', 'hs-email', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 75]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 76]
+  ➤ class: ['hs_utm_content', 'hs-utm_content', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 77]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 78]
+  ➤ class: ['hs_utm_campaign', 'hs-utm_campaign', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 79]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 80]
+  ➤ class: ['hs_utm_medium', 'hs-utm_medium', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 81]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 82]
+  ➤ class: ['hs_utm_term', 'hs-utm_term', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 83]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 84]
+  ➤ class: ['hs_utm_source', 'hs-utm_source', 'hs-fieldtype-text', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 85]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 86]
+  ➤ class: ['hs_hs_language', 'hs-hs_language', 'hs-fieldtype-select', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend, label
+
+[Div 87]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 88]
+  ➤ class: ['legal-consent-container']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 89]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: div, legend
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 90]
+  ➤ class: ['hs-dependent-field']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 91]
+  ➤ class: ['hs_LEGAL_CONSENT.subscription_type_606341240', 'hs-LEGAL_CONSENT.subscription_type_606341240', 'hs-fieldtype-booleancheckbox', 'field', 'hs-form-field']
+  ➤ id: None
+  ➤ child tags: div, legend
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 92]
+  ➤ class: ['input']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: I accept Beekeeper'sprivacy policy.*
+    • li: I accept Beekeeper'sprivacy policy.*
+    • p: I accept Beekeeper'sprivacy policy.
+
+[Div 93]
+  ➤ class: ['hs_submit', 'hs-submit']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 94]
+  ➤ class: ['hs-field-desc']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 95]
+  ➤ class: ['actions']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 96]
+  ➤ class: ['e-div', 'e-div-6cea2e712c30aa61bc7d587bbd94a27d481cc10d', 'e-div--footer-menus']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+
+[Div 97]
+  ➤ class: ['e-div', 'e-div-d8e0544f08a5112e5e5bae41bf21a5385ca2ec0e']
+  ➤ id: None
+  ➤ child tags: nav
+    • ul: Why BeekeeperWhy choose Beekeeper
+    • li: Why BeekeeperWhy choose Beekeeper
+    • ul: Why choose Beekeeper
+    • li: Why choose Beekeeper
+    • ul: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: ProductsFrontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • ul: Frontline Success PlatformCommunicationEmployeeWorkAISecurityIntegrationsMarketplaceTake a product tour
+    • li: Frontline Success PlatformCommunicationEmployeeWorkAI
+    • ul: CommunicationEmployeeWorkAI
+    • li: Communication
+    • li: Employee
+    • li: Work
+    • li: AI
+    • li: Security
+    • li: IntegrationsMarketplace
+    • ul: Marketplace
+    • li: Marketplace
+    • li: Take a product tour
+
+[Div 98]
+  ➤ class: ['e-div', 'e-div-85100ca380d7d7083cdc6240eedab23a31637d19']
+  ➤ id: None
+  ➤ child tags: nav
+    • ul: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: SolutionsCapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalyticsIndustryHospitalityRetailManufacturingConstructionHealthcareDepartmentHuman resourcesITCommunicationsOperations and safety
+    • li: CapabilitiesEmployee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • ul: Employee communicationsEmployee engagementHiring and onboardingTasks and productivityTraining and developmentRewards and recognitionComplianceAnalytics
+    • li: Employee communications
+    • li: Employee engagement
+    • li: Hiring and onboarding
+    • li: Tasks and productivity
+    • li: Training and development
+    • li: Rewards and recognition
+    • li: Compliance
+    • li: Analytics
+    • li: IndustryHospitalityRetailManufacturingConstructionHealthcare
+    • ul: HospitalityRetailManufacturingConstructionHealthcare
+    • li: Hospitality
+    • li: Retail
+    • li: Manufacturing
+    • li: Construction
+    • li: Healthcare
+    • li: DepartmentHuman resourcesITCommunicationsOperations and safety
+    • ul: Human resourcesITCommunicationsOperations and safety
+    • li: Human resources
+    • li: IT
+    • li: Communications
+    • li: Operations and safety
+    • ul: Pricing
+    • li: Pricing
+
+[Div 99]
+  ➤ class: ['e-div', 'e-div-18ea22cf285f18a37034f32fe20709f00bd43db3']
+  ➤ id: None
+  ➤ child tags: nav
+    • ul: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: ResourcesBlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: BlogResource centerSuccess storieseBooksWebinarsBeekeeper engineering blogCustomer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Blog
+    • li: Resource centerSuccess storieseBooksWebinarsBeekeeper engineering blog
+    • ul: Success storieseBooksWebinarsBeekeeper engineering blog
+    • li: Success stories
+    • li: eBooks
+    • li: Webinars
+    • li: Beekeeper engineering blog
+    • li: Customer resourcesBeekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • ul: Beekeeper help centerAdmin helpRefer Beekeeper to a peer
+    • li: Beekeeper help center
+    • li: Admin help
+    • li: Refer Beekeeper to a peer
+
+[Div 100]
+  ➤ class: ['e-div', 'e-div-1aec9959509abb567b3feeafc1d6c5ab74be3a44']
+  ➤ id: None
+  ➤ child tags: nav
+    • ul: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: AboutAbout BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • ul: About BeekeeperLeadershipMarketplace partnersConsultancy partnersCareersEventsNewsroomContact usBrand guidelines
+    • li: About Beekeeper
+    • li: Leadership
+    • li: Marketplace partners
+    • li: Consultancy partners
+    • li: Careers
+    • li: Events
+    • li: Newsroom
+    • li: Contact us
+    • li: Brand guidelines
+
+[Div 101]
+  ➤ class: ['e-div', 'e-div-cf72755a75d6ffee3f75c085579bce8c3084b740', 'e-div--footer-bottom-content']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 102]
+  ➤ class: ['e-div', 'e-div-a860dc877a480956358f955526dfac4be64508b5', 'e-div--footer-left-content']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Copyright © 2025 Beekeeper. All rights reserved.
+
+[Div 103]
+  ➤ class: ['e-div', 'e-div-781c030147d7c9f0c45cc59c10695834e2d09422', 'e-div--footer-right-content']
+  ➤ id: None
+  ➤ child tags: nav
+    • ul: Privacy policyWebsite TermsLegalCode of ethics
+    • li: Privacy policy
+    • li: Website Terms
+    • li: Legal
+    • li: Code of ethics
+
+[Div 104]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: script
+
+[Div 105]
+  ➤ class: ['go2933276541', 'go2369186930']
+  ➤ id: hs-web-interactives-top-anchor
+  ➤ child tags: div
+
+[Div 106]
+  ➤ class: ['go1632949049']
+  ➤ id: hs-interactives-modal-overlay
+  ➤ child tags: 
+
+[Div 107]
+  ➤ class: ['go2933276541', 'go1348078617']
+  ➤ id: hs-web-interactives-bottom-anchor
+  ➤ child tags: 
+
+[Div 108]
+  ➤ class: None
+  ➤ id: hs-web-interactives-floating-container
+  ➤ child tags: div
+
+[Div 109]
+  ➤ class: ['go2417249464', 'go613305155']
+  ➤ id: hs-web-interactives-floating-top-left-anchor
+  ➤ child tags: 
+
+[Div 110]
+  ➤ class: ['go2417249464', 'go471583506']
+  ➤ id: hs-web-interactives-floating-top-right-anchor
+  ➤ child tags: 
+
+[Div 111]
+  ➤ class: ['go2417249464', 'go3921366393']
+  ➤ id: hs-web-interactives-floating-bottom-left-anchor
+  ➤ child tags: 
+
+[Div 112]
+  ➤ class: ['go2417249464', 'go3967842156']
+  ➤ id: hs-web-interactives-floating-bottom-right-anchor
+  ➤ child tags: 
+
+[Div 113]
+  ➤ class: None
+  ➤ id: batBeacon936751003809
+  ➤ child tags: img
+
+[Div 114]
+  ➤ class: ['acsb-trigger', 'acsb-widget']
+  ➤ id: None
+  ➤ child tags: 
+
+
+🧾 Form Fields:
+{'Label': 'N/A', 'Type': 'text', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'submit', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Business E-mail*', 'Type': 'email', 'ID': 'email-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'email'}
+{'Label': 'UTM Content', 'Type': 'hidden', 'ID': 'utm_content-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'UTM Campaign', 'Type': 'hidden', 'ID': 'utm_campaign-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'UTM Medium', 'Type': 'hidden', 'ID': 'utm_medium-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'UTM Term', 'Type': 'hidden', 'ID': 'utm_term-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'UTM Source', 'Type': 'hidden', 'ID': 'utm_source-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Preferred language', 'Type': 'hidden', 'ID': 'hs_language-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': "I accept Beekeeper'sprivacy policy.*", 'Type': 'checkbox', 'ID': 'LEGAL_CONSENT.subscription_type_606341240-e32ab843-6d55-423e-ab82-a19ff48aa6d3', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'submit', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

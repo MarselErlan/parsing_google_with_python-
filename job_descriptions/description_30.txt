@@ -1,0 +1,407 @@
+Applied AI Engineer & Researcher
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+About the Role
+In this role you might:
+Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+Innovating data strategies to gather and refine both human and synthetic data.
+Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+Designing and implementing novel algorithms and models for complex, real-world applications.
+Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+Tech Stack
+PythonJAX
+Python
+JAX
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Coding assessment in a language of your choice.
+Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Applied AI Engineer & Researcher
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+About the Role
+In this role you might:
+Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+Innovating data strategies to gather and refine both human and synthetic data.
+Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+Designing and implementing novel algorithms and models for complex, real-world applications.
+Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+Tech Stack
+PythonJAX
+Python
+JAX
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Coding assessment in a language of your choice.
+Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Applied AI Engineer & Researcher
+Applied AI Engineer & Researcher
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+About the Role
+In this role you might:
+Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+Innovating data strategies to gather and refine both human and synthetic data.
+Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+Designing and implementing novel algorithms and models for complex, real-world applications.
+Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+Tech Stack
+PythonJAX
+Python
+JAX
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Coding assessment in a language of your choice.
+Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity.
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+About xAI
+xAI’s mission is to create AI systems that can accurately understand the universe and aid humanity in its pursuit of knowledge.
+Our team is small, highly motivated, and focused on engineering excellence. This organization is for individuals who appreciate challenging themselves and thrive on curiosity. Engineers are encouraged to work across multiple areas of the company, and as a result, all engineers and researchers share the title "Member of Technical Staff."
+We operate with a flat organizational structure. All employees are expected to be hands-on and to contribute directly to the company’s mission. Leadership is given to those who show initiative and consistently deliver excellence. Work ethic and strong prioritization skills are important.
+All engineers and researchers are expected to have strong communication skills. They should be able to concisely and accurately share knowledge with their teammates.
+xAI does not have recruiters. Every application is reviewed directly by a technical member of the team.
+About the Role
+In this role you might:
+Innovating data strategies to gather and refine both human and synthetic data.Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.Designing and implementing novel algorithms and models for complex, real-world applications.Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+Innovating data strategies to gather and refine both human and synthetic data.
+Crafting evaluations that align with our grand mission to develop AI systems that can accurately understand the universe and create new knowledge.
+Designing and implementing novel algorithms and models for complex, real-world applications.
+Collaborating with product teams to seamlessly integrate cutting-edge technologies into Grok and its API, enhancing user interactions in ways previously unimagined.
+The ideal candidates will train, evaluate, and improve core Grok capabilities while addressing product issues by integrating all research techniques to maximize the truthfulness and helpfulness of our AI systems.
+Tech Stack
+PythonJAX
+Python
+JAX
+Interview Process
+After submitting your application, the team reviews your CV and statement of exceptional work. If your application passes this stage, you will be invited to a 15-minute interview (“phone interview”) during which a member of our team will ask some basic questions. If you clear the initial phone interview, you will enter the main process, which consists of four technical interviews:
+Coding assessment in a language of your choice.Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Coding assessment in a language of your choice.
+Applied Technical Session (2): This session will be testing your ability to formulate, design and solve concrete applied problems. It can be research or engineering, depending on background/experience.
+Meet the Team: Present your past exceptional work and your vision with xAI to a small audience.
+Our goal is to finish the main process within one week. We don’t rely on recruiters for assessments. Every application is reviewed by a member of our technical team. All interviews will be conducted via Google Meet.
+Annual Salary Range
+$180,000 - $440,000 USD
+xAI is an equal opportunity employer and does not unlawfully discriminate based on race, color, religion, ethnicity, ancestry, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, age, disability, medical conditions, genetic information, marital status, military or veteran status, or any other applicable legally protected characteristics.
+Qualified applicants with arrest or conviction records will be considered for employment in accordance with all applicable federal, state, and local laws, including the San Francisco Fair Chance Ordinance, Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act.
+For Los Angeles County (unincorporated) Candidates:
+xAI reasonably believes that criminal history may have a direct, adverse and negative relationship on the following job duties, potentially resulting in the withdrawal of a conditional offer of employment:
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;Interacting with internal and/or external clients and colleagues; andExercising sound judgment.
+Access to information technology systems and confidential information, including proprietary and trade secret information, and/or user data;
+Interacting with internal and/or external clients and colleagues; and
+Exercising sound judgment.
+California Consumer Privacy Act (CCPA) Notice
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+*
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us the name of your employer.
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you are currently employed in the field, please tell us your role including your seniority level (e.g. Software Engineer II).
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public LinkedIn profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a public X profile, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a Google Scholar page, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+If you have a GitHub profile, please provide its URL.
+In 100 words or less, tell us about a piece of work you are most proud of.
+In 100 words or less, tell us about a piece of work you are most proud of.
+In 100 words or less, tell us about a piece of work you are most proud of.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in xAI’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Powered by
+Read ourPrivacy Policy

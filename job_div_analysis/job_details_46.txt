@@ -1,0 +1,3210 @@
+URL: https://www.linkedin.com/jobs/view/ai-engineer-software-engineer-at-sidram-technologies-4226466927
+============================================================
+🔎 Div Analysis (from <body>):
+
+[Div 1]
+  ➤ class: ['search-bar__full-placeholder', 'font-sans', 'text-md', 'text-color-text', 'max-w-[calc(100%-40px)]', 'text-left', 'whitespace-nowrap', 'overflow-hidden', 'text-ellipsis']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 2]
+  ➤ class: ['switcher-tabs__trigger-and-tabs', 'babymamabear:flex']
+  ➤ id: None
+  ➤ child tags: div, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 3]
+  ➤ class: ['hidden']
+  ➤ id: switcher-description
+  ➤ child tags: 
+
+[Div 4]
+  ➤ class: ['switcher-tabs', 'hidden', 'z-[1]', 'w-auto', 'min-w-[160px]', 'mb-1.5', 'py-1', 'absolute', 'top-[48px]', 'left-0', 'border-solid', 'border-1', 'border-color-border-faint', 'papabear:container-raised', 'babymamabear:static', 'babymamabear:w-[100vw]', 'babymamabear:h-[48px]', 'babymamabear:p-0', 'overflow-y-hidden', 'overflow-x-auto', 'md:overflow-x-hidden']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: JobsPeopleLearning
+    • li: Jobs
+    • li: People
+    • li: Learning
+
+[Div 5]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 6]
+  ➤ class: ['typeahead-input__dropdown', 'container-lined', 'absolute', 'top-[calc(100%+3px)]', 'left-0', 'w-full', 'rounded-b-md', 'rounded-t-none', 'z-[10]', 'overflow-hidden', 'max-w-none', 'babybear:min-w-full', 'babybear:bottom-0', 'babybear:overflow-y-auto']
+  ➤ id: None
+  ➤ child tags: ul, template
+
+[Div 7]
+  ➤ class: ['search-bar__live-text', 'sr-only']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 8]
+  ➤ class: ['nav__cta-container', 'order-3', 'flex', 'gap-x-1', 'justify-end', 'min-w-[100px]', 'flex-nowrap', 'flex-shrink-0', 'babybear:flex-wrap', 'flex-2', 'babymamabear:min-w-[50px]']
+  ➤ id: None
+  ➤ child tags: a
+
+[Div 9]
+  ➤ class: ['details', 'mx-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, section, code
+    • h3: AI Engineer/Software Engineer
+    • h1: AI Engineer/Software Engineer
+    • p: See who SIDRAM TECHNOLOGIES has hired for this role
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • ul: Seniority levelEntry levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelEntry level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at SIDRAM TECHNOLOGIES by 2x
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Similar jobs
+    • ul: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week agoAI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week agoData Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks agoData Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week agoSoftware Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days agoData Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week agoData ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours agoData ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day agoData EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks agoMachine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week agoData & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day agoData EngineerData EngineerBarstool SportsNew York, NY1 month agoData EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week agoAI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month agoApplied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months agoMachine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoAI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours agoSenior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day agoMachine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days agoAI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month agoData ScientistData ScientistVySystemsJersey City, NJ1 day agoMachine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months agoQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day agoAI EngineerAI EngineerTennrNew York, NY1 month agoData ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • li: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: AI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks ago
+    • h3: Data Engineer (Junior)
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week ago
+    • h3: Data Engineer (Junior)
+    • li: Software Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days ago
+    • h3: Software Engineer, Machine Learning
+    • li: Data Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week ago
+    • h3: Data Engineer, Analytics
+    • li: Data ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours ago
+    • h3: Data Scientist
+    • li: Data ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks ago
+    • h3: Data Engineer
+    • li: Machine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week ago
+    • h3: Machine Learning Engineer II, Content Evaluation
+    • li: Data & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day ago
+    • h3: Data & Analytics Engineer
+    • li: Data EngineerData EngineerBarstool SportsNew York, NY1 month ago
+    • h3: Data Engineer
+    • li: Data EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week ago
+    • h3: Data Engineer
+    • li: AI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month ago
+    • h3: AI/ML Engineer (NYC)
+    • li: Applied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months ago
+    • h3: Applied AI Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week ago
+    • h3: Machine Learning Engineer
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: AI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours ago
+    • h3: AI Data Scientist
+    • li: Senior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day ago
+    • h3: Senior AI / ML Engineer
+    • li: Machine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days ago
+    • h3: Machine Learning, Software Engineer
+    • li: AI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistVySystemsJersey City, NJ1 day ago
+    • h3: Data Scientist
+    • li: Machine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months ago
+    • h3: Machine Learning Engineer
+    • li: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day ago
+    • h3: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial Firm
+    • li: AI EngineerAI EngineerTennrNew York, NY1 month ago
+    • h3: AI Engineer
+    • li: Data ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • h3: Data Scientist
+
+[Div 10]
+  ➤ class: ['sub-nav-cta__content']
+  ➤ id: None
+  ➤ child tags: div, button, img
+    • h3: AI Engineer/Software Engineer
+
+[Div 11]
+  ➤ class: ['sub-nav-cta__text-container']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: AI Engineer/Software Engineer
+
+[Div 12]
+  ➤ class: ['sub-nav-cta__sub-text-container']
+  ➤ id: None
+  ➤ child tags: span, a
+
+[Div 13]
+  ➤ class: ['top-card-layout__card', 'relative', 'p-2', 'papabear:p-details-container-padding']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h1: AI Engineer/Software Engineer
+    • p: See who SIDRAM TECHNOLOGIES has hired for this role
+    • ul: Report this job
+    • li: Report this job
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 14]
+  ➤ class: ['top-card-layout__entity-info-container', 'flex', 'flex-wrap', 'papabear:flex-nowrap']
+  ➤ id: None
+  ➤ child tags: div
+    • h1: AI Engineer/Software Engineer
+    • p: See who SIDRAM TECHNOLOGIES has hired for this role
+
+[Div 15]
+  ➤ class: ['top-card-layout__entity-info', 'flex-grow', 'flex-shrink-0', 'basis-0', 'babybear:flex-none', 'babybear:w-full', 'babybear:flex-none', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h4, h1
+    • h1: AI Engineer/Software Engineer
+    • p: See who SIDRAM TECHNOLOGIES has hired for this role
+
+[Div 16]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span
+
+[Div 17]
+  ➤ class: ['topcard__flavor-row']
+  ➤ id: None
+  ➤ child tags: span, figure
+
+[Div 18]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 19]
+  ➤ class: ['top-card-layout__cta-container', 'flex', 'flex-wrap', 'mt-0.5', 'papabear:mt-0', 'ml-[-12px]']
+  ➤ id: None
+  ➤ child tags: button, a
+
+[Div 20]
+  ➤ class: ['ellipsis-menu', 'absolute', 'right-0', 'top-0', 'top-card-layout__ellipsis-menu', 'mr-1', 'papabear:mt-0.5', 'papabear:mr-2']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Report this job
+    • li: Report this job
+
+[Div 21]
+  ➤ class: ['collapsible-dropdown', 'flex', 'items-center', 'relative', 'hyphens-auto']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Report this job
+    • li: Report this job
+
+[Div 22]
+  ➤ class: ['top-card-layout__footer', 'mt-2']
+  ➤ id: None
+  ➤ child tags: section
+    • h3: Use AI to assess how you fit
+    • p: Get AI-powered advice on this job and more exclusive features.
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 23]
+  ➤ class: ['flex', 'flex-wrap', 'space-x-1']
+  ➤ id: None
+  ➤ child tags: button
+
+[Div 24]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 25]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 26]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 27]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 28]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 29]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to access AI-powered advices
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 30]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 31]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 32]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 33]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 34]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 35]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 36]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 37]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 38]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 39]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 40]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 41]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 42]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 43]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 44]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 45]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 46]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 47]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 48]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 49]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 50]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 51]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 52]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 53]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 54]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 55]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 56]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 57]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 58]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 59]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_fit_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 60]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 61]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 62]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to evaluate your skills
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 63]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 64]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 65]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 66]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 67]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 68]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 69]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 70]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 71]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 72]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 73]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 74]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 75]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 76]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 77]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 78]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 79]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 80]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 81]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 82]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 83]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 84]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 85]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 86]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 87]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 88]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 89]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 90]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 91]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 92]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: public_jobs_ai_button_resume_contextual_sign_in_info_modal
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 93]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 94]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 95]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to tailor your resume
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 96]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 97]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 98]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 99]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 100]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 101]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 102]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 103]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 104]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 105]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 106]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 107]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 108]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 109]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 110]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 111]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 112]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 113]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 114]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 115]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 116]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 117]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 118]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 119]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 120]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 121]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 122]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 123]
+  ➤ class: ['decorated-job-posting__details']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Seniority levelEntry levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelEntry level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+    • p: Referrals increase your chances of interviewing at SIDRAM TECHNOLOGIES by 2x
+
+[Div 124]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div, ul
+    • ul: Seniority levelEntry levelEmployment typeFull-timeJob functionEngineering and Information TechnologyIndustriesTechnology, Information and Internet
+    • li: Seniority levelEntry level
+    • h3: Seniority level
+    • li: Employment typeFull-time
+    • h3: Employment type
+    • li: Job functionEngineering and Information Technology
+    • h3: Job function
+    • li: IndustriesTechnology, Information and Internet
+    • h3: Industries
+
+[Div 125]
+  ➤ class: ['description__text', 'description__text--rich']
+  ➤ id: None
+  ➤ child tags: section
+
+[Div 126]
+  ➤ class: ['show-more-less-html__markup', 'show-more-less-html__markup--clamp-after-5', 'relative', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: strong, br
+
+[Div 127]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at SIDRAM TECHNOLOGIES by 2x
+
+[Div 128]
+  ➤ class: ['face-pile', 'flex', '!no-underline']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Referrals increase your chances of interviewing at SIDRAM TECHNOLOGIES by 2x
+
+[Div 129]
+  ➤ class: ['face-pile__images-container', 'self-start', 'flex-shrink-0', 'mr-1', 'leading-[1]']
+  ➤ id: None
+  ➤ child tags: img
+
+[Div 130]
+  ➤ class: ['find-a-referral__cta-container']
+  ➤ id: None
+  ➤ child tags: p, a
+    • p: Referrals increase your chances of interviewing at SIDRAM TECHNOLOGIES by 2x
+
+[Div 131]
+  ➤ class: ['flex', 'justify-between', 'items-center', 'container-lined', 'py-1.5', 'px-2', 'mb-2']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 132]
+  ➤ class: ['flex']
+  ➤ id: None
+  ➤ child tags: span, icon
+
+[Div 133]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: label, button
+
+[Div 134]
+  ➤ class: ['contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 135]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 136]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: alert-toggle-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 137]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 138]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 139]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to set job alerts for “Artificial Intelligence Engineer” roles.
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 140]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 141]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 142]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 143]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 144]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 145]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 146]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 147]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 148]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: alert-toggle-sign-in-modal_sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 149]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 150]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 151]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 152]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 153]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 154]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 155]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 156]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 157]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 158]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 159]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 160]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 161]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 162]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 163]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 164]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 165]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 166]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 167]
+  ➤ class: ['core-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week agoAI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week agoData Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks agoData Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week agoSoftware Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days agoData Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week agoData ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours agoData ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day agoData EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks agoMachine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week agoData & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day agoData EngineerData EngineerBarstool SportsNew York, NY1 month agoData EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week agoAI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month agoApplied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months agoMachine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoAI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours agoSenior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day agoMachine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days agoAI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month agoData ScientistData ScientistVySystemsJersey City, NJ1 day agoMachine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months agoQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day agoAI EngineerAI EngineerTennrNew York, NY1 month agoData ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • li: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: AI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks ago
+    • h3: Data Engineer (Junior)
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week ago
+    • h3: Data Engineer (Junior)
+    • li: Software Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days ago
+    • h3: Software Engineer, Machine Learning
+    • li: Data Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week ago
+    • h3: Data Engineer, Analytics
+    • li: Data ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours ago
+    • h3: Data Scientist
+    • li: Data ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks ago
+    • h3: Data Engineer
+    • li: Machine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week ago
+    • h3: Machine Learning Engineer II, Content Evaluation
+    • li: Data & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day ago
+    • h3: Data & Analytics Engineer
+    • li: Data EngineerData EngineerBarstool SportsNew York, NY1 month ago
+    • h3: Data Engineer
+    • li: Data EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week ago
+    • h3: Data Engineer
+    • li: AI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month ago
+    • h3: AI/ML Engineer (NYC)
+    • li: Applied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months ago
+    • h3: Applied AI Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week ago
+    • h3: Machine Learning Engineer
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: AI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours ago
+    • h3: AI Data Scientist
+    • li: Senior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day ago
+    • h3: Senior AI / ML Engineer
+    • li: Machine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days ago
+    • h3: Machine Learning, Software Engineer
+    • li: AI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistVySystemsJersey City, NJ1 day ago
+    • h3: Data Scientist
+    • li: Machine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months ago
+    • h3: Machine Learning Engineer
+    • li: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day ago
+    • h3: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial Firm
+    • li: AI EngineerAI EngineerTennrNew York, NY1 month ago
+    • h3: AI Engineer
+    • li: Data ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • h3: Data Scientist
+
+[Div 168]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week agoAI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week agoData Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks agoData Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week agoSoftware Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days agoData Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week agoData ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours agoData ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day agoData EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks agoMachine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week agoData & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day agoData EngineerData EngineerBarstool SportsNew York, NY1 month agoData EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week agoAI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month agoApplied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months agoMachine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months agoAI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours agoSenior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day agoMachine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days agoAI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month agoData ScientistData ScientistVySystemsJersey City, NJ1 day agoMachine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months agoQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day agoAI EngineerAI EngineerTennrNew York, NY1 month agoData ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • li: AI EngineerAI EngineerPacesBrooklyn, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: AI EngineerAI EngineerPacesNew York, NY$150,000 - $200,0001 week ago
+    • h3: AI Engineer
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesBrooklyn, NY$100,000 - $150,0002 weeks ago
+    • h3: Data Engineer (Junior)
+    • li: Data Engineer (Junior)Data Engineer (Junior)PacesNew York, NY$100,000 - $150,0001 week ago
+    • h3: Data Engineer (Junior)
+    • li: Software Engineer, Machine LearningSoftware Engineer, Machine LearningNotionNew York, NY$170,000 - $250,0005 days ago
+    • h3: Software Engineer, Machine Learning
+    • li: Data Engineer, AnalyticsData Engineer, AnalyticsMetaNew York, NY$46.63 - $134,0001 week ago
+    • h3: Data Engineer, Analytics
+    • li: Data ScientistData ScientistConcord Advice, LLCFlorham Park, NJ22 hours ago
+    • h3: Data Scientist
+    • li: Data ScientistData ScientistChubbJersey City, NJ$87,000.00-$148,000.001 day ago
+    • h3: Data Scientist
+    • li: Data EngineerData EngineerPacesBrooklyn, NY$120,000.00-$170,000.002 weeks ago
+    • h3: Data Engineer
+    • li: Machine Learning Engineer II, Content EvaluationMachine Learning Engineer II, Content EvaluationEtsyBrooklyn, NY1 week ago
+    • h3: Machine Learning Engineer II, Content Evaluation
+    • li: Data & Analytics EngineerData & Analytics EngineerAUGUSTNew York, NY$80,000.00-$160,000.001 day ago
+    • h3: Data & Analytics Engineer
+    • li: Data EngineerData EngineerBarstool SportsNew York, NY1 month ago
+    • h3: Data Engineer
+    • li: Data EngineerData EngineerPacesNew York, NY$120,000.00-$170,000.001 week ago
+    • h3: Data Engineer
+    • li: AI/ML Engineer (NYC)AI/ML Engineer (NYC)US MobileNew York, NY$180,000.00-$240,000.001 month ago
+    • h3: AI/ML Engineer (NYC)
+    • li: Applied AI EngineerApplied AI EngineerPermitFlowNew York, NY$150,000.00-$250,000.002 months ago
+    • h3: Applied AI Engineer
+    • li: Machine Learning EngineerMachine Learning EngineerBeamNew York, NY$120,000.00-$200,000.001 week ago
+    • h3: Machine Learning Engineer
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: ML Engineer (Remote, NYC, Austin)ML Engineer (Remote, NYC, Austin)Trunk ToolsNew York, NY$140,000.00-$200,000.008 months ago
+    • h3: ML Engineer (Remote, NYC, Austin)
+    • li: AI Data ScientistAI Data ScientistExigerJersey City, NJ20 hours ago
+    • h3: AI Data Scientist
+    • li: Senior AI / ML EngineerSenior AI / ML EngineerThird RepublicNew York City Metropolitan Area$200,000.00-$300,000.001 day ago
+    • h3: Senior AI / ML Engineer
+    • li: Machine Learning, Software EngineerMachine Learning, Software EngineerPermitFlowNew York, NY$150,000.00-$250,000.004 days ago
+    • h3: Machine Learning, Software Engineer
+    • li: AI/ML EngineerAI/ML EngineerWarpNew York, NY$180,000.00-$290,000.001 month ago
+    • h3: AI/ML Engineer
+    • li: Data ScientistData ScientistVySystemsJersey City, NJ1 day ago
+    • h3: Data Scientist
+    • li: Machine Learning EngineerMachine Learning EngineerChubbJersey City, NJ$96,300.00-$163,700.005 months ago
+    • h3: Machine Learning Engineer
+    • li: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmQuant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial FirmHunter BondNew York City Metropolitan Area1 day ago
+    • h3: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial Firm
+    • li: AI EngineerAI EngineerTennrNew York, NY1 month ago
+    • h3: AI Engineer
+    • li: Data ScientistData ScientistTundra Technical SolutionsNew York, NY$60.00-$75.001 day ago
+    • h3: Data Scientist
+
+[Div 169]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Engineer
+
+[Div 170]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Engineer
+
+[Div 171]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 172]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Engineer
+
+[Div 173]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Engineer
+
+[Div 174]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 175]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer (Junior)
+
+[Div 176]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer (Junior)
+
+[Div 177]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 178]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer (Junior)
+
+[Div 179]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer (Junior)
+
+[Div 180]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 181]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Software Engineer, Machine Learning
+
+[Div 182]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Software Engineer, Machine Learning
+
+[Div 183]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 184]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer, Analytics
+
+[Div 185]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer, Analytics
+
+[Div 186]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 187]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 188]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 189]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 190]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 191]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 192]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 193]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 194]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 195]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 196]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning Engineer II, Content Evaluation
+
+[Div 197]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning Engineer II, Content Evaluation
+
+[Div 198]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 199]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data & Analytics Engineer
+
+[Div 200]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data & Analytics Engineer
+
+[Div 201]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 202]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 203]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 204]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 205]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Engineer
+
+[Div 206]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Engineer
+
+[Div 207]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 208]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI/ML Engineer (NYC)
+
+[Div 209]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI/ML Engineer (NYC)
+
+[Div 210]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 211]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Applied AI Engineer
+
+[Div 212]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Applied AI Engineer
+
+[Div 213]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 214]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning Engineer
+
+[Div 215]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning Engineer
+
+[Div 216]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 217]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: ML Engineer (Remote, NYC, Austin)
+
+[Div 218]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: ML Engineer (Remote, NYC, Austin)
+
+[Div 219]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 220]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: ML Engineer (Remote, NYC, Austin)
+
+[Div 221]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: ML Engineer (Remote, NYC, Austin)
+
+[Div 222]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 223]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Data Scientist
+
+[Div 224]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Data Scientist
+
+[Div 225]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 226]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Senior AI / ML Engineer
+
+[Div 227]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Senior AI / ML Engineer
+
+[Div 228]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 229]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning, Software Engineer
+
+[Div 230]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning, Software Engineer
+
+[Div 231]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 232]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI/ML Engineer
+
+[Div 233]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI/ML Engineer
+
+[Div 234]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 235]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 236]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 237]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 238]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Machine Learning Engineer
+
+[Div 239]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Machine Learning Engineer
+
+[Div 240]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 241]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial Firm
+
+[Div 242]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Quant Developer/Data Analytics Engineer - Up to $200k + Bonus + Package - Elite Financial Firm
+
+[Div 243]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 244]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: AI Engineer
+
+[Div 245]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: AI Engineer
+
+[Div 246]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 247]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-main-card', 'flex', 'flex-wrap', 'py-2', 'pr-2', 'babybear:pr-0', 'base-main-card--link', 'main-job-card']
+  ➤ id: None
+  ➤ child tags: img, div, a
+    • h3: Data Scientist
+
+[Div 248]
+  ➤ class: ['base-main-card__info', 'self-center', 'ml-1', 'flex-1', 'relative', 'break-words', 'papabear:min-w-0', 'mamabear:min-w-0', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div, h3, h4
+    • h3: Data Scientist
+
+[Div 249]
+  ➤ class: ['body-text', 'text-color-text-low-emphasis', 'base-main-card__metadata']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 250]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Research Engineer – Generative AI – AI FrontiersResearch Engineer – Generative AI – AI FrontiersMicrosoftNew York, NY$100,600 - $258,0001 week agoSoftware Engineer, Machine LearningSoftware Engineer, Machine LearningMetaNew York, NY$56.25 - $173,0001 week agoAI/ML EngineerAI/ML EngineerStarr InsuranceNew York, NY2 weeks agoMachine Learning EngineerMachine Learning EngineerTennrNew York, NY2 months agoAI EngineerAI EngineerFernNew York, NY$170,000 - $210,0004 months agoMachine Learning EngineerMachine Learning EngineerHingeNew York, NY$164,000 - $198,0003 weeks agoData Engineer IData Engineer ICondé NastNew York City Metropolitan Area$119,000 - $137,0004 days agoSoftware Engineer, Chrome, Mac PlatformSoftware Engineer, Chrome, Mac PlatformGoogleNew York, NY$141,000 - $202,0003 days agoAI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyNew York, NY3 weeks agoApplied AI EngineerApplied AI EngineerSnorkel AINew York, NY1 week ago
+    • li: Research Engineer – Generative AI – AI FrontiersResearch Engineer – Generative AI – AI FrontiersMicrosoftNew York, NY$100,600 - $258,0001 week ago
+    • h3: Research Engineer – Generative AI – AI Frontiers
+    • p: Microsoft
+    • li: Software Engineer, Machine LearningSoftware Engineer, Machine LearningMetaNew York, NY$56.25 - $173,0001 week ago
+    • h3: Software Engineer, Machine Learning
+    • p: Meta
+    • li: AI/ML EngineerAI/ML EngineerStarr InsuranceNew York, NY2 weeks ago
+    • h3: AI/ML Engineer
+    • p: Starr Insurance
+    • li: Machine Learning EngineerMachine Learning EngineerTennrNew York, NY2 months ago
+    • h3: Machine Learning Engineer
+    • p: Tennr
+    • li: AI EngineerAI EngineerFernNew York, NY$170,000 - $210,0004 months ago
+    • h3: AI Engineer
+    • p: Fern
+    • li: Machine Learning EngineerMachine Learning EngineerHingeNew York, NY$164,000 - $198,0003 weeks ago
+    • h3: Machine Learning Engineer
+    • p: Hinge
+    • li: Data Engineer IData Engineer ICondé NastNew York City Metropolitan Area$119,000 - $137,0004 days ago
+    • h3: Data Engineer I
+    • p: Condé Nast
+    • li: Software Engineer, Chrome, Mac PlatformSoftware Engineer, Chrome, Mac PlatformGoogleNew York, NY$141,000 - $202,0003 days ago
+    • h3: Software Engineer, Chrome, Mac Platform
+    • p: Google
+    • li: AI Engineer (Remote, USA)AI Engineer (Remote, USA)ShtudyNew York, NY3 weeks ago
+    • h3: AI Engineer (Remote, USA)
+    • p: Shtudy
+    • li: Applied AI EngineerApplied AI EngineerSnorkel AINew York, NY1 week ago
+    • h3: Applied AI Engineer
+    • p: Snorkel AI
+
+[Div 251]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Research Engineer – Generative AI – AI Frontiers
+    • p: Microsoft
+
+[Div 252]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Research Engineer – Generative AI – AI Frontiers
+    • p: Microsoft
+
+[Div 253]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 254]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Machine Learning
+    • p: Meta
+
+[Div 255]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Machine Learning
+    • p: Meta
+
+[Div 256]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 257]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: AI/ML Engineer
+    • p: Starr Insurance
+
+[Div 258]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: AI/ML Engineer
+    • p: Starr Insurance
+
+[Div 259]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 260]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Machine Learning Engineer
+    • p: Tennr
+
+[Div 261]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Machine Learning Engineer
+    • p: Tennr
+
+[Div 262]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 263]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: AI Engineer
+    • p: Fern
+
+[Div 264]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: AI Engineer
+    • p: Fern
+
+[Div 265]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 266]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Machine Learning Engineer
+    • p: Hinge
+
+[Div 267]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Machine Learning Engineer
+    • p: Hinge
+
+[Div 268]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 269]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Data Engineer I
+    • p: Condé Nast
+
+[Div 270]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Data Engineer I
+    • p: Condé Nast
+
+[Div 271]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 272]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Software Engineer, Chrome, Mac Platform
+    • p: Google
+
+[Div 273]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Software Engineer, Chrome, Mac Platform
+    • p: Google
+
+[Div 274]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 275]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: AI Engineer (Remote, USA)
+    • p: Shtudy
+
+[Div 276]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: AI Engineer (Remote, USA)
+    • p: Shtudy
+
+[Div 277]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 278]
+  ➤ class: ['base-card', 'relative', 'w-full', 'hover:no-underline', 'focus:no-underline', 'base-card--link', 'base-aside-card', 'flex', 'my-1.5', 'base-aside-card--link', 'aside-job-card']
+  ➤ id: None
+  ➤ child tags: div, a
+    • h3: Applied AI Engineer
+    • p: Snorkel AI
+
+[Div 279]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3, p
+    • h3: Applied AI Engineer
+    • p: Snorkel AI
+
+[Div 280]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: span, time
+
+[Div 281]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Oracle Technical Consultant jobs3,610 open jobsSAP Functional Analyst jobs7,080 open jobsOracle Functional Consultant jobs2,874 open jobsSupply Chain Management Analyst jobs915 open jobsSenior SAP Consultant jobs6,084 open jobsSAP Functional Consultant jobs2,686 open jobsData Warehouse Engineer jobs39,476 open jobsOracle Consultant jobs5,267 open jobsJava Specialist jobs224,262 open jobsAssociate Engineer jobs48,481 open jobsSharepoint Architect jobs2,027 open jobsSAP Consultant jobs8,111 open jobsManagement Consultant jobs88,968 open jobsSharepoint Developer jobs2,176 open jobsIndustrial Engineer jobs52,372 open jobsFull Stack Engineer jobs38,546 open jobsHuman Resources Specialist jobs34,340 open jobsData Engineer jobs192,126 open jobsSAP Analyst jobs21,967 open jobsDotnet Developer jobs28,038 open jobsData Analyst jobs329,009 open jobsConsultant jobs760,907 open jobs
+    • li: Oracle Technical Consultant jobs3,610 open jobs
+    • h3: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs7,080 open jobs
+    • h3: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs2,874 open jobs
+    • h3: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs915 open jobs
+    • h3: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs6,084 open jobs
+    • h3: Senior SAP Consultant jobs
+    • li: SAP Functional Consultant jobs2,686 open jobs
+    • h3: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs39,476 open jobs
+    • h3: Data Warehouse Engineer jobs
+    • li: Oracle Consultant jobs5,267 open jobs
+    • h3: Oracle Consultant jobs
+    • li: Java Specialist jobs224,262 open jobs
+    • h3: Java Specialist jobs
+    • li: Associate Engineer jobs48,481 open jobs
+    • h3: Associate Engineer jobs
+    • li: Sharepoint Architect jobs2,027 open jobs
+    • h3: Sharepoint Architect jobs
+    • li: SAP Consultant jobs8,111 open jobs
+    • h3: SAP Consultant jobs
+    • li: Management Consultant jobs88,968 open jobs
+    • h3: Management Consultant jobs
+    • li: Sharepoint Developer jobs2,176 open jobs
+    • h3: Sharepoint Developer jobs
+    • li: Industrial Engineer jobs52,372 open jobs
+    • h3: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs38,546 open jobs
+    • h3: Full Stack Engineer jobs
+    • li: Human Resources Specialist jobs34,340 open jobs
+    • h3: Human Resources Specialist jobs
+    • li: Data Engineer jobs192,126 open jobs
+    • h3: Data Engineer jobs
+    • li: SAP Analyst jobs21,967 open jobs
+    • h3: SAP Analyst jobs
+    • li: Dotnet Developer jobs28,038 open jobs
+    • h3: Dotnet Developer jobs
+    • li: Data Analyst jobs329,009 open jobs
+    • h3: Data Analyst jobs
+    • li: Consultant jobs760,907 open jobs
+    • h3: Consultant jobs
+
+[Div 282]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Oracle Technical Consultant jobs3,610 open jobsSAP Functional Analyst jobs7,080 open jobsOracle Functional Consultant jobs2,874 open jobsSupply Chain Management Analyst jobs915 open jobsSenior SAP Consultant jobs6,084 open jobsSAP Functional Consultant jobs2,686 open jobsData Warehouse Engineer jobs39,476 open jobsOracle Consultant jobs5,267 open jobsJava Specialist jobs224,262 open jobsAssociate Engineer jobs48,481 open jobsSharepoint Architect jobs2,027 open jobsSAP Consultant jobs8,111 open jobsManagement Consultant jobs88,968 open jobsSharepoint Developer jobs2,176 open jobsIndustrial Engineer jobs52,372 open jobsFull Stack Engineer jobs38,546 open jobsHuman Resources Specialist jobs34,340 open jobsData Engineer jobs192,126 open jobsSAP Analyst jobs21,967 open jobsDotnet Developer jobs28,038 open jobsData Analyst jobs329,009 open jobsConsultant jobs760,907 open jobs
+    • li: Oracle Technical Consultant jobs3,610 open jobs
+    • h3: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs7,080 open jobs
+    • h3: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs2,874 open jobs
+    • h3: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs915 open jobs
+    • h3: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs6,084 open jobs
+    • h3: Senior SAP Consultant jobs
+    • li: SAP Functional Consultant jobs2,686 open jobs
+    • h3: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs39,476 open jobs
+    • h3: Data Warehouse Engineer jobs
+    • li: Oracle Consultant jobs5,267 open jobs
+    • h3: Oracle Consultant jobs
+    • li: Java Specialist jobs224,262 open jobs
+    • h3: Java Specialist jobs
+    • li: Associate Engineer jobs48,481 open jobs
+    • h3: Associate Engineer jobs
+    • li: Sharepoint Architect jobs2,027 open jobs
+    • h3: Sharepoint Architect jobs
+    • li: SAP Consultant jobs8,111 open jobs
+    • h3: SAP Consultant jobs
+    • li: Management Consultant jobs88,968 open jobs
+    • h3: Management Consultant jobs
+    • li: Sharepoint Developer jobs2,176 open jobs
+    • h3: Sharepoint Developer jobs
+    • li: Industrial Engineer jobs52,372 open jobs
+    • h3: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs38,546 open jobs
+    • h3: Full Stack Engineer jobs
+    • li: Human Resources Specialist jobs34,340 open jobs
+    • h3: Human Resources Specialist jobs
+    • li: Data Engineer jobs192,126 open jobs
+    • h3: Data Engineer jobs
+    • li: SAP Analyst jobs21,967 open jobs
+    • h3: SAP Analyst jobs
+    • li: Dotnet Developer jobs28,038 open jobs
+    • h3: Dotnet Developer jobs
+    • li: Data Analyst jobs329,009 open jobs
+    • h3: Data Analyst jobs
+    • li: Consultant jobs760,907 open jobs
+    • h3: Consultant jobs
+
+[Div 283]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Oracle Technical Consultant jobs
+
+[Div 284]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 285]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: SAP Functional Analyst jobs
+
+[Div 286]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 287]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Oracle Functional Consultant jobs
+
+[Div 288]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 289]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Supply Chain Management Analyst jobs
+
+[Div 290]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 291]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Senior SAP Consultant jobs
+
+[Div 292]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 293]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: SAP Functional Consultant jobs
+
+[Div 294]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 295]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Data Warehouse Engineer jobs
+
+[Div 296]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 297]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Oracle Consultant jobs
+
+[Div 298]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 299]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Java Specialist jobs
+
+[Div 300]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 301]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Associate Engineer jobs
+
+[Div 302]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 303]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Sharepoint Architect jobs
+
+[Div 304]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 305]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: SAP Consultant jobs
+
+[Div 306]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 307]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Management Consultant jobs
+
+[Div 308]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 309]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Sharepoint Developer jobs
+
+[Div 310]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 311]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Industrial Engineer jobs
+
+[Div 312]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 313]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Full Stack Engineer jobs
+
+[Div 314]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 315]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Human Resources Specialist jobs
+
+[Div 316]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 317]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Data Engineer jobs
+
+[Div 318]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 319]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: SAP Analyst jobs
+
+[Div 320]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 321]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Dotnet Developer jobs
+
+[Div 322]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 323]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Data Analyst jobs
+
+[Div 324]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 325]
+  ➤ class: ['base-aside-card__info', 'self-center', 'pl-0.5', 'flex', 'flex-col', 'flex-1']
+  ➤ id: None
+  ➤ child tags: div, h3
+    • h3: Consultant jobs
+
+[Div 326]
+  ➤ class: ['base-aside-card__metadata', 'font-sans', 'text-sm', 'leading-open', 'font-regular', 'text-color-text-low-emphasis', 'mt-0.5']
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 327]
+  ➤ class: ['aside-section-container__content', 'break-words']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Explore collaborative articles
+    • p: We’re unlocking community knowledge in a new way. Experts add insights directly into each article, started with the help of AI.
+
+[Div 328]
+  ➤ class: ['flex', 'flex-row']
+  ➤ id: None
+  ➤ child tags: h2, img
+    • h2: Explore collaborative articles
+
+[Div 329]
+  ➤ class: ['pre-footer']
+  ➤ id: None
+  ➤ child tags: section
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobsCredit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobsThermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobsCanadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobsCredit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobsThermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobsCanadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobs
+    • li: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs
+    • li: OMP jobs
+    • li: Amica Insurance jobs
+    • li: The Select Group jobs
+    • li: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs
+    • li: enVista jobs
+    • li: Oracle Consultant jobs
+    • li: Java Specialist jobs
+    • li: Americold Logistics, LLC. jobs
+    • li: e2open jobs
+    • ul: Credit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobs
+    • li: Credit Karma jobs
+    • li: Associate Engineer jobs
+    • li: Sharepoint Architect jobs
+    • li: SAP Consultant jobs
+    • li: Dunham's Sports jobs
+    • li: Understanding Recruitment jobs
+    • li: Kforce Inc jobs
+    • li: ComPsych jobs
+    • li: State of Wisconsin Investment Board jobs
+    • li: Marathon TS jobs
+    • li: HARMAN International jobs
+    • li: Franklin Energy jobs
+    • li: Oracle jobs
+    • li: Management Consultant jobs
+    • li: Sharepoint Developer jobs
+    • ul: Thermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobs
+    • li: Thermo Fisher Scientific jobs
+    • li: Lowe's Companies, Inc. jobs
+    • li: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs
+    • li: ActBlue jobs
+    • li: CompuGain jobs
+    • li: Hughes jobs
+    • li: TORY BURCH jobs
+    • li: CNA Insurance jobs
+    • li: Human Resources Specialist jobs
+    • li: White & Case LLP jobs
+    • li: Vanderbilt University Medical Center jobs
+    • li: Brady Corporation jobs
+    • li: Data Engineer jobs
+    • li: SimVentions jobs
+    • ul: Canadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Canadian Solar Inc. jobs
+    • li: Kimley-Horn jobs
+    • li: Aspen Technology jobs
+    • li: INFUSE jobs
+    • li: hims & hers jobs
+    • li: SAP Analyst jobs
+    • li: HashiCorp jobs
+    • li: Dotnet Developer jobs
+    • li: Data Analyst jobs
+    • li: Bezos Academy jobs
+    • li: MillenniumSoft Inc jobs
+    • li: Technica Corporation jobs
+    • li: Global Pharma Tek jobs
+    • li: Peterson Technology Partners jobs
+    • li: Consultant jobs
+
+[Div 330]
+  ➤ class: ['show-more-less']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobsCredit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobsThermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobsCanadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobsCredit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobsThermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobsCanadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobs
+    • li: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs
+    • li: OMP jobs
+    • li: Amica Insurance jobs
+    • li: The Select Group jobs
+    • li: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs
+    • li: enVista jobs
+    • li: Oracle Consultant jobs
+    • li: Java Specialist jobs
+    • li: Americold Logistics, LLC. jobs
+    • li: e2open jobs
+    • ul: Credit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobs
+    • li: Credit Karma jobs
+    • li: Associate Engineer jobs
+    • li: Sharepoint Architect jobs
+    • li: SAP Consultant jobs
+    • li: Dunham's Sports jobs
+    • li: Understanding Recruitment jobs
+    • li: Kforce Inc jobs
+    • li: ComPsych jobs
+    • li: State of Wisconsin Investment Board jobs
+    • li: Marathon TS jobs
+    • li: HARMAN International jobs
+    • li: Franklin Energy jobs
+    • li: Oracle jobs
+    • li: Management Consultant jobs
+    • li: Sharepoint Developer jobs
+    • ul: Thermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobs
+    • li: Thermo Fisher Scientific jobs
+    • li: Lowe's Companies, Inc. jobs
+    • li: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs
+    • li: ActBlue jobs
+    • li: CompuGain jobs
+    • li: Hughes jobs
+    • li: TORY BURCH jobs
+    • li: CNA Insurance jobs
+    • li: Human Resources Specialist jobs
+    • li: White & Case LLP jobs
+    • li: Vanderbilt University Medical Center jobs
+    • li: Brady Corporation jobs
+    • li: Data Engineer jobs
+    • li: SimVentions jobs
+    • ul: Canadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Canadian Solar Inc. jobs
+    • li: Kimley-Horn jobs
+    • li: Aspen Technology jobs
+    • li: INFUSE jobs
+    • li: hims & hers jobs
+    • li: SAP Analyst jobs
+    • li: HashiCorp jobs
+    • li: Dotnet Developer jobs
+    • li: Data Analyst jobs
+    • li: Bezos Academy jobs
+    • li: MillenniumSoft Inc jobs
+    • li: Technica Corporation jobs
+    • li: Global Pharma Tek jobs
+    • li: Peterson Technology Partners jobs
+    • li: Consultant jobs
+
+[Div 331]
+  ➤ class: ['max-w-screen-content-max-w', 'w-full', 'flex', 'justify-between', 'my-0', 'mx-auto', 'mamabear:px-3', 'babybear:px-2', 'babybear:flex-col']
+  ➤ id: None
+  ➤ child tags: div
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobs
+    • li: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs
+    • li: OMP jobs
+    • li: Amica Insurance jobs
+    • li: The Select Group jobs
+    • li: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs
+    • li: enVista jobs
+    • li: Oracle Consultant jobs
+    • li: Java Specialist jobs
+    • li: Americold Logistics, LLC. jobs
+    • li: e2open jobs
+    • ul: Credit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobs
+    • li: Credit Karma jobs
+    • li: Associate Engineer jobs
+    • li: Sharepoint Architect jobs
+    • li: SAP Consultant jobs
+    • li: Dunham's Sports jobs
+    • li: Understanding Recruitment jobs
+    • li: Kforce Inc jobs
+    • li: ComPsych jobs
+    • li: State of Wisconsin Investment Board jobs
+    • li: Marathon TS jobs
+    • li: HARMAN International jobs
+    • li: Franklin Energy jobs
+    • li: Oracle jobs
+    • li: Management Consultant jobs
+    • li: Sharepoint Developer jobs
+    • ul: Thermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobs
+    • li: Thermo Fisher Scientific jobs
+    • li: Lowe's Companies, Inc. jobs
+    • li: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs
+    • li: ActBlue jobs
+    • li: CompuGain jobs
+    • li: Hughes jobs
+    • li: TORY BURCH jobs
+    • li: CNA Insurance jobs
+    • li: Human Resources Specialist jobs
+    • li: White & Case LLP jobs
+    • li: Vanderbilt University Medical Center jobs
+    • li: Brady Corporation jobs
+    • li: Data Engineer jobs
+    • li: SimVentions jobs
+    • ul: Canadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Canadian Solar Inc. jobs
+    • li: Kimley-Horn jobs
+    • li: Aspen Technology jobs
+    • li: INFUSE jobs
+    • li: hims & hers jobs
+    • li: SAP Analyst jobs
+    • li: HashiCorp jobs
+    • li: Dotnet Developer jobs
+    • li: Data Analyst jobs
+    • li: Bezos Academy jobs
+    • li: MillenniumSoft Inc jobs
+    • li: Technica Corporation jobs
+    • li: Global Pharma Tek jobs
+    • li: Peterson Technology Partners jobs
+    • li: Consultant jobs
+
+[Div 332]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Oracle Technical Consultant jobsSAP Functional Analyst jobsOracle Functional Consultant jobsSupply Chain Management Analyst jobsSenior SAP Consultant jobsOMP jobsAmica Insurance jobsThe Select Group jobsSAP Functional Consultant jobsData Warehouse Engineer jobsenVista jobsOracle Consultant jobsJava Specialist jobsAmericold Logistics, LLC. jobse2open jobs
+    • li: Oracle Technical Consultant jobs
+    • li: SAP Functional Analyst jobs
+    • li: Oracle Functional Consultant jobs
+    • li: Supply Chain Management Analyst jobs
+    • li: Senior SAP Consultant jobs
+    • li: OMP jobs
+    • li: Amica Insurance jobs
+    • li: The Select Group jobs
+    • li: SAP Functional Consultant jobs
+    • li: Data Warehouse Engineer jobs
+    • li: enVista jobs
+    • li: Oracle Consultant jobs
+    • li: Java Specialist jobs
+    • li: Americold Logistics, LLC. jobs
+    • li: e2open jobs
+
+[Div 333]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Credit Karma jobsAssociate Engineer jobsSharepoint Architect jobsSAP Consultant jobsDunham's Sports jobsUnderstanding Recruitment jobsKforce Inc jobsComPsych jobsState of Wisconsin Investment Board jobsMarathon TS jobsHARMAN International jobsFranklin Energy jobsOracle jobsManagement Consultant jobsSharepoint Developer jobs
+    • li: Credit Karma jobs
+    • li: Associate Engineer jobs
+    • li: Sharepoint Architect jobs
+    • li: SAP Consultant jobs
+    • li: Dunham's Sports jobs
+    • li: Understanding Recruitment jobs
+    • li: Kforce Inc jobs
+    • li: ComPsych jobs
+    • li: State of Wisconsin Investment Board jobs
+    • li: Marathon TS jobs
+    • li: HARMAN International jobs
+    • li: Franklin Energy jobs
+    • li: Oracle jobs
+    • li: Management Consultant jobs
+    • li: Sharepoint Developer jobs
+
+[Div 334]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Thermo Fisher Scientific jobsLowe's Companies, Inc. jobsIndustrial Engineer jobsFull Stack Engineer jobsActBlue jobsCompuGain jobsHughes jobsTORY BURCH jobsCNA Insurance jobsHuman Resources Specialist jobsWhite & Case LLP jobsVanderbilt University Medical Center jobsBrady Corporation jobsData Engineer jobsSimVentions jobs
+    • li: Thermo Fisher Scientific jobs
+    • li: Lowe's Companies, Inc. jobs
+    • li: Industrial Engineer jobs
+    • li: Full Stack Engineer jobs
+    • li: ActBlue jobs
+    • li: CompuGain jobs
+    • li: Hughes jobs
+    • li: TORY BURCH jobs
+    • li: CNA Insurance jobs
+    • li: Human Resources Specialist jobs
+    • li: White & Case LLP jobs
+    • li: Vanderbilt University Medical Center jobs
+    • li: Brady Corporation jobs
+    • li: Data Engineer jobs
+    • li: SimVentions jobs
+
+[Div 335]
+  ➤ class: ['flex-1', 'w-1/2', 'pt-2', 'pr-4', 'pb-4', 'pl-0', 'babybear:pb-2', 'babybear:w-full', 'babybear:border-b-1', 'babybear:border-solid', 'babybear:border-color-border-low-emphasis', 'babybear:last:border-b-0']
+  ➤ id: None
+  ➤ child tags: ul
+    • ul: Canadian Solar Inc. jobsKimley-Horn jobsAspen Technology jobsINFUSE jobshims & hers jobsSAP Analyst jobsHashiCorp jobsDotnet Developer jobsData Analyst jobsBezos Academy jobsMillenniumSoft Inc jobsTechnica Corporation jobsGlobal Pharma Tek jobsPeterson Technology Partners jobsConsultant jobs
+    • li: Canadian Solar Inc. jobs
+    • li: Kimley-Horn jobs
+    • li: Aspen Technology jobs
+    • li: INFUSE jobs
+    • li: hims & hers jobs
+    • li: SAP Analyst jobs
+    • li: HashiCorp jobs
+    • li: Dotnet Developer jobs
+    • li: Data Analyst jobs
+    • li: Bezos Academy jobs
+    • li: MillenniumSoft Inc jobs
+    • li: Technica Corporation jobs
+    • li: Global Pharma Tek jobs
+    • li: Peterson Technology Partners jobs
+    • li: Consultant jobs
+
+[Div 336]
+  ➤ class: ['collapsible-dropdown', 'collapsible-dropdown--footer', 'collapsible-dropdown--up', 'flex', 'items-center', 'relative', 'hyphens-auto', 'language-selector', 'z-2']
+  ➤ id: None
+  ➤ child tags: ul, button
+    • ul: العربية (Arabic)বাংলা (Bangla)Čeština (Czech)Dansk (Danish)Deutsch (German)Ελληνικά (Greek)English (English)Español (Spanish)فارسی (Persian)Suomi (Finnish)Français (French)हिंदी (Hindi)Magyar (Hungarian)Bahasa Indonesia (Indonesian)Italiano (Italian)עברית (Hebrew)日本語 (Japanese)한국어 (Korean)मराठी (Marathi)Bahasa Malaysia (Malay)Nederlands (Dutch)Norsk (Norwegian)ਪੰਜਾਬੀ (Punjabi)Polski (Polish)Português (Portuguese)Română (Romanian)Русский (Russian)Svenska (Swedish)తెలుగు (Telugu)ภาษาไทย (Thai)Tagalog (Tagalog)Türkçe (Turkish)Українська (Ukrainian)Tiếng Việt (Vietnamese)简体中文 (Chinese (Simplified))正體中文 (Chinese (Traditional))
+    • li: العربية (Arabic)
+    • li: বাংলা (Bangla)
+    • li: Čeština (Czech)
+    • li: Dansk (Danish)
+    • li: Deutsch (German)
+    • li: Ελληνικά (Greek)
+    • li: English (English)
+    • li: Español (Spanish)
+    • li: فارسی (Persian)
+    • li: Suomi (Finnish)
+    • li: Français (French)
+    • li: हिंदी (Hindi)
+    • li: Magyar (Hungarian)
+    • li: Bahasa Indonesia (Indonesian)
+    • li: Italiano (Italian)
+    • li: עברית (Hebrew)
+    • li: 日本語 (Japanese)
+    • li: 한국어 (Korean)
+    • li: मराठी (Marathi)
+    • li: Bahasa Malaysia (Malay)
+    • li: Nederlands (Dutch)
+    • li: Norsk (Norwegian)
+    • li: ਪੰਜਾਬੀ (Punjabi)
+    • li: Polski (Polish)
+    • li: Português (Portuguese)
+    • li: Română (Romanian)
+    • li: Русский (Russian)
+    • li: Svenska (Swedish)
+    • li: తెలుగు (Telugu)
+    • li: ภาษาไทย (Thai)
+    • li: Tagalog (Tagalog)
+    • li: Türkçe (Turkish)
+    • li: Українська (Ukrainian)
+    • li: Tiếng Việt (Vietnamese)
+    • li: 简体中文 (Chinese (Simplified))
+    • li: 正體中文 (Chinese (Traditional))
+
+[Div 337]
+  ➤ class: ['guest-upsells']
+  ➤ id: None
+  ➤ child tags: div, script, form
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 338]
+  ➤ class: ['google-one-tap__module', 'hidden', 'fixed', 'flex', 'flex-col', 'items-center', 'top-[20px]', 'right-[20px]', 'z-[9999]']
+  ➤ id: None
+  ➤ child tags: div
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 339]
+  ➤ class: ['google-auth__tnc-container', 'hidden', 'relative', 'top-2', 'bg-color-background-container-tint', 'pl-2', 'pr-1', 'pt-2', 'pb-3', 'w-[375px]', 'rounded-md', 'shadow-2xl']
+  ➤ id: None
+  ➤ child tags: p
+    • p: Agree & Join LinkedIn
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 340]
+  ➤ class: None
+  ➤ id: google-one-tap__container
+  ➤ child tags: 
+
+[Div 341]
+  ➤ class: ['loader', 'loader--full-screen']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 342]
+  ➤ class: ['loader__container', 'mb-2', 'overflow-hidden']
+  ➤ id: None
+  ➤ child tags: icon
+
+[Div 343]
+  ➤ class: ['contextual-sign-in-modal', 'base-contextual-sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 344]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 345]
+  ➤ class: ['toasts', 'fixed', 'z-8', 'babybear:right-4', 'mamabear:right-4', 'papabear:min-h-[96px]', 'invisible', 'top:auto', 'bottom-4', 'left-4', 'papabear:w-[400px]', 'toasts--bottom']
+  ➤ id: toasts
+  ➤ child tags: template
+
+[Div 346]
+  ➤ class: ['toast', 'container-raised', 'flex', 'toast--bottom', 'transition', 'ease-accelerate', 'duration-xxslow']
+  ➤ id: None
+  ➤ child tags: div, button
+
+[Div 347]
+  ➤ class: ['toast__message', 'flex', 'flex-1', 'babybear:items-center', 'mamabear:items-center', 'papabear:items-start', 'py-2', 'px-1.5']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 348]
+  ➤ class: ['toast__message-content-container']
+  ➤ id: None
+  ➤ child tags: p
+
+[Div 349]
+  ➤ class: ['top-level-modal-container']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at SIDRAM TECHNOLOGIES
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 350]
+  ➤ class: ['modal', 'modal--contextual-sign-in']
+  ➤ id: base-contextual-sign-in-modal
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at SIDRAM TECHNOLOGIES
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 351]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4', 'modal__overlay--visible']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Sign in to see who you already know at SIDRAM TECHNOLOGIES
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 352]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Sign in to see who you already know at SIDRAM TECHNOLOGIES
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 353]
+  ➤ class: ['contextual-sign-in-modal__screen', 'contextual-sign-in-modal__context-screen', 'flex', 'flex-col', 'my-4', 'mx-3']
+  ➤ id: None
+  ➤ child tags: div, h2, p, img
+    • h2: Sign in to see who you already know at SIDRAM TECHNOLOGIES
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+    • p: New to LinkedIn?Join now
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 354]
+  ➤ class: ['contextual-sign-in-modal__btn-container', 'm-auto', 'w-[320px]', 'babybear:w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+    • p: or
+
+[Div 355]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 356]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 357]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 358]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 359]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 360]
+  ➤ class: ['sign-in-modal']
+  ➤ id: None
+  ➤ child tags: div, button
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 361]
+  ➤ class: []
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 362]
+  ➤ class: ['modal', 'modal--sign-in']
+  ➤ id: base-sign-in-modal
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 363]
+  ➤ class: ['modal__overlay', 'flex', 'items-center', 'bg-color-background-scrim', 'justify-center', 'fixed', 'bottom-0', 'left-0', 'right-0', 'top-0', 'opacity-0', 'invisible', 'pointer-events-none', 'z-[1000]', 'transition-[opacity]', 'ease-[cubic-bezier(0.25,0.1,0.25,1.0)]', 'duration-[0.17s]', 'py-4']
+  ➤ id: None
+  ➤ child tags: section
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 364]
+  ➤ class: ['modal__main', 'w-full']
+  ➤ id: None
+  ➤ child tags: div
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 365]
+  ➤ class: ['sign-in-modal__screen', 'flex', 'flex-col', 'py-4', 'w-[513px]', 'babybear:w-full', 'px-3']
+  ➤ id: None
+  ➤ child tags: div, p, form, code, h2
+    • h2: Welcome back
+    • p: or
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+    • p: New to LinkedIn?Join now
+
+[Div 366]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, input
+
+[Div 367]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 368]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 369]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: input
+
+[Div 370]
+  ➤ class: ['mt-1.5']
+  ➤ id: None
+  ➤ child tags: div, p
+
+[Div 371]
+  ➤ class: ['flex', 'flex-col']
+  ➤ id: None
+  ➤ child tags: div, label
+
+[Div 372]
+  ➤ class: ['text-input', 'flex']
+  ➤ id: None
+  ➤ child tags: button, input
+
+[Div 373]
+  ➤ class: ['flex', 'justify-between', 'sign-in-form__footer--full-width']
+  ➤ id: None
+  ➤ child tags: input, button, a
+
+[Div 374]
+  ➤ class: ['sign-in-form__divider', 'left-right-divider', 'pt-2', 'pb-3']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 375]
+  ➤ class: ['w-full', 'max-w-[400px]', 'mx-auto']
+  ➤ id: None
+  ➤ child tags: div
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 376]
+  ➤ class: ['google-auth-button']
+  ➤ id: None
+  ➤ child tags: div, p
+    • p: By clicking Continue to join or sign in, you agree to LinkedIn’sUser Agreement,Privacy Policy, andCookie Policy.
+
+[Div 377]
+  ➤ class: ['google-auth-button__placeholder', 'mx-auto', 'google-auth-button__placeholder--black-border']
+  ➤ id: None
+  ➤ child tags: div
+
+[Div 378]
+  ➤ class: ['S9gUrf-YoZ4jf']
+  ➤ id: None
+  ➤ child tags: div, iframe
+
+[Div 379]
+  ➤ class: None
+  ➤ id: None
+  ➤ child tags: 
+
+[Div 380]
+  ➤ class: ['contextual-sign-in-modal__divider', 'left-right-divider']
+  ➤ id: None
+  ➤ child tags: p
+    • p: or
+
+[Div 381]
+  ➤ class: None
+  ➤ id: batBeacon952761199588
+  ➤ child tags: img
+
+
+🧾 Form Fields:
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-keywords', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'N/A', 'Type': 'search', 'ID': 'job-search-bar-location', 'Required': 'false', 'Autocomplete': 'off'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'search', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'on'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_fit_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'public_jobs_ai_button_resume_contextual_sign_in_info_modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'alert-toggle-sign-in-modal_sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'alert-toggle-sign-in-modal_sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Email or phone', 'Type': 'text', 'ID': 'base-sign-in-modal_session_key', 'Required': 'false', 'Autocomplete': 'username'}
+{'Label': 'Password', 'Type': 'password', 'ID': 'base-sign-in-modal_session_password', 'Required': 'false', 'Autocomplete': 'current-password'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}
+{'Label': 'Clear text', 'Type': 'hidden', 'ID': 'N/A', 'Required': 'false', 'Autocomplete': 'N/A'}

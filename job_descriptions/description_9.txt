@@ -1,0 +1,340 @@
+AI Engineer & Researcher, Inference
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use casesDeploy and operate the core ML inference workloads for our AI Voices serving pipelineIntroduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed modelsBuild tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
+Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
+Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
+Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Experience shipping Python-based servicesExperience being responsible for the successful operation of a critical production serviceExperience with public cloud environments, GCP preferredExperience with Infrastructure such as Code, Docker, and containerized deployments.Preferred: Experience deploying high-availability applications on Kubernetes.Preferred: Experience deploying ML models to production
+Experience shipping Python-based services
+Experience being responsible for the successful operation of a critical production service
+Experience with public cloud environments, GCP preferred
+Experience with Infrastructure such as Code, Docker, and containerized deployments.
+Preferred: Experience deploying high-availability applications on Kubernetes.
+Preferred: Experience deploying ML models to production
+What We Offer
+A dynamic environment where your contributions shape the company and its productsA team that values innovation, intuition, and driveAutonomy, fostering focus and creativityThe opportunity to have a significant impact in a revolutionary industryCompetitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work cultureThe privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and moreAn active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+A dynamic environment where your contributions shape the company and its products
+A team that values innovation, intuition, and drive
+Autonomy, fostering focus and creativity
+The opportunity to have a significant impact in a revolutionary industry
+Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+Think you’re a good fit for this job?
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?
+Refer them!
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+AI Engineer & Researcher, Inference
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use casesDeploy and operate the core ML inference workloads for our AI Voices serving pipelineIntroduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed modelsBuild tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
+Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
+Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
+Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Experience shipping Python-based servicesExperience being responsible for the successful operation of a critical production serviceExperience with public cloud environments, GCP preferredExperience with Infrastructure such as Code, Docker, and containerized deployments.Preferred: Experience deploying high-availability applications on Kubernetes.Preferred: Experience deploying ML models to production
+Experience shipping Python-based services
+Experience being responsible for the successful operation of a critical production service
+Experience with public cloud environments, GCP preferred
+Experience with Infrastructure such as Code, Docker, and containerized deployments.
+Preferred: Experience deploying high-availability applications on Kubernetes.
+Preferred: Experience deploying ML models to production
+What We Offer
+A dynamic environment where your contributions shape the company and its productsA team that values innovation, intuition, and driveAutonomy, fostering focus and creativityThe opportunity to have a significant impact in a revolutionary industryCompetitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work cultureThe privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and moreAn active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+A dynamic environment where your contributions shape the company and its products
+A team that values innovation, intuition, and drive
+Autonomy, fostering focus and creativity
+The opportunity to have a significant impact in a revolutionary industry
+Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+Think you’re a good fit for this job?
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?
+Refer them!
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+AI Engineer & Researcher, Inference
+AI Engineer & Researcher, Inference
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use casesDeploy and operate the core ML inference workloads for our AI Voices serving pipelineIntroduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed modelsBuild tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
+Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
+Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
+Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Experience shipping Python-based servicesExperience being responsible for the successful operation of a critical production serviceExperience with public cloud environments, GCP preferredExperience with Infrastructure such as Code, Docker, and containerized deployments.Preferred: Experience deploying high-availability applications on Kubernetes.Preferred: Experience deploying ML models to production
+Experience shipping Python-based services
+Experience being responsible for the successful operation of a critical production service
+Experience with public cloud environments, GCP preferred
+Experience with Infrastructure such as Code, Docker, and containerized deployments.
+Preferred: Experience deploying high-availability applications on Kubernetes.
+Preferred: Experience deploying ML models to production
+What We Offer
+A dynamic environment where your contributions shape the company and its productsA team that values innovation, intuition, and driveAutonomy, fostering focus and creativityThe opportunity to have a significant impact in a revolutionary industryCompetitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work cultureThe privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and moreAn active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+A dynamic environment where your contributions shape the company and its products
+A team that values innovation, intuition, and drive
+Autonomy, fostering focus and creativity
+The opportunity to have a significant impact in a revolutionary industry
+Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+Think you’re a good fit for this job?
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?
+Refer them!
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+The mission of Speechify is to make sure that reading is never a barrier to learning.
+Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so they can read faster, read more, and remember more. Speechify’s text-to-speech reading products include its iOS app, Android App, Mac App, Chrome Extension, and Web App. Google recently named Speechify the Chrome Extension of the Year and Apple named Speechify its App of the Day.
+Today, nearly 200 people around the globe work on Speechify in a 100% distributed setting – Speechify has no office. These include frontend and backend engineers, AI research scientists, and others from Amazon, Microsoft, and Google, leading PhD programs like Stanford, high growth startups like Stripe, Vercel, Bolt, and many founders of their own companies.
+This is a key role and ideal for someone who thinks strategically, enjoys fast-paced environments, passionate about making product decisions, and has experience building great user experiences that delight users.
+We are a flat organization that allows anyone to become a leader by showing excellent technical skills and delivering results consistently and fast. Work ethic, solid communication skills, and obsession with winning are paramount.
+Our interview process involves several technical interviews and we aim to complete them within 1 week.
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use casesDeploy and operate the core ML inference workloads for our AI Voices serving pipelineIntroduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed modelsBuild tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Work alongside machine learning researchers, engineers, and product managers to bring our AI Voices to their customers for a diverse range of use cases
+Deploy and operate the core ML inference workloads for our AI Voices serving pipeline
+Introduce new techniques, tools, and architecture that improve the performance, latency, throughput, and efficiency of our deployed models
+Build tools to give us visibility into our bottlenecks and sources of instability and then design and implement solutions to address the highest priority issues
+Experience shipping Python-based servicesExperience being responsible for the successful operation of a critical production serviceExperience with public cloud environments, GCP preferredExperience with Infrastructure such as Code, Docker, and containerized deployments.Preferred: Experience deploying high-availability applications on Kubernetes.Preferred: Experience deploying ML models to production
+Experience shipping Python-based services
+Experience being responsible for the successful operation of a critical production service
+Experience with public cloud environments, GCP preferred
+Experience with Infrastructure such as Code, Docker, and containerized deployments.
+Preferred: Experience deploying high-availability applications on Kubernetes.
+Preferred: Experience deploying ML models to production
+What We Offer
+A dynamic environment where your contributions shape the company and its productsA team that values innovation, intuition, and driveAutonomy, fostering focus and creativityThe opportunity to have a significant impact in a revolutionary industryCompetitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work cultureThe privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and moreAn active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+A dynamic environment where your contributions shape the company and its products
+A team that values innovation, intuition, and drive
+Autonomy, fostering focus and creativity
+The opportunity to have a significant impact in a revolutionary industry
+Competitive compensation, a welcoming atmosphere, and a commitment to an exceptional asynchronous work culture
+The privilege of working on a product that changes lives, particularly for those with learning differences like dyslexia, ADD, and more
+An active role at the intersection of artificial intelligence and audio – a rapidly evolving tech domain
+Think you’re a good fit for this job?
+Tell us more about yourself and why you're interested in the role when you apply.And don’t forget to include links to your portfolio and LinkedIn.
+Not looking but know someone who would make a great fit?
+Refer them!
+Speechify is committed to a diverse and inclusive workplace.
+Speechify does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+Apply for this job
+*
+indicates a required field
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+Apply for this job
+*
+indicates a required field
+*
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Accepted file types: pdf, doc, docx, txt, rtf
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Voluntary Self-Identification
+For government reporting purposes, we ask candidates to respond to the below self-identification survey.
+Completion of the form is entirely voluntary. Whatever your decision, it will not be considered in the hiring
+process or thereafter. Any information that you do provide will be recorded and maintained in a
+confidential file.
+As set forth in Speechify’s Equal Employment Opportunity policy,
+we do not discriminate on the basis of any protected group status under any applicable law.
+If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+  As a government contractor subject to the Vietnam Era Veterans Readjustment Assistance Act (VEVRAA), we request this information in order to measure
+  the effectiveness of the outreach and positive recruitment efforts we undertake pursuant to VEVRAA. Classification of protected categories
+  is as follows:
+A "disabled veteran" is one of the following: a veteran of the U.S. military, ground, naval or air service who is entitled to compensation (or who but for the receipt of military retired pay would be entitled to compensation) under laws administered by the Secretary of Veterans Affairs; or a person who was discharged or released from active duty because of a service-connected disability.
+A "recently separated veteran" means any veteran during the three-year period beginning on the date of such veteran's discharge or release from active duty in the U.S. military, ground, naval, or air service.
+An "active duty wartime or campaign badge veteran" means a veteran who served on active duty in the U.S. military, ground, naval or air service during a war, or in a campaign or expedition for which a campaign badge has been authorized under the laws administered by the Department of Defense.
+An "Armed forces service medal veteran" means a veteran who, while serving on active duty in the U.S. military, ground, naval or air service, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order 12985.
+Voluntary Self-Identification of Disability
+We are a federal contractor or subcontractor. The law requires us to provide equal employment opportunity to qualified people with disabilities. We have a goal of having at least 7% of our workers as people with disabilities. The law says we must measure our progress towards this goal. To do this, we must ask applicants and employees if they have a disability or have ever had one. People can become disabled, so we need to ask this question at least every five years.
+Completing this form is voluntary, and we hope that you will choose to do so. Your answer is confidential. No one who makes hiring decisions will see it. Your decision to complete the form and your answer will not harm you in any way. If you want to learn more about the law or this form, visit the U.S. Department of Labor’s Office of Federal Contract Compliance Programs (OFCCP) website atwww.dol.gov/ofccp.
+A disability is a condition that substantially limits one or more of your “major life activities.” If you have or have ever had such a condition, you are a person with a disability.Disabilities include, but are not limited to:
+Alcohol or other substance use disorder (not currently using drugs illegally)Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDSBlind or low visionCancer (past or present)Cardiovascular or heart diseaseCeliac diseaseCerebral palsyDeaf or serious difficulty hearingDiabetesDisfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disordersEpilepsy or other seizure disorderGastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndromeIntellectual or developmental disabilityMental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSDMissing limbs or partially missing limbsMobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supportsNervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilitiesPartial or complete paralysis (any cause)Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysemaShort stature (dwarfism)Traumatic brain injury
+Alcohol or other substance use disorder (not currently using drugs illegally)
+Autoimmune disorder, for example, lupus, fibromyalgia, rheumatoid arthritis, HIV/AIDS
+Blind or low vision
+Cancer (past or present)
+Cardiovascular or heart disease
+Celiac disease
+Cerebral palsy
+Deaf or serious difficulty hearing
+Diabetes
+Disfigurement, for example, disfigurement caused by burns, wounds, accidents, or congenital disorders
+Epilepsy or other seizure disorder
+Gastrointestinal disorders, for example, Crohn's Disease, irritable bowel syndrome
+Intellectual or developmental disability
+Mental health conditions, for example, depression, bipolar disorder, anxiety disorder, schizophrenia, PTSD
+Missing limbs or partially missing limbs
+Mobility impairment, benefiting from the use of a wheelchair, scooter, walker, leg brace(s) and/or other supports
+Nervous system condition, for example, migraine headaches, Parkinson’s disease, multiple sclerosis (MS)
+Neurodivergence, for example, attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorder, dyslexia, dyspraxia, other learning disabilities
+Partial or complete paralysis (any cause)
+Pulmonary or respiratory conditions, for example, tuberculosis, asthma, emphysema
+Short stature (dwarfism)
+Traumatic brain injury
+PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete.
+Powered by
+Read ourPrivacy Policy
